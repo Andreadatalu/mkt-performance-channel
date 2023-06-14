@@ -1,0 +1,997 @@
+Name,Age,Gender,State,Product,Price,Purchase_day,Promotion,Final price,Profit,Sales_channel
+Elizabeth Davies,25,female,Monterrey,Rubí,1900,05/08/2022,0%,1900,1596,Google ads
+Emma Rodriguez,26,female,Baja California,Rubí,1900,3/7/2022,0%,1900,1596,Instagram
+Joanne Roberts,43,female,Guadalajara,Rubí,1900,20/07/2022,0%,1900,1596,Website
+Ava Thomas,29,female,Guadalajara,Diamante,2800,08/11/2022,10%,2520,"2116,8",Facebook Ads
+Mary Walsh,28,female,Quintana Roo,Diamante,2800,08/10/2022,30%,1960,"1646,4",Facebook Ads
+Olivia Garcia,28,female,Nuevo León,Rubí,1900,08/10/2022,0%,1900,1596,Website
+Emma Williams,29,female,Veracruz,Diamante,2800,6/7/2022,10%,2520,"2116,8",Email
+Isla Johnson,26,male,Chihuahua,Rubí,1900,5/10/2022,0%,1900,1596,Google ads
+Noah Miller,30,female,Baja California,Diamante,2800,4/11/2022,0%,2800,2352,Facebook Ads
+Samantha Byrne,29,female,Monterrey,Diamante,2800,12/7/2022,0%,2800,2352,Instagram
+Elizabeth O'Kelly,29,female,Zacatecas,Diamante,2800,2/8/2022,30%,1960,"1646,4",Email
+Isla Smith,26,male,Guadalajara,Rubí,1900,29/11/2022,0%,1900,1596,Email
+Jacob Williams,31,female,Campeche,Rubí,1900,10/9/2022,0%,1900,1596,Google ads
+Elizabeth O'Brien,27,male,Monterrey,Rubí,1900,28/8/2022,0%,1900,1596,Facebook Ads
+Michael O'Brien,30,male,Monterrey,Diamante,2800,14/10/2022,0%,2800,2352,Website
+John Johnson,26,female,Ciudad de México,Rubí,1900,13/09/2022,0%,1900,1596,Google ads
+Isabella Brown,45,female,Campeche,Rubí,1900,15/11/2022,0%,1900,1596,Email
+Elizabeth Davis,27,female,Ciudad de México,Rubí,1900,27/7/2022,0%,1900,1596,Facebook Ads
+Emma O'Kelly,39,female,Zacatecas,Diamante,2800,16/10/2022,20%,2240,"1881,6",Website
+Mia Johnson,27,female,Monterrey,Diamante,2800,14/10/2022,20%,2240,"1881,6",Instagram Ads
+Megan Miller,25,male,Monterrey,Diamante,2800,16/11/2022,20%,2240,"1881,6",Instagram Ads
+Jacob Miller,26,female,Guadalajara,Rubí,1900,14/8/2022,0%,1900,1596,Facebook Ads
+Poppy Roberts,29,male,Monterrey,Diamante,2800,06/08/2022,20%,2240,"1881,6",Instagram Ads
+Liam Williams,34,female,Zacatecas,Rubí,1900,25/08/2022,0%,1900,1596,Facebook Ads
+Isla Rodriguez,29,male,Zacatecas,Diamante,2800,05/08/2022,20%,2240,"1881,6",Instagram Ads
+Charlie O'Ryan,38,male,Zacatecas,Rubí,1900,21/12/2022,0%,1900,1596,Website
+Michael Rodriguez,36,female,Coahuila,Rubí,1900,18/11/2022,0%,1900,1596,Instagram Ads
+Olivia Wilson,30,male,Oaxaca,Rubí,1900,30/10/2022,0%,1900,1596,Website
+William Byrne,28,female,Monterrey,Rubí,1900,23/12/2022,0%,1900,1596,Email
+Mia Davies,29,male,Zacatecas,Diamante,2800,07/07/2022,0%,2800,2352,Instagram Ads
+Robert Smith,34,female,Querétaro,Rubí,1900,21/07/2022,0%,1900,1596,Google ads
+Olivia O'Brien,25,female,Sinaloa,Rubí,1900,10/10/2022,0%,1900,1596,Email
+Barbara O'Ryan,26,female,Zacatecas,Diamante,2800,14/10/2022,10%,2520,"2116,8",Google ads
+Isabella Johnson,25,male,Monterrey,Rubí,1900,28/08/2022,0%,1900,1596,Google ads
+Ethan O'Neill,35,female,Quintana Roo,Diamante,2800,29/11/2022,30%,1960,"1646,4",Facebook Ads
+Isla Walsh,27,female,Guadalajara,Rubí,1900,27/08/2022,0%,1900,1596,Google ads
+Samantha Garcia,28,male,Guadalajara,Rubí,1900,10/8/2022,0%,1900,1596,Facebook Ads
+John Brown,26,male,Oaxaca,Rubí,1900,14/11/2022,0%,1900,1596,Email
+William O'Neill,26,female,Monterrey,Rubí,1900,23/12/2022,0%,1900,1596,Instagram Ads
+Emma Murphy,25,male,Aguascalientes,Rubí,1900,10/8/2022,0%,1900,1596,Facebook Ads
+Kyle O'Kelly,40,female,Puebla,Rubí,1900,07/10/2022,0%,1900,1596,Whatsapp
+Samantha Davis,29,male,Guadalajara,Rubí,1900,12/08/2022,0%,1900,1596,Website
+Robert O'Kelly,45,female,Aguascalientes,Rubí,1900,11/09/2022,0%,1900,1596,Instagram Ads
+Patricia Garcia,45,male,Veracruz,Rubí,1900,9/7/2022,0%,1900,1596,Google ads
+Jacob Walsh,30,female,Monterrey,Diamante,2800,2/12/2022,10%,2520,"2116,8",Email
+Megan Brown,27,male,Monterrey,Rubí,1900,12/12/2022,0%,1900,1596,Google ads
+Jacob Smith,29,male,Puebla,Diamante,2800,10/08/2022,10%,2520,"2116,8",Google ads
+Reece O'Connor,29,female,Guadalajara,Rubí,1900,23/7/2022,0%,1900,1596,Facebook Ads
+Megan Johnson,27,female,Monterrey,Rubí,1900,17/08/2022,0%,1900,1596,Google ads
+Barbara Wilson,26,female,Chiapas,Rubí,1900,3/8/2022,0%,1900,1596,Facebook Ads
+Poppy Garcia,30,female,Monterrey,Rubí,1900,26/7/2022,0%,1900,1596,Instagram
+Isabella Johnson,27,female,Sinaloa,Rubí,1900,15/12/2022,0%,1900,1596,Google ads
+Melia Murphy,43,female,Jalisco,Rubí,1900,24/12/2022,0%,1900,1596,Website
+Poppy Byrne,37,male,Zacatecas,Diamante,2800,13/07/2022,0%,2800,2352,Instagram Ads
+Michael Walsh,43,female,Monterrey,Diamante,2800,03/07/2022,20%,2240,"1881,6",Google ads
+Samantha Jones,31,female,Aguascalientes,Diamante,2800,16/10/2022,30%,1960,"1646,4",Instagram
+Megan Miller,27,female,Veracruz,Rubí,1900,24/07/2022,0%,1900,1596,Website
+Bethany Roberts,29,female,Monterrey,Rubí,1900,8/10/2022,0%,1900,1596,Google ads
+Poppy O'Connor,25,female,Monterrey,Rubí,1900,17/9/2022,0%,1900,1596,Google ads
+Emma Evans,31,female,Monterrey,Rubí,1900,10/08/2022,0%,1900,1596,Facebook Ads
+Ava O'Neill,26,female,Ciudad de México,Rubí,1900,26/10/2022,0%,1900,1596,Facebook
+Emily Smith,30,female,Monterrey,Rubí,1900,14/8/2022,0%,1900,1596,Facebook
+Poppy O'Kelly,29,female,Zacatecas,Diamante,2800,19/09/2022,20%,2240,"1881,6",Facebook Ads
+Melia Byrne,30,female,Zacatecas,Diamante,2800,24/7/2022,30%,1960,"1646,4",Instagram
+Elizabeth Roberts,29,female,Monterrey,Rubí,1900,22/11/2022,0%,1900,1596,Facebook Ads
+Samantha Johnson,42,female,Monterrey,Rubí,1900,11/11/2022,0%,1900,1596,Email
+Melia Jones,28,female,Ciudad de México,Diamante,2800,10/8/2022,0%,2800,2352,Instagram Ads
+Olivia Miller,36,female,Monterrey,Rubí,1900,24/10/2022,0%,1900,1596,Facebook Ads
+Barbara O'Ryan,29,female,Guadalajara,Rubí,1900,15/12/2022,0%,1900,1596,Google ads
+Patricia Roberts,26,female,Ciudad de México,Rubí,1900,15/9/2022,0%,1900,1596,Facebook Ads
+Jennifer Garcia,30,female,Monterrey,Diamante,2800,23/12/2022,0%,2800,2352,Email
+Ava Jones,27,female,Querétaro,Diamante,2800,08/10/2022,10%,2520,"2116,8",Instagram Ads
+Mary O'Neill,25,female,Monterrey,Diamante,2800,08/09/2022,30%,1960,"1646,4",Instagram
+Olivia Garcia,30,male,Monterrey,Rubí,1900,20/12/2022,0%,1900,1596,Website
+Oscar Taylor,25,male,Sinaloa,Rubí,1900,21/07/2022,0%,1900,1596,Instagram Ads
+James Evans,26,female,Guadalajara,Rubí,1900,01/08/2022,0%,1900,1596,Google ads
+Isabella Brown,29,male,Guadalajara,Diamante,2800,6/7/2022,0%,2800,2352,Facebook Ads
+Jake Taylor,30,male,Campeche,Rubí,1900,18/09/2022,0%,1900,1596,Website
+Charlie Smith,29,male,Jalisco,Rubí,1900,1/12/2022,0%,1900,1596,Instagram Ads
+Mason Roberts,28,female,Guadalajara,Rubí,1900,09/09/2022,0%,1900,1596,Facebook Ads
+Elizabeth Roberts,29,female,Zacatecas,Rubí,1900,16/11/2022,0%,1900,1596,Instagram Ads
+Elizabeth Walsh,26,male,Guadalajara,Rubí,1900,10/8/2022,0%,1900,1596,Google ads
+Reece Wilson,27,male,Nayarit,Rubí,1900,18/9/2022,0%,1900,1596,Instagram Ads
+Callum Miller,25,female,Oaxaca,Diamante,2800,1/9/2022,10%,2520,"2116,8",Email
+Elizabeth Garcia,29,female,Aguascalientes,Diamante,2800,10/12/2022,10%,2520,"2116,8",Whatsapp
+Bethany Walsh,25,female,Baja California,Rubí,1900,19/07/2022,0%,1900,1596,Instagram
+Emily Johnson,28,male,Ciudad de México,Rubí,1900,17/07/2022,0%,1900,1596,Facebook Ads
+Joe Evans,25,female,Zacatecas,Rubí,1900,03/09/2022,0%,1900,1596,Facebook
+Margaret Johnson,26,male,Monterrey,Rubí,1900,29/7/2022,0%,1900,1596,Instagram Ads
+Noah Miller,28,female,Quintana Roo,Rubí,1900,26/10/2022,0%,1900,1596,Facebook Ads
+Isla Miller,29,female,Chiapas,Rubí,1900,17/11/2022,0%,1900,1596,Website
+Isla O'Brien,30,male,Aguascalientes,Rubí,1900,18/11/2022,0%,1900,1596,Google ads
+Harry O'Sullivan,28,male,Zacatecas,Diamante,2800,13/07/2022,10%,2520,"2116,8",Email
+Robert Roberts,28,female,Aguascalientes,Rubí,1900,24/09/2022,0%,1900,1596,Google ads
+Ava Taylor,28,female,Aguascalientes,Diamante,2800,07/09/2022,0%,2800,2352,Facebook Ads
+Elizabeth Rodriguez,29,male,Zacatecas,Rubí,1900,28/11/2022,0%,1900,1596,Facebook Ads
+William Murphy,27,male,Ciudad de México,Diamante,2800,4/9/2022,30%,1960,"1646,4",Facebook Ads
+John Garcia,27,female,Zacatecas,Rubí,1900,6/11/2022,0%,1900,1596,Facebook Ads
+Isabella Walsh,28,female,Veracruz,Rubí,1900,18/10/2022,0%,1900,1596,Facebook
+Elizabeth Johnson,28,male,Monterrey,Rubí,1900,26/07/2022,0%,1900,1596,Google ads
+Mason Smith,35,female,Guadalajara,Diamante,2800,14/12/2022,0%,2800,2352,Email
+Isabella Brown,29,female,Monterrey,Rubí,1900,28/08/2022,0%,1900,1596,Google ads
+Isla Davis,27,male,Guadalajara,Rubí,1900,28/07/2022,0%,1900,1596,Facebook Ads
+#¡NÚM!,45,female,Tamaulipas,Rubí,1900,5/7/2022,0%,1900,1596,Instagram Ads
+Margaret Davies,25,male,Zacatecas,Rubí,1900,22/10/2022,0%,1900,1596,Instagram Ads
+Joe Evans,25,female,Guadalajara,Rubí,1900,23/9/2022,0%,1900,1596,Facebook Ads
+Elizabeth O'Neill,26,female,Guadalajara,Rubí,1900,15/07/2022,0%,1900,1596,Facebook Ads
+Emily O'Ryan,39,female,Guadalajara,Rubí,1900,4/12/2022,0%,1900,1596,Website
+Elizabeth Smith,28,male,Guadalajara,Diamante,2800,25/09/2022,20%,2240,"1881,6",Google ads
+Mason Evans,27,male,San Luis Potosí,Rubí,1900,2/11/2022,0%,1900,1596,Email
+Jacob Davis,30,female,Monterrey,Rubí,1900,26/08/2022,0%,1900,1596,Facebook Ads
+Olivia Byrne,31,female,Guadalajara,Diamante,2800,6/8/2022,20%,2240,"1881,6",Whatsapp
+Margaret Davis,37,male,Veracruz,Diamante,2800,22/10/2022,30%,1960,"1646,4",Instagram
+Michael Smith,43,male,Zacatecas,Rubí,1900,02/08/2022,0%,1900,1596,Instagram Ads
+James Walsh,25,female,Guadalajara,Rubí,1900,30/7/2022,0%,1900,1596,Facebook Ads
+Emily O'Neill,29,male,Guadalajara,Rubí,1900,12/09/2022,0%,1900,1596,Google ads
+Connor Davis,30,female,Monterrey,Rubí,1900,07/11/2022,0%,1900,1596,Website
+Joanne Davis,27,female,Monterrey,Diamante,2800,13/10/2022,0%,2800,2352,Website
+Barbara Davies,29,female,Veracruz,Rubí,1900,01/08/2022,0%,1900,1596,Facebook Ads
+Mia O'Neill,25,female,Guadalajara,Diamante,2800,22/12/2022,0%,2800,2352,Facebook Ads
+Margaret Wilson,29,female,Guadalajara,Rubí,1900,05/09/2022,0%,1900,1596,Facebook Ads
+Isla Thomas,42,female,Guadalajara,Diamante,2800,30/11/2022,10%,2520,"2116,8",Website
+Barbara Jones,40,female,San Luis Potosí,Rubí,1900,04/08/2022,0%,1900,1596,Instagram Ads
+Sophia O'Neill,30,female,Guadalajara,Diamante,2800,6/12/2022,10%,2520,"2116,8",Facebook Ads
+Mary Davis,44,female,Zacatecas,Diamante,2800,10/7/2022,30%,1960,"1646,4",Instagram Ads
+Emma O'Connor,28,female,Monterrey,Rubí,1900,20/10/2022,0%,1900,1596,Facebook
+Poppy Davies,25,female,Baja California Sur,Rubí,1900,21/7/2022,0%,1900,1596,Instagram Ads
+Joanne O'Ryan,27,female,Sinaloa,Diamante,2800,14/11/2022,30%,1960,"1646,4",Website
+Elizabeth Jones,30,female,Guadalajara,Diamante,2800,05/10/2022,30%,1960,"1646,4",Whatsapp
+Sophia Smith,29,female,Monterrey,Diamante,2800,1/11/2022,0%,2800,2352,Instagram Ads
+Isabella Taylor,33,male,Guadalajara,Rubí,1900,21/12/2022,0%,1900,1596,Website
+Callum Johnson,33,female,Monterrey,Rubí,1900,26/07/2022,0%,1900,1596,Facebook
+Isabella Thomas,40,male,Zacatecas,Rubí,1900,10/7/2022,0%,1900,1596,Instagram
+Ethan Johnson,29,male,Zacatecas,Diamante,2800,18/11/2022,20%,2240,"1881,6",Instagram
+Thomas Walsh,26,male,Guerrero,Diamante,2800,27/9/2022,0%,2800,2352,Email
+Michael O'Ryan,25,male,Sinaloa,Rubí,1900,7/10/2022,0%,1900,1596,Email
+Jack O'Connor,25,female,Monterrey,Rubí,1900,04/09/2022,0%,1900,1596,Email
+Emily O'Sullivan,39,male,Querétaro,Rubí,1900,22/10/2022,0%,1900,1596,Facebook Ads
+Oliver Wilson,37,female,Zacatecas,Rubí,1900,22/12/2022,0%,1900,1596,Facebook Ads
+Linda Evans,33,female,Monterrey,Rubí,1900,15/7/2022,0%,1900,1596,Facebook Ads
+Poppy Davies,30,female,Monterrey,Rubí,1900,08/07/2022,0%,1900,1596,Google ads
+Mary Wilson,29,male,Aguascalientes,Rubí,1900,13/12/2022,0%,1900,1596,Facebook Ads
+James Rodriguez,28,female,Guadalajara,Rubí,1900,08/11/2022,0%,1900,1596,Instagram Ads
+Margaret Walsh,27,female,Ciudad de México,Rubí,1900,24/12/2022,0%,1900,1596,Email
+Barbara Wilson,30,female,Nayarit,Rubí,1900,13/10/2022,0%,1900,1596,Google ads
+Bethany Davis,29,female,Puebla,Diamante,2800,15/11/2022,30%,1960,"1646,4",Facebook Ads
+Mia Smith,29,male,Monterrey,Diamante,2800,1/7/2022,10%,2520,"2116,8",Website
+#¡NÚM!,26,female,Guadalajara,Diamante,2800,25/12/2022,0%,2800,2352,Instagram Ads
+Joanne Smith,26,female,San Luis Potosí,Rubí,1900,13/10/2022,0%,1900,1596,Google ads
+Mary O'Neill,28,female,Guadalajara,Rubí,1900,25/9/2022,0%,1900,1596,Google ads
+Emma Williams,45,female,Veracruz,Diamante,2800,21/8/2022,20%,2240,"1881,6",Email
+Jennifer O'Ryan,30,female,Monterrey,Rubí,1900,24/10/2022,0%,1900,1596,Instagram Ads
+Jennifer Davies,25,male,Monterrey,Rubí,1900,21/12/2022,0%,1900,1596,Google ads
+#¡NÚM!,42,female,Puebla,Diamante,2800,20/07/2022,10%,2520,"2116,8",Website
+Margaret Thomas,26,female,Baja California,Rubí,1900,28/10/2022,0%,1900,1596,Facebook Ads
+Mia O'Neill,39,female,Monterrey,Diamante,2800,15/9/2022,20%,2240,"1881,6",Email
+Joanne Williams,28,female,Veracruz,Rubí,1900,03/11/2022,0%,1900,1596,Facebook Ads
+Isabella Taylor,36,female,Guadalajara,Rubí,1900,8/7/2022,0%,1900,1596,Instagram Ads
+Ava Smith,27,female,Puebla,Rubí,1900,4/11/2022,0%,1900,1596,Google ads
+Samantha Byrne,25,female,Zacatecas,Rubí,1900,11/12/2022,0%,1900,1596,Facebook Ads
+Isabella Davis,26,female,Puebla,Rubí,1900,20/08/2022,0%,1900,1596,Instagram Ads
+Patricia Byrne,40,female,Baja California Sur,Rubí,1900,11/07/2022,0%,1900,1596,Google ads
+Elizabeth Rodriguez,38,female,Monterrey,Rubí,1900,01/12/2022,0%,1900,1596,Website
+Samantha O'Kelly,39,male,Zacatecas,Rubí,1900,21/8/2022,0%,1900,1596,Email
+Jacob Murphy,45,female,Coahuila,Diamante,2800,21/8/2022,30%,1960,"1646,4",Whatsapp
+Jennifer Walsh,30,female,Ciudad de México,Diamante,2800,29/11/2022,20%,2240,"1881,6",Instagram
+Isabella O'Neill,38,female,Chihuahua,Diamante,2800,19/11/2022,10%,2520,"2116,8",Instagram Ads
+Isla Evans,25,female,Monterrey,Rubí,1900,4/9/2022,0%,1900,1596,Whatsapp
+Elizabeth O'Kelly,44,female,Ciudad de México,Rubí,1900,04/09/2022,0%,1900,1596,Email
+Jennifer Williams,25,female,Zacatecas,Diamante,2800,01/12/2022,20%,2240,"1881,6",Facebook Ads
+Barbara Brown,33,male,Guanajuato,Rubí,1900,01/07/2022,0%,1900,1596,Google ads
+Oscar Thomas,28,female,Coahuila,Diamante,2800,02/07/2022,10%,2520,"2116,8",Whatsapp
+Jennifer O'Sullivan,26,female,Guadalajara,Diamante,2800,07/09/2022,10%,2520,"2116,8",Facebook
+Emma Brown,27,female,Ciudad de México,Rubí,1900,9/8/2022,0%,1900,1596,Whatsapp
+Elizabeth Davis,41,female,Monterrey,Diamante,2800,11/09/2022,10%,2520,"2116,8",Instagram Ads
+Barbara Davies,35,female,Zacatecas,Rubí,1900,26/8/2022,0%,1900,1596,Facebook Ads
+Olivia O'Sullivan,26,female,Guadalajara,Rubí,1900,1/9/2022,0%,1900,1596,Instagram Ads
+Jennifer Davies,28,female,Zacatecas,Diamante,2800,2/7/2022,30%,1960,"1646,4",Facebook Ads
+Jennifer O'Kelly,30,female,Monterrey,Diamante,2800,21/10/2022,0%,2800,2352,Instagram Ads
+Linda Davis,40,male,Guanajuato,Diamante,2800,25/12/2022,10%,2520,"2116,8",Instagram Ads
+William Garcia,29,male,Guadalajara,Rubí,1900,4/7/2022,0%,1900,1596,Email
+Liam Rodriguez,27,female,Veracruz,Rubí,1900,05/09/2022,0%,1900,1596,Website
+Mary Byrne,31,female,Guadalajara,Diamante,2800,15/11/2022,30%,1960,"1646,4",Google ads
+Ava Rodriguez,30,female,Aguascalientes,Rubí,1900,05/12/2022,0%,1900,1596,Website
+Poppy O'Kelly,27,male,Guadalajara,Rubí,1900,18/10/2022,0%,1900,1596,Facebook Ads
+Joe O'Sullivan,29,female,Guadalajara,Rubí,1900,15/9/2022,0%,1900,1596,Instagram Ads
+Megan O'Kelly,27,male,Guadalajara,Diamante,2800,25/09/2022,10%,2520,"2116,8",Facebook Ads
+Connor Miller,27,female,Zacatecas,Rubí,1900,05/10/2022,0%,1900,1596,Facebook Ads
+Elizabeth O'Neill,29,female,Zacatecas,Rubí,1900,13/09/2022,0%,1900,1596,Instagram Ads
+Elizabeth Jones,36,female,Monterrey,Rubí,1900,5/7/2022,0%,1900,1596,Email
+Samantha Davis,27,female,Oaxaca,Diamante,2800,25/8/2022,0%,2800,2352,Instagram Ads
+Isla Davis,28,female,Zacatecas,Rubí,1900,2/7/2022,0%,1900,1596,Instagram Ads
+Olivia Davies,27,female,Guadalajara,Rubí,1900,03/07/2022,0%,1900,1596,Instagram Ads
+Elizabeth Wilson,26,female,Guadalajara,Rubí,1900,29/10/2022,0%,1900,1596,Facebook Ads
+Joanne Brown,42,female,Guadalajara,Rubí,1900,13/11/2022,0%,1900,1596,Instagram Ads
+Ava Roberts,29,female,Monterrey,Rubí,1900,10/12/2022,0%,1900,1596,Instagram Ads
+Olivia O'Connor,25,female,Monterrey,Diamante,2800,4/7/2022,10%,2520,"2116,8",Facebook Ads
+Elizabeth Garcia,25,female,Ciudad de México,Diamante,2800,02/10/2022,0%,2800,2352,Instagram Ads
+Joanne Davies,27,male,Monterrey,Rubí,1900,15/08/2022,0%,1900,1596,Facebook Ads
+Oliver Evans,30,female,Aguascalientes,Rubí,1900,28/09/2022,0%,1900,1596,Google ads
+Ava Johnson,30,female,Sinaloa,Rubí,1900,30/11/2022,0%,1900,1596,Instagram Ads
+Olivia Smith,44,male,Guadalajara,Rubí,1900,30/11/2022,0%,1900,1596,Google ads
+#¡NÚM!,45,male,Monterrey,Diamante,2800,25/10/2022,0%,2800,2352,Whatsapp
+Jake Davies,25,female,Ciudad de México,Rubí,1900,6/8/2022,0%,1900,1596,Google ads
+Joanne Brown,26,female,Guadalajara,Diamante,2800,1/10/2022,0%,2800,2352,Google ads
+Joanne Wilson,30,female,Monterrey,Diamante,2800,14/11/2022,0%,2800,2352,Google ads
+Margaret Wilson,27,female,Aguascalientes,Rubí,1900,25/10/2022,0%,1900,1596,Instagram
+Elizabeth Garcia,26,female,Ciudad de México,Rubí,1900,16/10/2022,0%,1900,1596,Facebook
+Isabella O'Ryan,41,male,Zacatecas,Rubí,1900,29/8/2022,0%,1900,1596,Instagram Ads
+James Davis,27,female,Ciudad de México,Rubí,1900,11/8/2022,0%,1900,1596,Facebook Ads
+Olivia Taylor,28,female,Monterrey,Diamante,2800,1/12/2022,30%,1960,"1646,4",Google ads
+Mia O'Neill,25,male,Aguascalientes,Rubí,1900,2/7/2022,0%,1900,1596,Instagram Ads
+Oliver Smith,27,male,Guanajuato,Rubí,1900,28/12/2022,0%,1900,1596,Instagram Ads
+Harry Davies,26,female,Puebla,Rubí,1900,23/09/2022,0%,1900,1596,Facebook Ads
+Elizabeth Roberts,30,male,Monterrey,Rubí,1900,17/07/2022,0%,1900,1596,Facebook
+#¡NÚM!,29,female,Guadalajara,Diamante,2800,6/7/2022,10%,2520,"2116,8",Facebook Ads
+Mary Roberts,29,female,Coahuila,Diamante,2800,29/08/2022,20%,2240,"1881,6",Instagram
+Barbara Davies,26,female,Monterrey,Rubí,1900,26/12/2022,0%,1900,1596,Email
+Sophia Wilson,27,female,Guadalajara,Rubí,1900,3/9/2022,0%,1900,1596,Instagram
+Emily Evans,27,female,Sinaloa,Diamante,2800,04/08/2022,10%,2520,"2116,8",Whatsapp
+Megan Rodriguez,27,female,Guadalajara,Diamante,2800,04/07/2022,20%,2240,"1881,6",Google ads
+Linda O'Brien,27,male,Monterrey,Rubí,1900,2/9/2022,0%,1900,1596,Google ads
+Harry Murphy,32,male,Aguascalientes,Diamante,2800,09/08/2022,20%,2240,"1881,6",Google ads
+Jake O'Kelly,28,male,Ciudad de México,Diamante,2800,23/11/2022,30%,1960,"1646,4",Facebook Ads
+James Byrne,44,male,Guadalajara,Diamante,2800,29/07/2022,0%,2800,2352,Facebook Ads
+Jacob Evans,30,female,Guadalajara,Rubí,1900,26/09/2022,0%,1900,1596,Instagram Ads
+Olivia O'Neill,30,male,Campeche,Rubí,1900,14/11/2022,0%,1900,1596,Google ads
+Oscar Smith,25,female,Sinaloa,Diamante,2800,10/10/2022,30%,1960,"1646,4",Website
+Bethany Taylor,29,female,Guadalajara,Diamante,2800,03/12/2022,0%,2800,2352,Facebook Ads
+Elizabeth Taylor,27,female,Coahuila,Diamante,2800,28/8/2022,0%,2800,2352,Instagram Ads
+Mary Williams,29,male,Monterrey,Rubí,1900,13/7/2022,0%,1900,1596,Instagram
+Noah O'Sullivan,25,female,Aguascalientes,Rubí,1900,13/07/2022,0%,1900,1596,Facebook Ads
+Melia Davis,25,female,Aguascalientes,Diamante,2800,15/10/2022,10%,2520,"2116,8",Facebook Ads
+Megan Evans,27,female,Coahuila,Rubí,1900,19/11/2022,0%,1900,1596,Google ads
+Isabella Brown,29,female,Zacatecas,Diamante,2800,17/07/2022,10%,2520,"2116,8",Google ads
+Elizabeth Byrne,25,male,Monterrey,Diamante,2800,19/07/2022,30%,1960,"1646,4",Website
+Jacob O'Sullivan,26,male,Guadalajara,Rubí,1900,24/09/2022,0%,1900,1596,Email
+Noah O'Sullivan,25,female,Aguascalientes,Rubí,1900,09/09/2022,0%,1900,1596,Instagram Ads
+Poppy Brown,28,male,Guadalajara,Rubí,1900,13/7/2022,0%,1900,1596,Website
+Jack O'Neill,27,female,Sinaloa,Diamante,2800,29/10/2022,10%,2520,"2116,8",Google ads
+Barbara O'Sullivan,27,male,Ciudad de México,Diamante,2800,06/10/2022,20%,2240,"1881,6",Facebook Ads
+David Rodriguez,27,female,Ciudad de México,Rubí,1900,14/8/2022,0%,1900,1596,Google ads
+Isla Roberts,30,male,Monterrey,Rubí,1900,15/11/2022,0%,1900,1596,Google ads
+John Smith,35,male,Yucatán,Diamante,2800,27/9/2022,30%,1960,"1646,4",Website
+Connor Smith,36,male,Ciudad de México,Rubí,1900,30/10/2022,0%,1900,1596,Website
+Mason Smith,27,male,Baja California Sur,Rubí,1900,25/12/2022,0%,1900,1596,Instagram Ads
+David Wilson,28,female,Veracruz,Rubí,1900,30/9/2022,0%,1900,1596,Google ads
+Linda Johnson,25,female,Guadalajara,Rubí,1900,7/9/2022,0%,1900,1596,Email
+Joanne Murphy,29,female,Nuevo León,Rubí,1900,03/07/2022,0%,1900,1596,Website
+Poppy Davies,27,female,Guadalajara,Rubí,1900,05/10/2022,0%,1900,1596,Instagram Ads
+Joanne Garcia,25,female,Monterrey,Rubí,1900,21/11/2022,0%,1900,1596,Google ads
+Jennifer Thomas,44,male,Ciudad de México,Rubí,1900,01/07/2022,0%,1900,1596,Instagram Ads
+Ethan Smith,44,female,Monterrey,Rubí,1900,9/7/2022,0%,1900,1596,Website
+Olivia Brown,28,male,Sinaloa,Rubí,1900,10/8/2022,0%,1900,1596,Google ads
+Jake Byrne,40,female,Zacatecas,Diamante,2800,23/09/2022,10%,2520,"2116,8",Facebook
+Mary Jones,25,female,Aguascalientes,Rubí,1900,12/12/2022,0%,1900,1596,Instagram Ads
+Patricia Byrne,40,female,Monterrey,Rubí,1900,15/12/2022,0%,1900,1596,Google ads
+Bethany Smith,26,male,Veracruz,Rubí,1900,23/8/2022,0%,1900,1596,Facebook Ads
+Connor O'Kelly,38,female,Guadalajara,Rubí,1900,19/9/2022,0%,1900,1596,Instagram Ads
+Jennifer Taylor,29,male,Monterrey,Diamante,2800,24/10/2022,10%,2520,"2116,8",Instagram Ads
+David Davies,29,female,Monterrey,Diamante,2800,06/09/2022,10%,2520,"2116,8",Facebook Ads
+Samantha Smith,25,female,Monterrey,Rubí,1900,15/8/2022,0%,1900,1596,Website
+Linda Davies,30,female,Guadalajara,Rubí,1900,06/08/2022,0%,1900,1596,Instagram Ads
+Melia O'Neill,42,female,Zacatecas,Rubí,1900,12/11/2022,0%,1900,1596,Facebook Ads
+Isabella O'Sullivan,28,female,Monterrey,Rubí,1900,09/12/2022,0%,1900,1596,Instagram Ads
+Melia Jones,29,female,Monterrey,Rubí,1900,09/12/2022,0%,1900,1596,Website
+Jennifer Johnson,26,male,Guadalajara,Diamante,2800,28/12/2022,10%,2520,"2116,8",Whatsapp
+Kyle Taylor,30,male,Ciudad de México,Diamante,2800,24/8/2022,0%,2800,2352,Google ads
+Jake Roberts,39,female,Zacatecas,Rubí,1900,15/12/2022,0%,1900,1596,Instagram Ads
+Megan Miller,35,female,Monterrey,Rubí,1900,18/11/2022,0%,1900,1596,Whatsapp
+Olivia Taylor,25,male,Monterrey,Rubí,1900,29/12/2022,0%,1900,1596,Website
+Joe Brown,34,male,Veracruz,Rubí,1900,01/07/2022,0%,1900,1596,Website
+Robert Miller,26,female,Chihuahua,Rubí,1900,13/09/2022,0%,1900,1596,Instagram Ads
+Isabella O'Connor,27,female,Zacatecas,Rubí,1900,03/12/2022,0%,1900,1596,Email
+Emily Smith,28,female,Guadalajara,Rubí,1900,29/11/2022,0%,1900,1596,Email
+Emma Miller,30,male,Zacatecas,Rubí,1900,9/11/2022,0%,1900,1596,Facebook Ads
+Joe Taylor,27,male,Monterrey,Rubí,1900,6/7/2022,0%,1900,1596,Google ads
+David Miller,30,male,Monterrey,Diamante,2800,22/07/2022,10%,2520,"2116,8",Google ads
+William O'Sullivan,32,female,Monterrey,Rubí,1900,16/8/2022,0%,1900,1596,Facebook Ads
+Olivia Smith,45,female,Veracruz,Diamante,2800,13/12/2022,10%,2520,"2116,8",Facebook Ads
+Ava O'Brien,30,female,Coahuila,Diamante,2800,23/10/2022,30%,1960,"1646,4",Email
+Mia O'Kelly,38,female,Veracruz,Rubí,1900,1/10/2022,0%,1900,1596,Facebook Ads
+Olivia Davis,27,female,Guadalajara,Rubí,1900,9/12/2022,0%,1900,1596,Email
+Isabella Johnson,30,female,Aguascalientes,Rubí,1900,06/08/2022,0%,1900,1596,Instagram Ads
+Bethany Smith,29,male,Zacatecas,Diamante,2800,24/07/2022,20%,2240,"1881,6",Google ads
+Kyle O'Neill,26,male,Guadalajara,Diamante,2800,31/08/2022,30%,1960,"1646,4",Instagram Ads
+David O'Kelly,28,female,Guadalajara,Diamante,2800,28/12/2022,0%,2800,2352,Google ads
+Linda Garcia,29,male,Zacatecas,Rubí,1900,29/11/2022,0%,1900,1596,Instagram Ads
+John Smith,32,female,Guadalajara,Diamante,2800,12/8/2022,10%,2520,"2116,8",Facebook Ads
+Mary O'Neill,29,male,Guadalajara,Diamante,2800,28/8/2022,30%,1960,"1646,4",Email
+John Murphy,28,female,Puebla,Diamante,2800,17/12/2022,20%,2240,"1881,6",Facebook Ads
+Elizabeth O'Brien,25,female,Veracruz,Diamante,2800,19/8/2022,30%,1960,"1646,4",Website
+Isabella O'Kelly,28,female,Zacatecas,Rubí,1900,15/8/2022,0%,1900,1596,Instagram Ads
+Mia O'Kelly,32,female,Puebla,Rubí,1900,04/12/2022,0%,1900,1596,Email
+Elizabeth Smith,28,male,Veracruz,Rubí,1900,21/10/2022,0%,1900,1596,Google ads
+Oliver O'Kelly,26,female,Veracruz,Diamante,2800,17/10/2022,10%,2520,"2116,8",Facebook Ads
+Mia Davies,27,female,Monterrey,Diamante,2800,01/10/2022,10%,2520,"2116,8",Google ads
+Olivia Byrne,26,female,Puebla,Diamante,2800,12/7/2022,0%,2800,2352,Instagram Ads
+Megan Wilson,26,female,Ciudad de México,Diamante,2800,28/11/2022,10%,2520,"2116,8",Instagram Ads
+Barbara Byrne,29,male,Monterrey,Diamante,2800,29/7/2022,30%,1960,"1646,4",Instagram Ads
+#¡NÚM!,29,female,Guadalajara,Diamante,2800,12/07/2022,20%,2240,"1881,6",Facebook
+Megan Garcia,26,male,Zacatecas,Diamante,2800,05/11/2022,10%,2520,"2116,8",Google ads
+William Taylor,29,female,Zacatecas,Rubí,1900,14/7/2022,0%,1900,1596,Facebook Ads
+Olivia Roberts,36,male,Monterrey,Diamante,2800,27/10/2022,20%,2240,"1881,6",Instagram Ads
+Charlie O'Ryan,25,male,Guadalajara,Rubí,1900,01/10/2022,0%,1900,1596,Instagram Ads
+Robert Evans,30,male,Baja California Sur,Rubí,1900,25/10/2022,0%,1900,1596,Instagram Ads
+Joe Roberts,30,female,Monterrey,Diamante,2800,29/11/2022,0%,2800,2352,Instagram Ads
+Patricia Davies,32,female,Veracruz,Rubí,1900,4/7/2022,0%,1900,1596,Google ads
+Joanne Johnson,28,female,Guadalajara,Rubí,1900,13/7/2022,0%,1900,1596,Google ads
+Margaret Smith,25,female,Veracruz,Rubí,1900,6/12/2022,0%,1900,1596,Instagram Ads
+Ava Garcia,29,female,Puebla,Rubí,1900,10/10/2022,0%,1900,1596,Instagram Ads
+Olivia Walsh,25,male,Guadalajara,Rubí,1900,6/8/2022,0%,1900,1596,Instagram
+Richard Brown,43,female,Monterrey,Diamante,2800,11/11/2022,10%,2520,"2116,8",Instagram Ads
+Megan Evans,30,female,Monterrey,Diamante,2800,12/12/2022,10%,2520,"2116,8",Facebook
+Barbara Walsh,29,female,Guerrero,Rubí,1900,18/07/2022,0%,1900,1596,Email
+Melia O'Brien,30,female,Zacatecas,Rubí,1900,26/12/2022,0%,1900,1596,Google ads
+Elizabeth Johnson,30,female,Monterrey,Diamante,2800,29/12/2022,0%,2800,2352,Instagram Ads
+Samantha Taylor,41,female,Zacatecas,Diamante,2800,29/10/2022,30%,1960,"1646,4",Website
+Joanne O'Ryan,28,female,Guadalajara,Rubí,1900,15/10/2022,0%,1900,1596,Google ads
+Elizabeth Johnson,43,female,Zacatecas,Rubí,1900,20/09/2022,0%,1900,1596,Instagram Ads
+Joanne Taylor,29,female,Ciudad de México,Diamante,2800,20/7/2022,30%,1960,"1646,4",Google ads
+Joanne Wilson,28,male,Veracruz,Diamante,2800,21/11/2022,10%,2520,"2116,8",Instagram Ads
+Jacob O'Connor,27,female,Veracruz,Diamante,2800,5/12/2022,10%,2520,"2116,8",Email
+Ava Smith,32,female,Sinaloa,Diamante,2800,23/08/2022,0%,2800,2352,Google ads
+Olivia Davies,33,female,Oaxaca,Diamante,2800,15/9/2022,0%,2800,2352,Website
+Mia O'Sullivan,25,female,Guadalajara,Diamante,2800,16/12/2022,0%,2800,2352,Facebook Ads
+Margaret Miller,35,female,Veracruz,Rubí,1900,25/9/2022,0%,1900,1596,Facebook Ads
+Poppy Jones,28,male,Tamaulipas,Diamante,2800,1/10/2022,20%,2240,"1881,6",Google ads
+Noah O'Ryan,26,female,Veracruz,Diamante,2800,17/8/2022,10%,2520,"2116,8",Facebook
+Olivia Byrne,40,female,Zacatecas,Diamante,2800,29/09/2022,30%,1960,"1646,4",Website
+Linda O'Kelly,29,female,Guadalajara,Rubí,1900,6/8/2022,0%,1900,1596,Website
+Mia Walsh,38,female,Zacatecas,Rubí,1900,12/9/2022,0%,1900,1596,Instagram Ads
+Emily Thomas,38,female,Baja California,Rubí,1900,3/8/2022,0%,1900,1596,Instagram Ads
+Isabella Roberts,40,male,Zacatecas,Rubí,1900,18/7/2022,0%,1900,1596,Email
+Jacob Evans,25,female,Aguascalientes,Diamante,2800,18/11/2022,30%,1960,"1646,4",Facebook Ads
+Bethany Miller,43,female,Guadalajara,Rubí,1900,26/11/2022,0%,1900,1596,Email
+Margaret O'Brien,45,female,Monterrey,Rubí,1900,8/7/2022,0%,1900,1596,Website
+Olivia Wilson,36,female,Guadalajara,Diamante,2800,5/12/2022,0%,2800,2352,Instagram Ads
+Emma Smith,30,female,Guerrero,Diamante,2800,1/9/2022,0%,2800,2352,Instagram Ads
+Poppy Smith,30,male,Monterrey,Rubí,1900,13/08/2022,0%,1900,1596,Google ads
+Jacob Walsh,25,female,Monterrey,Diamante,2800,23/10/2022,30%,1960,"1646,4",Facebook Ads
+Linda O'Brien,26,female,Monterrey,Rubí,1900,18/07/2022,0%,1900,1596,Whatsapp
+Isabella Williams,28,male,Sinaloa,Rubí,1900,14/7/2022,0%,1900,1596,Instagram Ads
+Joe Walsh,28,male,Zacatecas,Diamante,2800,10/12/2022,30%,1960,"1646,4",Facebook Ads
+Robert Davies,28,female,Puebla,Diamante,2800,29/11/2022,30%,1960,"1646,4",Instagram Ads
+Jennifer O'Connor,30,female,Veracruz,Diamante,2800,25/9/2022,20%,2240,"1881,6",Facebook Ads
+Isabella Johnson,25,female,Aguascalientes,Diamante,2800,14/11/2022,30%,1960,"1646,4",Google ads
+Patricia Wilson,30,male,Guadalajara,Rubí,1900,15/9/2022,0%,1900,1596,Instagram Ads
+Thomas Davies,26,female,Sinaloa,Rubí,1900,9/12/2022,0%,1900,1596,Facebook Ads
+Mia Johnson,29,female,Guadalajara,Rubí,1900,06/10/2022,0%,1900,1596,Google ads
+Margaret Smith,40,male,Monterrey,Rubí,1900,08/12/2022,0%,1900,1596,Email
+Oscar Davis,30,female,Durango,Rubí,1900,03/10/2022,0%,1900,1596,Instagram Ads
+Megan Taylor,42,male,Guadalajara,Diamante,2800,25/07/2022,30%,1960,"1646,4",Google ads
+John Williams,30,female,Guadalajara,Rubí,1900,14/10/2022,0%,1900,1596,Instagram Ads
+Bethany Thomas,27,female,Chihuahua,Diamante,2800,22/7/2022,0%,2800,2352,Google ads
+Bethany Murphy,26,female,Zacatecas,Rubí,1900,11/10/2022,0%,1900,1596,Instagram Ads
+Ava Byrne,25,female,Guadalajara,Diamante,2800,15/10/2022,10%,2520,"2116,8",Email
+Patricia Taylor,26,female,Baja California Sur,Rubí,1900,3/12/2022,0%,1900,1596,Facebook
+Mary Walsh,25,male,Quintana Roo,Rubí,1900,26/12/2022,0%,1900,1596,Facebook
+Reece Roberts,28,female,Aguascalientes,Rubí,1900,7/7/2022,0%,1900,1596,Google ads
+Isabella Byrne,35,female,Sinaloa,Diamante,2800,2/7/2022,10%,2520,"2116,8",Facebook Ads
+Olivia Smith,26,female,Sinaloa,Diamante,2800,18/8/2022,30%,1960,"1646,4",Instagram Ads
+Isla Johnson,29,female,Jalisco,Rubí,1900,07/12/2022,0%,1900,1596,Instagram Ads
+Isabella Smith,28,female,Guadalajara,Diamante,2800,23/7/2022,10%,2520,"2116,8",Instagram Ads
+Emily Roberts,32,male,Aguascalientes,Diamante,2800,21/08/2022,10%,2520,"2116,8",Whatsapp
+Michael Jones,28,female,Zacatecas,Rubí,1900,23/9/2022,0%,1900,1596,Google ads
+Megan O'Neill,42,female,Sinaloa,Rubí,1900,16/9/2022,0%,1900,1596,Instagram Ads
+Isla Murphy,30,female,Zacatecas,Rubí,1900,27/11/2022,0%,1900,1596,Instagram Ads
+Poppy Rodriguez,26,male,San Luis Potosí,Rubí,1900,26/9/2022,0%,1900,1596,Instagram Ads
+William Williams,31,male,Monterrey,Rubí,1900,26/12/2022,0%,1900,1596,Facebook Ads
+Joe Rodriguez,27,male,Guadalajara,Diamante,2800,20/12/2022,20%,2240,"1881,6",Facebook Ads
+#¡NÚM!,30,female,Monterrey,Rubí,1900,13/12/2022,0%,1900,1596,Facebook Ads
+Margaret Rodriguez,27,female,Veracruz,Rubí,1900,16/11/2022,0%,1900,1596,Facebook
+Mary Murphy,26,female,Nuevo León,Diamante,2800,26/09/2022,20%,2240,"1881,6",Email
+Emma Murphy,25,female,Zacatecas,Diamante,2800,27/8/2022,10%,2520,"2116,8",Facebook Ads
+Samantha Jones,39,male,Sinaloa,Rubí,1900,3/8/2022,0%,1900,1596,Instagram Ads
+Robert Roberts,26,female,Monterrey,Rubí,1900,21/11/2022,0%,1900,1596,Website
+Olivia Wilson,29,male,Guadalajara,Diamante,2800,17/12/2022,20%,2240,"1881,6",Instagram Ads
+William Thomas,27,female,Chihuahua,Rubí,1900,05/09/2022,0%,1900,1596,Facebook Ads
+Olivia Davis,28,female,Monterrey,Rubí,1900,22/12/2022,0%,1900,1596,Facebook Ads
+Margaret O'Ryan,25,female,Ciudad de México,Diamante,2800,12/08/2022,30%,1960,"1646,4",Instagram Ads
+Joanne Davies,26,male,Zacatecas,Diamante,2800,30/8/2022,30%,1960,"1646,4",Instagram Ads
+David Brown,44,female,Ciudad de México,Diamante,2800,06/07/2022,20%,2240,"1881,6",Instagram Ads
+Olivia Taylor,25,male,Chiapas,Diamante,2800,18/8/2022,0%,2800,2352,Facebook Ads
+Michael O'Ryan,42,female,Oaxaca,Diamante,2800,08/08/2022,30%,1960,"1646,4",Facebook Ads
+Emma Johnson,30,male,Zacatecas,Diamante,2800,26/8/2022,10%,2520,"2116,8",Facebook Ads
+Jacob Williams,30,male,Monterrey,Diamante,2800,07/08/2022,0%,2800,2352,Facebook Ads
+#¡NÚM!,26,female,Guadalajara,Rubí,1900,24/8/2022,0%,1900,1596,Google ads
+Isla O'Neill,28,female,Monterrey,Rubí,1900,21/11/2022,0%,1900,1596,Instagram
+Isabella O'Ryan,33,male,Coahuila,Diamante,2800,29/10/2022,30%,1960,"1646,4",Instagram Ads
+Oscar Wilson,28,female,Guadalajara,Rubí,1900,25/10/2022,0%,1900,1596,Website
+Isla Roberts,25,female,Monterrey,Rubí,1900,13/9/2022,0%,1900,1596,Google ads
+Elizabeth Byrne,25,female,Monterrey,Rubí,1900,14/10/2022,0%,1900,1596,Facebook
+Isabella Garcia,29,male,Aguascalientes,Diamante,2800,23/8/2022,10%,2520,"2116,8",Facebook Ads
+#¡NÚM!,28,male,Guadalajara,Diamante,2800,09/07/2022,10%,2520,"2116,8",Website
+Thomas O'Connor,32,female,Monterrey,Diamante,2800,29/12/2022,10%,2520,"2116,8",Google ads
+Bethany Garcia,26,female,Guadalajara,Rubí,1900,26/07/2022,0%,1900,1596,Google ads
+Elizabeth Murphy,28,male,Yucatán,Rubí,1900,29/11/2022,0%,1900,1596,Google ads
+Noah Garcia,26,male,Aguascalientes,Rubí,1900,12/10/2022,0%,1900,1596,Google ads
+Jacob Davis,26,female,Aguascalientes,Rubí,1900,18/12/2022,0%,1900,1596,Facebook Ads
+Emily Wilson,28,female,Zacatecas,Rubí,1900,21/08/2022,0%,1900,1596,Instagram Ads
+Elizabeth Miller,38,female,Sinaloa,Diamante,2800,04/10/2022,20%,2240,"1881,6",Google ads
+Olivia Jones,28,female,Zacatecas,Diamante,2800,21/11/2022,20%,2240,"1881,6",Google ads
+Ava Rodriguez,31,male,Monterrey,Rubí,1900,26/10/2022,0%,1900,1596,Instagram
+Charlie O'Neill,28,female,Zacatecas,Diamante,2800,16/08/2022,30%,1960,"1646,4",Website
+Barbara Davies,29,female,Sinaloa,Diamante,2800,26/11/2022,30%,1960,"1646,4",Facebook Ads
+Barbara Rodriguez,38,female,Ciudad de México,Diamante,2800,20/09/2022,10%,2520,"2116,8",Email
+Joanne Taylor,26,female,Veracruz,Rubí,1900,18/12/2022,0%,1900,1596,Instagram Ads
+Joanne Thomas,27,male,Veracruz,Diamante,2800,27/11/2022,30%,1960,"1646,4",Instagram Ads
+Connor Davis,28,male,Chihuahua,Rubí,1900,26/09/2022,0%,1900,1596,Email
+Jacob O'Sullivan,25,male,Veracruz,Diamante,2800,14/08/2022,0%,2800,2352,Instagram Ads
+Thomas O'Neill,30,female,Monterrey,Rubí,1900,27/12/2022,0%,1900,1596,Instagram Ads
+Elizabeth Smith,29,male,Monterrey,Rubí,1900,01/07/2022,0%,1900,1596,Google ads
+Mason Brown,25,female,Monterrey,Diamante,2800,2/11/2022,10%,2520,"2116,8",Email
+Ava O'Kelly,30,female,Zacatecas,Rubí,1900,25/09/2022,0%,1900,1596,Facebook Ads
+Elizabeth Thomas,26,female,Monterrey,Rubí,1900,03/07/2022,0%,1900,1596,Facebook Ads
+Joanne Davies,35,female,Guadalajara,Diamante,2800,09/12/2022,30%,1960,"1646,4",Facebook Ads
+Isla Murphy,30,female,Guadalajara,Diamante,2800,1/10/2022,0%,2800,2352,Website
+Megan Taylor,30,female,Guadalajara,Diamante,2800,19/11/2022,30%,1960,"1646,4",Instagram
+Melia O'Neill,28,female,Monterrey,Diamante,2800,03/11/2022,10%,2520,"2116,8",Facebook Ads
+Samantha Murphy,39,male,Nuevo León,Rubí,1900,13/08/2022,0%,1900,1596,Website
+James Byrne,26,female,Aguascalientes,Rubí,1900,10/12/2022,0%,1900,1596,Instagram Ads
+Jennifer Walsh,37,female,Zacatecas,Diamante,2800,08/12/2022,30%,1960,"1646,4",Whatsapp
+Isabella Johnson,28,female,Jalisco,Rubí,1900,16/11/2022,0%,1900,1596,Website
+Sophia Brown,28,female,Guadalajara,Diamante,2800,4/11/2022,30%,1960,"1646,4",Facebook Ads
+Jennifer O'Brien,29,female,Aguascalientes,Diamante,2800,30/09/2022,20%,2240,"1881,6",Facebook Ads
+Ava Walsh,28,female,Nayarit,Rubí,1900,28/9/2022,0%,1900,1596,Instagram Ads
+Margaret Byrne,29,male,Monterrey,Diamante,2800,16/9/2022,10%,2520,"2116,8",Google ads
+Jacob Byrne,44,female,Baja California,Rubí,1900,15/09/2022,0%,1900,1596,Email
+Barbara Wilson,26,male,Monterrey,Diamante,2800,27/08/2022,10%,2520,"2116,8",Instagram Ads
+William Garcia,30,female,Monterrey,Rubí,1900,10/10/2022,0%,1900,1596,Instagram Ads
+Ava Smith,37,female,Yucatán,Diamante,2800,11/11/2022,0%,2800,2352,Google ads
+Elizabeth O'Ryan,27,female,Zacatecas,Rubí,1900,06/09/2022,0%,1900,1596,Whatsapp
+Margaret O'Neill,29,female,Sinaloa,Rubí,1900,19/9/2022,0%,1900,1596,Instagram Ads
+Ava O'Neill,29,female,Baja California Sur,Rubí,1900,8/9/2022,0%,1900,1596,Facebook
+Ava Johnson,29,male,San Luis Potosí,Rubí,1900,03/10/2022,0%,1900,1596,Email
+Callum Roberts,28,female,Monterrey,Diamante,2800,12/09/2022,10%,2520,"2116,8",Website
+Olivia O'Kelly,28,female,Monterrey,Diamante,2800,20/09/2022,10%,2520,"2116,8",Instagram Ads
+Poppy O'Connor,25,female,Monterrey,Rubí,1900,9/12/2022,0%,1900,1596,Instagram Ads
+Patricia Taylor,39,female,Nayarit,Rubí,1900,22/08/2022,0%,1900,1596,Instagram Ads
+Mary Johnson,30,female,Monterrey,Rubí,1900,2/9/2022,0%,1900,1596,Instagram Ads
+Samantha O'Neill,27,female,Guadalajara,Rubí,1900,29/11/2022,0%,1900,1596,Website
+Margaret Thomas,31,female,Monterrey,Rubí,1900,27/11/2022,0%,1900,1596,Instagram Ads
+Isla Smith,27,male,Zacatecas,Rubí,1900,28/10/2022,0%,1900,1596,Facebook
+Kyle Brown,25,female,Veracruz,Diamante,2800,20/08/2022,10%,2520,"2116,8",Facebook Ads
+Ava Jones,28,female,Monterrey,Rubí,1900,25/12/2022,0%,1900,1596,Whatsapp
+Poppy Smith,30,female,Monterrey,Rubí,1900,06/08/2022,0%,1900,1596,Google ads
+Mary Smith,28,male,Guadalajara,Diamante,2800,18/07/2022,0%,2800,2352,Instagram Ads
+#¡NÚM!,29,male,Zacatecas,Diamante,2800,10/07/2022,20%,2240,"1881,6",Website
+Thomas O'Sullivan,29,female,Monterrey,Diamante,2800,26/10/2022,10%,2520,"2116,8",Instagram Ads
+Emily O'Ryan,25,male,Monterrey,Rubí,1900,23/11/2022,0%,1900,1596,Facebook Ads
+Noah Johnson,25,male,Veracruz,Rubí,1900,2/9/2022,0%,1900,1596,Google ads
+Jacob Davies,28,female,Monterrey,Rubí,1900,9/11/2022,0%,1900,1596,Google ads
+Melia O'Connor,26,female,Guadalajara,Rubí,1900,18/09/2022,0%,1900,1596,Instagram Ads
+Elizabeth Taylor,30,female,Guadalajara,Diamante,2800,23/8/2022,10%,2520,"2116,8",Whatsapp
+Barbara Rodriguez,26,female,San Luis Potosí,Rubí,1900,17/7/2022,0%,1900,1596,Google ads
+Sophia O'Sullivan,27,male,Zacatecas,Rubí,1900,21/12/2022,0%,1900,1596,Instagram Ads
+David O'Connor,28,male,Monterrey,Diamante,2800,28/11/2022,30%,1960,"1646,4",Instagram Ads
+Thomas Smith,28,male,Guadalajara,Rubí,1900,29/10/2022,0%,1900,1596,Instagram Ads
+Jack Rodriguez,26,female,Guadalajara,Rubí,1900,27/11/2022,0%,1900,1596,Google ads
+Isla Jones,27,female,Monterrey,Rubí,1900,08/12/2022,0%,1900,1596,Instagram Ads
+Emily Smith,27,male,Zacatecas,Rubí,1900,4/12/2022,0%,1900,1596,Facebook Ads
+Jacob Garcia,28,female,Guadalajara,Diamante,2800,21/8/2022,10%,2520,"2116,8",Instagram Ads
+Ava Taylor,29,male,Guadalajara,Rubí,1900,24/10/2022,0%,1900,1596,Instagram Ads
+William Williams,29,female,Veracruz,Rubí,1900,21/7/2022,0%,1900,1596,Google ads
+Emily Johnson,29,male,Coahuila,Rubí,1900,27/10/2022,0%,1900,1596,Facebook Ads
+Reece Smith,27,female,Ciudad de México,Rubí,1900,10/9/2022,0%,1900,1596,Facebook
+Jennifer O'Neill,26,male,Monterrey,Rubí,1900,09/08/2022,0%,1900,1596,Email
+#¡NÚM!,30,male,Monterrey,Rubí,1900,17/07/2022,0%,1900,1596,Instagram Ads
+Connor Jones,43,female,Monterrey,Rubí,1900,16/09/2022,0%,1900,1596,Instagram Ads
+Emma Taylor,34,female,Monterrey,Rubí,1900,25/08/2022,0%,1900,1596,Instagram Ads
+Emma Taylor,25,female,Veracruz,Rubí,1900,16/08/2022,0%,1900,1596,Google ads
+Barbara Williams,28,female,Aguascalientes,Diamante,2800,14/8/2022,30%,1960,"1646,4",Facebook Ads
+Jennifer Walsh,27,male,Guadalajara,Diamante,2800,17/08/2022,10%,2520,"2116,8",Instagram Ads
+#¡NÚM!,27,female,Monterrey,Rubí,1900,26/8/2022,0%,1900,1596,Email
+Olivia Murphy,30,female,Guadalajara,Diamante,2800,19/12/2022,20%,2240,"1881,6",Facebook Ads
+Margaret Brown,28,female,Veracruz,Rubí,1900,9/7/2022,0%,1900,1596,Instagram Ads
+Megan Brown,27,female,Ciudad de México,Rubí,1900,14/10/2022,0%,1900,1596,Facebook Ads
+Poppy O'Neill,29,female,Veracruz,Rubí,1900,08/07/2022,0%,1900,1596,Website
+Elizabeth Murphy,30,female,Monterrey,Rubí,1900,6/8/2022,0%,1900,1596,Google ads
+Linda Davies,28,female,Aguascalientes,Diamante,2800,07/12/2022,20%,2240,"1881,6",Facebook Ads
+Emma Thomas,25,female,Guadalajara,Rubí,1900,1/12/2022,0%,1900,1596,Instagram Ads
+Poppy Rodriguez,28,female,Guadalajara,Rubí,1900,23/08/2022,0%,1900,1596,Instagram Ads
+Olivia Davis,29,female,Baja California,Rubí,1900,13/10/2022,0%,1900,1596,Instagram Ads
+Sophia O'Sullivan,27,female,Puebla,Diamante,2800,12/10/2022,0%,2800,2352,Instagram
+Mary Smith,27,female,Guadalajara,Rubí,1900,16/07/2022,0%,1900,1596,Facebook Ads
+Megan Wilson,28,female,Aguascalientes,Rubí,1900,02/12/2022,0%,1900,1596,Instagram Ads
+Mia Brown,30,female,Monterrey,Rubí,1900,22/8/2022,0%,1900,1596,Google ads
+Ava Brown,26,female,Zacatecas,Diamante,2800,23/12/2022,0%,2800,2352,Google ads
+Joanne O'Sullivan,26,male,Guadalajara,Rubí,1900,23/11/2022,0%,1900,1596,Website
+Richard O'Connor,25,female,Monterrey,Diamante,2800,23/10/2022,20%,2240,"1881,6",Whatsapp
+Barbara Thomas,41,female,Monterrey,Rubí,1900,10/7/2022,0%,1900,1596,Instagram
+Emma O'Neill,27,female,Monterrey,Diamante,2800,10/12/2022,30%,1960,"1646,4",Instagram Ads
+Barbara O'Brien,27,female,Monterrey,Diamante,2800,02/10/2022,0%,2800,2352,Email
+Poppy O'Ryan,29,female,Zacatecas,Rubí,1900,09/08/2022,0%,1900,1596,Facebook Ads
+Barbara Murphy,26,female,Zacatecas,Diamante,2800,21/12/2022,30%,1960,"1646,4",Instagram Ads
+Mia Taylor,29,female,Guadalajara,Rubí,1900,09/11/2022,0%,1900,1596,Facebook Ads
+Isabella O'Brien,30,female,Monterrey,Rubí,1900,08/08/2022,0%,1900,1596,Google ads
+Poppy Roberts,30,female,Monterrey,Diamante,2800,15/7/2022,20%,2240,"1881,6",Google ads
+Megan Murphy,30,male,Zacatecas,Rubí,1900,24/7/2022,0%,1900,1596,Instagram
+Jacob Smith,32,male,Monterrey,Diamante,2800,16/12/2022,0%,2800,2352,Facebook Ads
+Reece Thomas,40,female,Veracruz,Rubí,1900,07/08/2022,0%,1900,1596,Instagram Ads
+Melia O'Sullivan,37,female,Aguascalientes,Diamante,2800,25/8/2022,30%,1960,"1646,4",Instagram Ads
+Barbara O'Sullivan,43,female,Guadalajara,Rubí,1900,15/8/2022,0%,1900,1596,Facebook
+Linda Williams,30,female,Zacatecas,Rubí,1900,29/9/2022,0%,1900,1596,Facebook Ads
+Elizabeth O'Connor,29,female,Monterrey,Diamante,2800,25/10/2022,10%,2520,"2116,8",Email
+Emma O'Brien,26,female,Monterrey,Diamante,2800,31/7/2022,10%,2520,"2116,8",Facebook
+Melia Walsh,26,female,Zacatecas,Diamante,2800,26/12/2022,30%,1960,"1646,4",Google ads
+Sophia Wilson,27,male,Zacatecas,Rubí,1900,25/12/2022,0%,1900,1596,Website
+Jacob Roberts,29,female,Monterrey,Rubí,1900,06/07/2022,0%,1900,1596,Google ads
+Isabella Wilson,27,female,Ciudad de México,Rubí,1900,30/7/2022,0%,1900,1596,Website
+Bethany Taylor,28,female,Sinaloa,Rubí,1900,12/08/2022,0%,1900,1596,Facebook Ads
+Mary Miller,28,female,Ciudad de México,Rubí,1900,09/07/2022,0%,1900,1596,Google ads
+Barbara Wilson,39,female,Monterrey,Diamante,2800,06/10/2022,30%,1960,"1646,4",Website
+Poppy Davis,28,female,Sinaloa,Diamante,2800,4/11/2022,10%,2520,"2116,8",Facebook Ads
+Margaret Davis,26,female,Quintana Roo,Diamante,2800,30/10/2022,30%,1960,"1646,4",Google ads
+Linda Wilson,25,male,Puebla,Diamante,2800,14/11/2022,20%,2240,"1881,6",Facebook
+Kyle Roberts,29,female,Monterrey,Diamante,2800,12/11/2022,10%,2520,"2116,8",Facebook
+Linda Miller,36,female,Aguascalientes,Diamante,2800,04/08/2022,20%,2240,"1881,6",Website
+Elizabeth Garcia,30,female,Coahuila,Diamante,2800,18/11/2022,20%,2240,"1881,6",Facebook Ads
+Elizabeth Brown,37,female,Monterrey,Rubí,1900,6/8/2022,0%,1900,1596,Email
+Megan Davis,26,male,Guerrero,Rubí,1900,05/11/2022,0%,1900,1596,Email
+Noah Davies,25,female,Veracruz,Diamante,2800,12/12/2022,0%,2800,2352,Facebook Ads
+Ava Rodriguez,34,female,Aguascalientes,Rubí,1900,10/11/2022,0%,1900,1596,Instagram
+Elizabeth Smith,29,female,Monterrey,Rubí,1900,7/8/2022,0%,1900,1596,Website
+Elizabeth Smith,27,female,Guadalajara,Diamante,2800,9/11/2022,30%,1960,"1646,4",Facebook Ads
+Samantha Thomas,42,female,Monterrey,Rubí,1900,14/11/2022,0%,1900,1596,Facebook Ads
+Olivia Smith,28,female,Guadalajara,Diamante,2800,6/7/2022,0%,2800,2352,Email
+Mary Walsh,27,female,Guadalajara,Rubí,1900,08/07/2022,0%,1900,1596,Google ads
+Melia O'Brien,30,female,Zacatecas,Rubí,1900,12/9/2022,0%,1900,1596,Facebook
+Poppy Garcia,35,male,Aguascalientes,Diamante,2800,14/12/2022,20%,2240,"1881,6",Website
+Jake O'Sullivan,30,male,Zacatecas,Rubí,1900,29/09/2022,0%,1900,1596,Google ads
+Connor O'Kelly,30,female,Monterrey,Diamante,2800,4/8/2022,0%,2800,2352,Instagram
+Joanne O'Ryan,32,male,Guanajuato,Rubí,1900,08/12/2022,0%,1900,1596,Instagram Ads
+Jacob Thomas,43,female,Zacatecas,Rubí,1900,30/11/2022,0%,1900,1596,Instagram Ads
+Samantha O'Neill,26,female,Zacatecas,Rubí,1900,13/10/2022,0%,1900,1596,Facebook Ads
+Isla O'Ryan,27,female,Jalisco,Rubí,1900,10/10/2022,0%,1900,1596,Website
+Joanne O'Brien,30,female,Durango,Rubí,1900,16/11/2022,0%,1900,1596,Instagram Ads
+Barbara Taylor,38,female,Monterrey,Rubí,1900,03/09/2022,0%,1900,1596,Google ads
+Joanne O'Sullivan,43,female,Zacatecas,Rubí,1900,25/9/2022,0%,1900,1596,Instagram Ads
+Bethany O'Ryan,40,male,Monterrey,Rubí,1900,9/9/2022,0%,1900,1596,Google ads
+Michael O'Neill,26,female,Monterrey,Rubí,1900,15/07/2022,0%,1900,1596,Website
+Emma O'Sullivan,30,female,Chiapas,Diamante,2800,15/12/2022,30%,1960,"1646,4",Google ads
+Ava O'Connor,30,female,Monterrey,Rubí,1900,6/12/2022,0%,1900,1596,Facebook Ads
+Patricia Evans,30,female,Monterrey,Diamante,2800,17/7/2022,30%,1960,"1646,4",Instagram Ads
+Patricia Roberts,27,female,Zacatecas,Rubí,1900,12/09/2022,0%,1900,1596,Facebook Ads
+Isabella Rodriguez,25,female,Monterrey,Diamante,2800,30/08/2022,10%,2520,"2116,8",Google ads
+Olivia Brown,30,female,Monterrey,Rubí,1900,24/12/2022,0%,1900,1596,Google ads
+Isla Roberts,26,female,Sinaloa,Rubí,1900,04/11/2022,0%,1900,1596,Instagram Ads
+Mia O'Sullivan,28,female,San Luis Potosí,Diamante,2800,09/08/2022,20%,2240,"1881,6",Instagram Ads
+Patricia Rodriguez,26,female,Zacatecas,Rubí,1900,15/7/2022,0%,1900,1596,Facebook Ads
+Ava Evans,26,female,Zacatecas,Diamante,2800,10/7/2022,30%,1960,"1646,4",Whatsapp
+Megan Walsh,29,male,Puebla,Rubí,1900,16/9/2022,0%,1900,1596,Website
+Oliver Jones,25,female,Monterrey,Rubí,1900,19/12/2022,0%,1900,1596,Facebook Ads
+Ava Thomas,27,female,Guerrero,Rubí,1900,24/10/2022,0%,1900,1596,Facebook Ads
+Ava Wilson,28,male,Veracruz,Rubí,1900,25/07/2022,0%,1900,1596,Google ads
+William Thomas,29,male,Zacatecas,Diamante,2800,5/9/2022,30%,1960,"1646,4",Instagram Ads
+Callum Williams,26,female,Guadalajara,Rubí,1900,21/09/2022,0%,1900,1596,Google ads
+Ava Walsh,28,female,Guadalajara,Diamante,2800,13/12/2022,0%,2800,2352,Website
+Mia Thomas,28,female,Zacatecas,Rubí,1900,7/7/2022,0%,1900,1596,Facebook Ads
+Barbara Thomas,26,male,Baja California Sur,Rubí,1900,07/11/2022,0%,1900,1596,Facebook Ads
+Mason O'Brien,33,female,Veracruz,Rubí,1900,6/12/2022,0%,1900,1596,Instagram Ads
+Emily Roberts,25,female,Aguascalientes,Diamante,2800,2/7/2022,0%,2800,2352,Google ads
+Joanne Miller,44,female,Veracruz,Diamante,2800,20/09/2022,0%,2800,2352,Instagram Ads
+Isabella Smith,28,male,Zacatecas,Diamante,2800,18/10/2022,30%,1960,"1646,4",Website
+Jake Davis,29,female,Puebla,Rubí,1900,25/11/2022,0%,1900,1596,Instagram Ads
+Poppy Thomas,25,male,Monterrey,Rubí,1900,30/10/2022,0%,1900,1596,Facebook Ads
+Ethan Smith,27,male,Monterrey,Rubí,1900,26/12/2022,0%,1900,1596,Instagram Ads
+Jacob Taylor,42,female,Guadalajara,Rubí,1900,15/10/2022,0%,1900,1596,Google ads
+Bethany Wilson,30,female,Guadalajara,Rubí,1900,12/08/2022,0%,1900,1596,Facebook Ads
+Barbara Garcia,25,female,Zacatecas,Rubí,1900,17/10/2022,0%,1900,1596,Google ads
+Joanne Johnson,26,male,Ciudad de México,Diamante,2800,3/9/2022,10%,2520,"2116,8",Google ads
+Callum O'Brien,27,female,Zacatecas,Rubí,1900,26/10/2022,0%,1900,1596,Instagram Ads
+Linda Jones,25,male,Puebla,Diamante,2800,04/07/2022,20%,2240,"1881,6",Google ads
+Jack Jones,40,female,Aguascalientes,Diamante,2800,9/11/2022,20%,2240,"1881,6",Google ads
+Bethany Evans,25,female,Durango,Rubí,1900,10/12/2022,0%,1900,1596,Website
+Melia Smith,26,male,Aguascalientes,Rubí,1900,28/09/2022,0%,1900,1596,Google ads
+Jake Brown,29,female,Zacatecas,Rubí,1900,1/12/2022,0%,1900,1596,Instagram Ads
+Emily Rodriguez,28,female,Nuevo León,Diamante,2800,8/11/2022,20%,2240,"1881,6",Google ads
+Elizabeth Taylor,43,female,Aguascalientes,Rubí,1900,17/11/2022,0%,1900,1596,Instagram Ads
+Isla Williams,26,female,Monterrey,Rubí,1900,4/8/2022,0%,1900,1596,Instagram Ads
+Samantha Thomas,29,female,San Luis Potosí,Rubí,1900,09/09/2022,0%,1900,1596,Email
+Isabella Walsh,30,female,Guadalajara,Diamante,2800,09/10/2022,0%,2800,2352,Facebook Ads
+Barbara Thomas,29,female,Zacatecas,Rubí,1900,29/08/2022,0%,1900,1596,Google ads
+Emma O'Ryan,26,female,San Luis Potosí,Rubí,1900,28/10/2022,0%,1900,1596,Facebook Ads
+Samantha Walsh,27,female,Guadalajara,Diamante,2800,19/12/2022,0%,2800,2352,Instagram Ads
+Patricia Byrne,27,female,Zacatecas,Diamante,2800,01/08/2022,0%,2800,2352,Email
+Linda Thomas,30,male,Aguascalientes,Rubí,1900,4/11/2022,0%,1900,1596,Website
+Kyle O'Connor,27,male,Monterrey,Diamante,2800,06/12/2022,30%,1960,"1646,4",Facebook Ads
+Noah Evans,27,male,Zacatecas,Rubí,1900,17/11/2022,0%,1900,1596,Facebook
+Callum Rodriguez,28,male,Aguascalientes,Rubí,1900,11/10/2022,0%,1900,1596,Instagram Ads
+Oscar O'Brien,30,male,Sinaloa,Diamante,2800,13/7/2022,30%,1960,"1646,4",Google ads
+#¡NÚM!,29,male,Guadalajara,Rubí,1900,7/11/2022,0%,1900,1596,Instagram
+Ethan O'Kelly,29,female,Aguascalientes,Rubí,1900,31/12/2022,0%,1900,1596,Instagram Ads
+Bethany Smith,37,female,Baja California,Rubí,1900,18/7/2022,0%,1900,1596,Website
+Ava O'Neill,28,female,Monterrey,Diamante,2800,11/8/2022,30%,1960,"1646,4",Instagram
+Mary Wilson,39,female,Monterrey,Rubí,1900,25/11/2022,0%,1900,1596,Instagram Ads
+Emma Davies,29,male,Zacatecas,Rubí,1900,08/11/2022,0%,1900,1596,Instagram Ads
+Noah O'Brien,35,female,Guadalajara,Rubí,1900,24/10/2022,0%,1900,1596,Instagram Ads
+Olivia Taylor,29,male,San Luis Potosí,Rubí,1900,06/08/2022,0%,1900,1596,Instagram Ads
+Liam O'Kelly,30,female,Monterrey,Rubí,1900,20/12/2022,0%,1900,1596,Google ads
+Emma Walsh,40,female,Monterrey,Diamante,2800,4/7/2022,10%,2520,"2116,8",Instagram Ads
+Joanne Brown,26,male,Puebla,Diamante,2800,11/08/2022,10%,2520,"2116,8",Google ads
+Kyle Roberts,27,male,Veracruz,Rubí,1900,28/10/2022,0%,1900,1596,Google ads
+Thomas Smith,33,female,San Luis Potosí,Rubí,1900,08/08/2022,0%,1900,1596,Instagram Ads
+Mary Rodriguez,41,female,Ciudad de México,Diamante,2800,18/11/2022,30%,1960,"1646,4",Google ads
+Isabella O'Neill,30,male,Guadalajara,Rubí,1900,15/12/2022,0%,1900,1596,Website
+Mason Garcia,25,female,Monterrey,Rubí,1900,15/09/2022,0%,1900,1596,Facebook Ads
+Ava Smith,30,female,Zacatecas,Diamante,2800,13/10/2022,20%,2240,"1881,6",Email
+Isabella Byrne,37,female,Durango,Rubí,1900,01/10/2022,0%,1900,1596,Facebook Ads
+Mia Smith,43,male,Chiapas,Rubí,1900,26/9/2022,0%,1900,1596,Instagram Ads
+Jacob O'Connor,29,female,Aguascalientes,Diamante,2800,15/11/2022,0%,2800,2352,Facebook Ads
+Megan Byrne,44,female,San Luis Potosí,Rubí,1900,9/12/2022,0%,1900,1596,Facebook Ads
+Emily Smith,28,male,Veracruz,Rubí,1900,16/10/2022,0%,1900,1596,Google ads
+Harry Davies,26,male,Monterrey,Rubí,1900,18/7/2022,0%,1900,1596,Instagram Ads
+Michael Garcia,27,female,Monterrey,Rubí,1900,07/10/2022,0%,1900,1596,Google ads
+Margaret O'Neill,26,female,Monterrey,Rubí,1900,11/11/2022,0%,1900,1596,Website
+Jennifer Walsh,25,female,Veracruz,Rubí,1900,21/12/2022,0%,1900,1596,Facebook Ads
+Elizabeth Byrne,30,male,Monterrey,Diamante,2800,12/10/2022,30%,1960,"1646,4",Facebook Ads
+Jack Miller,27,female,Guadalajara,Rubí,1900,12/12/2022,0%,1900,1596,Facebook Ads
+Samantha Evans,25,female,Veracruz,Rubí,1900,13/08/2022,0%,1900,1596,Instagram Ads
+Margaret O'Kelly,25,male,Guadalajara,Diamante,2800,30/08/2022,20%,2240,"1881,6",Google ads
+Jack Smith,45,male,Aguascalientes,Rubí,1900,17/11/2022,0%,1900,1596,Google ads
+#¡NÚM!,44,female,Monterrey,Diamante,2800,13/11/2022,10%,2520,"2116,8",Instagram
+Sophia Murphy,27,male,Zacatecas,Diamante,2800,30/08/2022,0%,2800,2352,Facebook Ads
+Thomas Thomas,28,female,Zacatecas,Diamante,2800,30/11/2022,30%,1960,"1646,4",Facebook Ads
+Emily Davis,25,female,Zacatecas,Rubí,1900,24/07/2022,0%,1900,1596,Facebook Ads
+Isabella Davis,29,male,Aguascalientes,Diamante,2800,06/11/2022,20%,2240,"1881,6",Google ads
+Oscar Garcia,25,female,Guadalajara,Diamante,2800,16/10/2022,0%,2800,2352,Email
+Mary Smith,30,female,Monterrey,Rubí,1900,3/10/2022,0%,1900,1596,Facebook Ads
+Mia Davis,43,female,Yucatán,Rubí,1900,25/12/2022,0%,1900,1596,Google ads
+Isla Brown,26,female,Zacatecas,Rubí,1900,27/08/2022,0%,1900,1596,Email
+Linda Jones,34,female,Guanajuato,Rubí,1900,16/8/2022,0%,1900,1596,Facebook Ads
+Olivia Miller,26,male,Zacatecas,Diamante,2800,25/09/2022,10%,2520,"2116,8",Website
+Liam Murphy,26,female,Monterrey,Diamante,2800,13/8/2022,20%,2240,"1881,6",Website
+Elizabeth O'Neill,27,male,Sinaloa,Rubí,1900,11/09/2022,0%,1900,1596,Instagram Ads
+Oliver Murphy,26,male,Monterrey,Diamante,2800,23/09/2022,10%,2520,"2116,8",Facebook Ads
+George Thomas,27,male,Guadalajara,Rubí,1900,1/9/2022,0%,1900,1596,Facebook Ads
+William O'Brien,45,female,Zacatecas,Rubí,1900,28/08/2022,0%,1900,1596,Email
+Joanne Murphy,40,male,Jalisco,Rubí,1900,10/7/2022,0%,1900,1596,Instagram
+Liam Smith,26,male,Ciudad de México,Rubí,1900,10/10/2022,0%,1900,1596,Website
+William Rodriguez,25,female,Monterrey,Rubí,1900,5/12/2022,0%,1900,1596,Facebook Ads
+Barbara Williams,30,female,Aguascalientes,Diamante,2800,23/11/2022,0%,2800,2352,Instagram Ads
+Melia Williams,36,female,Veracruz,Rubí,1900,26/7/2022,0%,1900,1596,Instagram Ads
+Emma Evans,26,female,Aguascalientes,Rubí,1900,30/09/2022,0%,1900,1596,Instagram Ads
+Joanne Wilson,26,female,Monterrey,Diamante,2800,14/09/2022,20%,2240,"1881,6",Website
+Megan Murphy,26,female,Guerrero,Rubí,1900,16/12/2022,0%,1900,1596,Email
+Ava O'Ryan,29,female,Monterrey,Rubí,1900,10/10/2022,0%,1900,1596,Facebook Ads
+Linda Rodriguez,29,female,Monterrey,Diamante,2800,1/12/2022,30%,1960,"1646,4",Instagram Ads
+Bethany Davis,30,male,Ciudad de México,Diamante,2800,26/12/2022,20%,2240,"1881,6",Whatsapp
+Richard O'Brien,28,female,Zacatecas,Rubí,1900,19/11/2022,0%,1900,1596,Google ads
+Bethany Johnson,43,female,Monterrey,Rubí,1900,21/12/2022,0%,1900,1596,Instagram Ads
+Sophia Thomas,26,female,Monterrey,Diamante,2800,4/9/2022,30%,1960,"1646,4",Google ads
+Olivia Davis,27,female,Aguascalientes,Diamante,2800,25/9/2022,0%,2800,2352,Facebook Ads
+Ava Smith,30,male,Ciudad de México,Rubí,1900,22/09/2022,0%,1900,1596,Instagram Ads
+Liam O'Sullivan,45,female,Monterrey,Rubí,1900,4/10/2022,0%,1900,1596,Email
+Isabella Roberts,32,female,Monterrey,Diamante,2800,05/11/2022,20%,2240,"1881,6",Instagram
+Barbara Brown,26,male,Monterrey,Rubí,1900,4/8/2022,0%,1900,1596,Google ads
+John Murphy,38,male,Guadalajara,Rubí,1900,10/8/2022,0%,1900,1596,Google ads
+Noah O'Neill,26,female,Aguascalientes,Rubí,1900,13/11/2022,0%,1900,1596,Google ads
+Emily O'Sullivan,30,female,Guadalajara,Rubí,1900,13/11/2022,0%,1900,1596,Instagram Ads
+Samantha Roberts,27,female,Monterrey,Rubí,1900,09/08/2022,0%,1900,1596,Facebook Ads
+Ava Davis,30,female,Sinaloa,Rubí,1900,05/07/2022,0%,1900,1596,Website
+Isabella Wilson,29,male,Guadalajara,Diamante,2800,18/12/2022,20%,2240,"1881,6",Website
+Jake Garcia,30,female,Baja California Sur,Diamante,2800,11/9/2022,30%,1960,"1646,4",Email
+Ava O'Connor,35,male,Monterrey,Rubí,1900,26/9/2022,0%,1900,1596,Facebook
+Mason Byrne,25,female,Guadalajara,Diamante,2800,20/12/2022,10%,2520,"2116,8",Email
+Joanne Jones,28,female,Sinaloa,Diamante,2800,14/07/2022,0%,2800,2352,Website
+Poppy O'Sullivan,27,male,Baja California,Diamante,2800,15/10/2022,20%,2240,"1881,6",Website
+Jack Taylor,27,male,Monterrey,Rubí,1900,18/09/2022,0%,1900,1596,Instagram Ads
+Charlie Johnson,28,female,Monterrey,Diamante,2800,13/11/2022,0%,2800,2352,Website
+Jennifer Murphy,26,male,Guadalajara,Rubí,1900,28/7/2022,0%,1900,1596,Instagram Ads
+Jake Smith,40,male,Monterrey,Diamante,2800,13/07/2022,30%,1960,"1646,4",Facebook Ads
+David Thomas,29,female,Zacatecas,Diamante,2800,7/8/2022,0%,2800,2352,Instagram Ads
+Poppy Taylor,29,female,Ciudad de México,Rubí,1900,10/07/2022,0%,1900,1596,Whatsapp
+Isabella Brown,29,male,Aguascalientes,Diamante,2800,24/08/2022,0%,2800,2352,Instagram
+William O'Brien,27,female,Aguascalientes,Rubí,1900,03/09/2022,0%,1900,1596,Facebook Ads
+Emily Johnson,29,female,Zacatecas,Rubí,1900,1/11/2022,0%,1900,1596,Instagram
+Mia O'Ryan,27,female,Zacatecas,Rubí,1900,13/12/2022,0%,1900,1596,Instagram Ads
+Mia Thomas,28,male,Monterrey,Diamante,2800,15/11/2022,0%,2800,2352,Google ads
+Oliver Byrne,29,female,Guadalajara,Diamante,2800,4/11/2022,0%,2800,2352,Facebook Ads
+Olivia O'Sullivan,25,male,Guadalajara,Rubí,1900,16/8/2022,0%,1900,1596,Instagram Ads
+Kyle Jones,26,male,Veracruz,Rubí,1900,5/8/2022,0%,1900,1596,Instagram
+Jack O'Sullivan,27,female,Baja California Sur,Rubí,1900,3/8/2022,0%,1900,1596,Instagram Ads
+Margaret Johnson,26,male,Zacatecas,Rubí,1900,1/8/2022,0%,1900,1596,Facebook Ads
+Connor Garcia,30,male,Guadalajara,Diamante,2800,31/8/2022,30%,1960,"1646,4",Instagram Ads
+#¡NÚM!,26,male,Sinaloa,Diamante,2800,04/12/2022,30%,1960,"1646,4",Instagram Ads
+Liam Brown,35,male,Aguascalientes,Rubí,1900,22/12/2022,0%,1900,1596,Facebook Ads
+Michael Rodriguez,28,female,Zacatecas,Rubí,1900,13/9/2022,0%,1900,1596,Facebook Ads
+Samantha O'Sullivan,30,female,Monterrey,Diamante,2800,16/10/2022,0%,2800,2352,Google ads
+Isla Brown,27,female,Zacatecas,Rubí,1900,18/07/2022,0%,1900,1596,Facebook Ads
+Mary Smith,27,female,Campeche,Diamante,2800,8/9/2022,10%,2520,"2116,8",Website
+Elizabeth Murphy,25,female,Ciudad de México,Rubí,1900,14/10/2022,0%,1900,1596,Facebook Ads
+Isabella Roberts,30,female,Campeche,Diamante,2800,14/11/2022,30%,1960,"1646,4",Website
+Megan Davies,30,male,Guadalajara,Diamante,2800,23/9/2022,0%,2800,2352,Email
+Ethan Davis,29,female,Guadalajara,Diamante,2800,12/7/2022,30%,1960,"1646,4",Email
+Isla O'Connor,27,female,Aguascalientes,Rubí,1900,10/11/2022,0%,1900,1596,Facebook Ads
+Mary Miller,26,male,Guadalajara,Rubí,1900,9/10/2022,0%,1900,1596,Instagram Ads
+Oscar Walsh,36,male,Guerrero,Diamante,2800,9/8/2022,0%,2800,2352,Facebook Ads
+Robert Roberts,27,female,Monterrey,Rubí,1900,16/10/2022,0%,1900,1596,Instagram Ads
+Elizabeth Brown,39,female,Monterrey,Rubí,1900,16/10/2022,0%,1900,1596,Email
+Patricia Thomas,28,male,Sinaloa,Diamante,2800,18/10/2022,10%,2520,"2116,8",Facebook Ads
+George Walsh,29,female,Sinaloa,Diamante,2800,29/10/2022,20%,2240,"1881,6",Instagram Ads
+Olivia Davies,45,male,Zacatecas,Diamante,2800,23/7/2022,30%,1960,"1646,4",Google ads
+Richard Davis,28,female,Chiapas,Diamante,2800,1/11/2022,10%,2520,"2116,8",Website
+Poppy Johnson,33,female,Querétaro,Rubí,1900,04/09/2022,0%,1900,1596,Instagram
+Poppy Smith,30,female,Durango,Rubí,1900,17/10/2022,0%,1900,1596,Google ads
+Joanne Davies,44,female,Guadalajara,Diamante,2800,25/07/2022,10%,2520,"2116,8",Instagram Ads
+Jennifer O'Brien,29,male,Sinaloa,Rubí,1900,12/10/2022,0%,1900,1596,Instagram Ads
+Richard Rodriguez,29,female,Guadalajara,Diamante,2800,1/12/2022,10%,2520,"2116,8",Instagram Ads
+Olivia Miller,26,female,Guadalajara,Rubí,1900,3/10/2022,0%,1900,1596,Website
+Bethany Evans,33,female,Aguascalientes,Rubí,1900,23/7/2022,0%,1900,1596,Facebook Ads
+Bethany Miller,29,female,Guadalajara,Rubí,1900,19/7/2022,0%,1900,1596,Instagram Ads
+Isabella Thomas,40,female,Monterrey,Diamante,2800,30/10/2022,0%,2800,2352,Instagram Ads
+Margaret Taylor,30,female,Sinaloa,Diamante,2800,7/9/2022,0%,2800,2352,Facebook Ads
+Ava Roberts,35,male,Ciudad de México,Diamante,2800,03/11/2022,30%,1960,"1646,4",Google ads
+Kyle O'Kelly,30,female,Monterrey,Rubí,1900,14/11/2022,0%,1900,1596,Website
+Linda Jones,29,female,Guadalajara,Rubí,1900,23/08/2022,0%,1900,1596,Facebook Ads
+Linda O'Kelly,37,male,Zacatecas,Rubí,1900,19/11/2022,0%,1900,1596,Website
+Mason O'Sullivan,29,female,Guadalajara,Diamante,2800,01/07/2022,30%,1960,"1646,4",Email
+Isabella Miller,41,female,Baja California Sur,Rubí,1900,21/12/2022,0%,1900,1596,Facebook Ads
+Mia Garcia,30,female,Monterrey,Rubí,1900,14/09/2022,0%,1900,1596,Website
+Isla O'Brien,27,female,Guadalajara,Rubí,1900,09/11/2022,0%,1900,1596,Google ads
+Olivia Thomas,44,female,Monterrey,Rubí,1900,13/11/2022,0%,1900,1596,Whatsapp
+Patricia O'Brien,27,female,Monterrey,Rubí,1900,30/10/2022,0%,1900,1596,Instagram
+Isla O'Brien,30,male,Guadalajara,Rubí,1900,25/9/2022,0%,1900,1596,Google ads
+Jacob Davis,29,female,Guadalajara,Diamante,2800,16/11/2022,0%,2800,2352,Facebook Ads
+Ava O'Sullivan,29,female,Guadalajara,Rubí,1900,1/11/2022,0%,1900,1596,Google ads
+Jennifer Miller,29,female,Aguascalientes,Rubí,1900,23/9/2022,0%,1900,1596,Instagram Ads
+Ava Thomas,25,female,Guadalajara,Rubí,1900,01/10/2022,0%,1900,1596,Email
+Melia Smith,39,female,Veracruz,Rubí,1900,27/11/2022,0%,1900,1596,Facebook Ads
+Mary Davies,30,male,Guadalajara,Rubí,1900,3/7/2022,0%,1900,1596,Website
+Richard Roberts,25,male,Guadalajara,Diamante,2800,6/8/2022,20%,2240,"1881,6",Facebook Ads
+Kyle Wilson,38,male,Chihuahua,Diamante,2800,18/7/2022,30%,1960,"1646,4",Instagram
+Michael Williams,25,female,Monterrey,Rubí,1900,22/12/2022,0%,1900,1596,Instagram Ads
+Melia Evans,43,female,Monterrey,Rubí,1900,27/8/2022,0%,1900,1596,Instagram Ads
+Melia O'Sullivan,29,female,Guadalajara,Rubí,1900,14/10/2022,0%,1900,1596,Facebook Ads
+Elizabeth Smith,38,male,Guadalajara,Rubí,1900,06/09/2022,0%,1900,1596,Facebook Ads
+Jacob Jones,26,female,Zacatecas,Rubí,1900,02/12/2022,0%,1900,1596,Website
+Joanne Davies,34,male,Aguascalientes,Rubí,1900,23/12/2022,0%,1900,1596,Instagram Ads
+#¡NÚM!,25,male,Chihuahua,Rubí,1900,19/08/2022,0%,1900,1596,Facebook Ads
+Jack Garcia,30,female,Sinaloa,Rubí,1900,26/11/2022,0%,1900,1596,Instagram
+Megan Davies,29,male,Guadalajara,Rubí,1900,29/10/2022,0%,1900,1596,Instagram Ads
+Richard Jones,25,male,Querétaro,Rubí,1900,17/8/2022,0%,1900,1596,Website
+George Davies,30,female,Zacatecas,Diamante,2800,27/12/2022,20%,2240,"1881,6",Google ads
+Megan O'Sullivan,30,male,Aguascalientes,Rubí,1900,07/07/2022,0%,1900,1596,Email
+Harry Davies,27,female,Ciudad de México,Rubí,1900,03/09/2022,0%,1900,1596,Website
+Olivia Davies,26,male,Monterrey,Rubí,1900,18/08/2022,0%,1900,1596,Instagram Ads
+James Evans,45,male,Nuevo León,Rubí,1900,13/12/2022,0%,1900,1596,Google ads
+James Wilson,30,male,Baja California Sur,Rubí,1900,21/12/2022,0%,1900,1596,Instagram Ads
+Jake Garcia,25,female,Veracruz,Diamante,2800,05/09/2022,30%,1960,"1646,4",Facebook
+Mia O'Sullivan,25,female,Monterrey,Rubí,1900,17/11/2022,0%,1900,1596,Instagram Ads
+Barbara Taylor,28,female,Guadalajara,Diamante,2800,09/10/2022,10%,2520,"2116,8",Email
+Mia Rodriguez,27,male,Guadalajara,Rubí,1900,23/09/2022,0%,1900,1596,Facebook Ads
+Michael Miller,28,male,Veracruz,Diamante,2800,10/12/2022,0%,2800,2352,Google ads
+David Smith,36,female,Monterrey,Rubí,1900,04/09/2022,0%,1900,1596,Instagram Ads
+Emma Evans,28,female,Guadalajara,Rubí,1900,26/12/2022,0%,1900,1596,Instagram Ads
+Isla Brown,27,female,Monterrey,Diamante,2800,23/11/2022,0%,2800,2352,Instagram Ads
+Elizabeth Davies,29,female,Guadalajara,Rubí,1900,20/12/2022,0%,1900,1596,Instagram Ads
+Joanne O'Neill,45,female,Aguascalientes,Rubí,1900,01/08/2022,0%,1900,1596,Facebook
+Emma O'Sullivan,27,female,Guadalajara,Rubí,1900,30/11/2022,0%,1900,1596,Email
+Isla Miller,29,male,Aguascalientes,Rubí,1900,28/11/2022,0%,1900,1596,Email
+Jacob Taylor,32,female,Aguascalientes,Diamante,2800,19/07/2022,30%,1960,"1646,4",Instagram Ads
+Isabella Byrne,25,male,Guadalajara,Diamante,2800,16/7/2022,20%,2240,"1881,6",Google ads
+James Davis,25,female,Monterrey,Diamante,2800,5/12/2022,10%,2520,"2116,8",Instagram Ads
+Olivia Roberts,27,male,Sinaloa,Rubí,1900,24/8/2022,0%,1900,1596,Facebook Ads
+#¡NÚM!,35,female,Guadalajara,Rubí,1900,17/10/2022,0%,1900,1596,Website
+Margaret Walsh,29,male,Zacatecas,Diamante,2800,13/8/2022,30%,1960,"1646,4",Website
+Jake O'Kelly,38,female,Zacatecas,Diamante,2800,28/12/2022,30%,1960,"1646,4",Whatsapp
+Barbara Brown,27,male,Guadalajara,Rubí,1900,08/11/2022,0%,1900,1596,Website
+Ethan Evans,27,male,Guadalajara,Rubí,1900,11/9/2022,0%,1900,1596,Instagram
+Thomas O'Ryan,26,male,Zacatecas,Diamante,2800,7/10/2022,10%,2520,"2116,8",Instagram Ads
+John Taylor,28,female,Monterrey,Rubí,1900,18/11/2022,0%,1900,1596,Email
+Elizabeth O'Ryan,28,female,Zacatecas,Diamante,2800,07/11/2022,0%,2800,2352,Google ads
+Isabella Evans,26,female,Veracruz,Rubí,1900,06/10/2022,0%,1900,1596,Whatsapp
+Jennifer Brown,27,male,Veracruz,Rubí,1900,15/7/2022,0%,1900,1596,Facebook Ads
+Michael Wilson,32,female,Monterrey,Rubí,1900,5/9/2022,0%,1900,1596,Facebook Ads
+Elizabeth Davies,34,female,Monterrey,Rubí,1900,15/10/2022,0%,1900,1596,Instagram Ads
+Ava Wilson,29,female,Guadalajara,Rubí,1900,6/11/2022,0%,1900,1596,Website
+Ava Davis,26,female,Guadalajara,Diamante,2800,04/08/2022,30%,1960,"1646,4",Facebook
+Megan Johnson,44,male,Veracruz,Diamante,2800,1/10/2022,20%,2240,"1881,6",Facebook Ads
+Mason Taylor,25,female,Guadalajara,Rubí,1900,30/12/2022,0%,1900,1596,Instagram Ads
+Margaret Murphy,26,female,Sinaloa,Diamante,2800,22/12/2022,10%,2520,"2116,8",Google ads
+Ava Williams,26,male,Monterrey,Diamante,2800,25/9/2022,10%,2520,"2116,8",Instagram Ads
+George O'Connor,35,female,Monterrey,Diamante,2800,5/7/2022,30%,1960,"1646,4",Facebook Ads
+Emily Smith,29,female,Monterrey,Rubí,1900,26/11/2022,0%,1900,1596,Facebook Ads
+Elizabeth Brown,26,female,Yucatán,Diamante,2800,6/12/2022,0%,2800,2352,Website
+Emily Wilson,25,female,Tamaulipas,Rubí,1900,07/09/2022,0%,1900,1596,Facebook Ads
+Isla Murphy,28,female,Baja California,Diamante,2800,23/08/2022,30%,1960,"1646,4",Facebook Ads
+Isabella Williams,29,male,Monterrey,Rubí,1900,23/12/2022,0%,1900,1596,Facebook
+Mason O'Connor,29,female,Aguascalientes,Diamante,2800,22/11/2022,0%,2800,2352,Website
+Jennifer Garcia,33,male,Monterrey,Rubí,1900,27/10/2022,0%,1900,1596,Instagram Ads
+Jack O'Neill,30,male,Oaxaca,Rubí,1900,29/10/2022,0%,1900,1596,Email
+Jake Byrne,27,female,Guadalajara,Diamante,2800,30/10/2022,30%,1960,"1646,4",Website
+Joanne Miller,26,female,Guadalajara,Diamante,2800,17/8/2022,20%,2240,"1881,6",Facebook Ads
+Margaret Davis,31,male,Monterrey,Rubí,1900,21/12/2022,0%,1900,1596,Facebook Ads
+Jacob Taylor,39,female,Veracruz,Diamante,2800,19/12/2022,0%,2800,2352,Instagram Ads
+Elizabeth Smith,29,female,Monterrey,Rubí,1900,2/7/2022,0%,1900,1596,Email
+Mary Miller,29,female,Monterrey,Rubí,1900,28/11/2022,0%,1900,1596,Instagram Ads
+Isabella Evans,29,male,Veracruz,Rubí,1900,10/10/2022,0%,1900,1596,Whatsapp
+#¡NÚM!,31,male,Aguascalientes,Rubí,1900,27/08/2022,0%,1900,1596,Facebook Ads
+Ethan Johnson,26,female,Zacatecas,Rubí,1900,26/11/2022,0%,1900,1596,Instagram Ads
+Elizabeth Wilson,28,male,Veracruz,Diamante,2800,4/11/2022,0%,2800,2352,Facebook Ads
+Noah Murphy,42,female,Guadalajara,Rubí,1900,14/07/2022,0%,1900,1596,Email
+Olivia O'Ryan,28,female,Campeche,Diamante,2800,17/8/2022,0%,2800,2352,Google ads
+Samantha O'Sullivan,29,female,Zacatecas,Rubí,1900,31/8/2022,0%,1900,1596,Instagram Ads
+Jennifer Davis,26,male,Veracruz,Diamante,2800,01/10/2022,20%,2240,"1881,6",Whatsapp
+Jacob Garcia,25,female,Monterrey,Rubí,1900,2/11/2022,0%,1900,1596,Instagram Ads
+Joanne Wilson,29,male,Guadalajara,Diamante,2800,22/7/2022,0%,2800,2352,Website
+Reece Wilson,30,male,Ciudad de México,Rubí,1900,8/9/2022,0%,1900,1596,Website
+Mason Williams,25,male,Guadalajara,Diamante,2800,14/08/2022,20%,2240,"1881,6",Instagram Ads
+Connor Evans,33,female,Chiapas,Rubí,1900,4/7/2022,0%,1900,1596,Facebook Ads
+Bethany Wilson,30,female,Guadalajara,Diamante,2800,15/9/2022,20%,2240,"1881,6",Google ads
+Mary Jones,26,female,Oaxaca,Diamante,2800,22/07/2022,0%,2800,2352,Email
+Linda Murphy,28,female,Veracruz,Diamante,2800,16/7/2022,10%,2520,"2116,8",Google ads
+Olivia Davis,27,female,Monterrey,Rubí,1900,13/10/2022,0%,1900,1596,Website
+Barbara Brown,30,female,Guadalajara,Rubí,1900,04/10/2022,0%,1900,1596,Google ads
+Barbara Garcia,30,female,Monterrey,Diamante,2800,30/11/2022,20%,2240,"1881,6",Whatsapp
+Olivia Wilson,29,female,Baja California Sur,Diamante,2800,30/12/2022,10%,2520,"2116,8",Facebook Ads
+Emma O'Connor,26,male,Veracruz,Rubí,1900,16/10/2022,0%,1900,1596,Google ads
+William Byrne,25,female,Monterrey,Rubí,1900,9/7/2022,0%,1900,1596,Facebook
+Megan Garcia,28,male,Monterrey,Rubí,1900,18/11/2022,0%,1900,1596,Google ads
+#¡NÚM!,27,female,Sinaloa,Rubí,1900,26/12/2022,0%,1900,1596,Instagram
+Sophia Davies,26,male,Aguascalientes,Rubí,1900,7/10/2022,0%,1900,1596,Email
+Reece O'Neill,33,female,Ciudad de México,Diamante,2800,01/08/2022,30%,1960,"1646,4",Facebook Ads
+Elizabeth Davis,25,female,Sinaloa,Rubí,1900,20/12/2022,0%,1900,1596,Facebook Ads
+Elizabeth O'Brien,26,female,Monterrey,Diamante,2800,20/11/2022,20%,2240,"1881,6",Facebook
+Bethany Thomas,25,male,Veracruz,Diamante,2800,18/12/2022,0%,2800,2352,Email
+Noah Wilson,26,female,Baja California,Diamante,2800,19/07/2022,30%,1960,"1646,4",Facebook Ads
+Jennifer Taylor,45,female,Guadalajara,Rubí,1900,4/9/2022,0%,1900,1596,Google ads
+Elizabeth O'Kelly,27,female,Veracruz,Rubí,1900,5/8/2022,0%,1900,1596,Instagram
+Elizabeth Taylor,26,female,Guadalajara,Diamante,2800,26/08/2022,10%,2520,"2116,8",Instagram Ads
+Jennifer Walsh,30,female,Sinaloa,Diamante,2800,05/12/2022,30%,1960,"1646,4",Instagram Ads
+Isabella Thomas,30,female,Guadalajara,Diamante,2800,15/09/2022,10%,2520,"2116,8",Email
+Ava O'Neill,26,male,Monterrey,Diamante,2800,10/9/2022,20%,2240,"1881,6",Google ads
+George Murphy,35,female,Guadalajara,Rubí,1900,25/7/2022,0%,1900,1596,Facebook Ads
+Bethany Taylor,42,male,Zacatecas,Rubí,1900,12/9/2022,0%,1900,1596,Instagram Ads
+David Wilson,27,female,Querétaro,Rubí,1900,14/11/2022,0%,1900,1596,Whatsapp
+Margaret Smith,30,female,Zacatecas,Rubí,1900,25/12/2022,0%,1900,1596,Facebook Ads
+Barbara Wilson,36,female,San Luis Potosí,Rubí,1900,3/10/2022,0%,1900,1596,Instagram Ads
+Isabella Davies,30,female,Monterrey,Diamante,2800,01/12/2022,0%,2800,2352,Facebook Ads
+Barbara O'Ryan,40,female,Zacatecas,Rubí,1900,13/12/2022,0%,1900,1596,Facebook Ads
+Ava O'Kelly,26,female,Guadalajara,Rubí,1900,7/7/2022,0%,1900,1596,Instagram Ads
+Poppy Brown,44,male,Veracruz,Diamante,2800,02/09/2022,10%,2520,"2116,8",Website
+Ethan Davies,29,female,Tamaulipas,Rubí,1900,11/7/2022,0%,1900,1596,Facebook Ads
+Barbara Davies,27,male,Oaxaca,Rubí,1900,28/08/2022,0%,1900,1596,Google ads
+Liam Smith,45,male,Chihuahua,Rubí,1900,12/7/2022,0%,1900,1596,Google ads
+Joe Williams,29,female,Sinaloa,Rubí,1900,08/11/2022,0%,1900,1596,Instagram Ads
+Olivia Jones,40,female,Guanajuato,Rubí,1900,27/9/2022,0%,1900,1596,Website
+Sophia Jones,26,female,Campeche,Rubí,1900,13/11/2022,0%,1900,1596,Website
+Ava Williams,29,male,Guadalajara,Rubí,1900,24/7/2022,0%,1900,1596,Email
+William Murphy,27,female,Monterrey,Rubí,1900,27/11/2022,0%,1900,1596,Google ads
+Megan O'Kelly,44,female,Zacatecas,Rubí,1900,7/7/2022,0%,1900,1596,Instagram
+Margaret Garcia,29,male,Monterrey,Rubí,1900,20/09/2022,0%,1900,1596,Website
+Connor Garcia,30,male,Guadalajara,Diamante,2800,30/7/2022,30%,1960,"1646,4",Whatsapp
+Callum Williams,38,female,Coahuila,Diamante,2800,3/10/2022,20%,2240,"1881,6",Instagram
+Isabella O'Kelly,27,female,Zacatecas,Rubí,1900,17/7/2022,0%,1900,1596,Google ads
+Olivia Smith,29,female,Nuevo León,Rubí,1900,29/10/2022,0%,1900,1596,Email
+Patricia Murphy,29,male,Campeche,Rubí,1900,4/11/2022,0%,1900,1596,Website
+Reece Rodriguez,27,female,Monterrey,Rubí,1900,06/08/2022,0%,1900,1596,Instagram Ads
+Patricia Smith,27,female,Monterrey,Rubí,1900,31/08/2022,0%,1900,1596,Google ads
+Margaret Wilson,29,female,Monterrey,Diamante,2800,24/10/2022,0%,2800,2352,Google ads
+Olivia Garcia,26,female,Zacatecas,Rubí,1900,23/07/2022,0%,1900,1596,Website
+Sophia O'Ryan,25,male,Monterrey,Diamante,2800,20/11/2022,0%,2800,2352,Facebook Ads
+Mason Brown,44,female,Monterrey,Rubí,1900,9/12/2022,0%,1900,1596,Email
+Margaret Davis,28,female,Monterrey,Rubí,1900,22/8/2022,0%,1900,1596,Whatsapp
+Olivia Wilson,37,female,Guadalajara,Rubí,1900,10/11/2022,0%,1900,1596,Google ads
+Sophia Byrne,32,male,Campeche,Rubí,1900,25/12/2022,0%,1900,1596,Instagram Ads
+Jacob Davies,27,female,Guadalajara,Rubí,1900,15/11/2022,0%,1900,1596,Instagram Ads
+Emma Byrne,30,female,Coahuila,Rubí,1900,18/08/2022,0%,1900,1596,Instagram Ads
+Elizabeth Garcia,41,female,Monterrey,Diamante,2800,13/12/2022,30%,1960,"1646,4",Facebook Ads
+Melia O'Neill,39,male,Monterrey,Diamante,2800,26/09/2022,10%,2520,"2116,8",Facebook
+Joe Thomas,29,female,Guadalajara,Rubí,1900,29/12/2022,0%,1900,1596,Email
+Joanne Davies,28,female,Sinaloa,Rubí,1900,18/7/2022,0%,1900,1596,Instagram Ads
+Elizabeth Walsh,29,male,Guadalajara,Rubí,1900,23/07/2022,0%,1900,1596,Instagram Ads
+Jacob Byrne,25,female,Monterrey,Rubí,1900,21/10/2022,0%,1900,1596,Google ads
+Ava Smith,27,male,Monterrey,Rubí,1900,20/07/2022,0%,1900,1596,Email
+John O'Connor,25,female,Aguascalientes,Diamante,2800,21/8/2022,10%,2520,"2116,8",Facebook Ads
+Jennifer Miller,42,male,Monterrey,Rubí,1900,21/11/2022,0%,1900,1596,Instagram Ads
+Robert Rodriguez,27,female,Zacatecas,Diamante,2800,24/07/2022,30%,1960,"1646,4",Facebook Ads
+Samantha O'Brien,43,male,Zacatecas,Rubí,1900,10/7/2022,0%,1900,1596,Instagram Ads
+David O'Kelly,27,female,Monterrey,Rubí,1900,19/9/2022,0%,1900,1596,Facebook Ads
+Ava Murphy,25,female,Ciudad de México,Rubí,1900,18/11/2022,0%,1900,1596,Instagram Ads
+Elizabeth Walsh,35,female,Guadalajara,Rubí,1900,15/8/2022,0%,1900,1596,Google ads
+Poppy Garcia,29,male,Guadalajara,Diamante,2800,21/12/2022,30%,1960,"1646,4",Facebook
+Oscar O'Ryan,30,female,Zacatecas,Rubí,1900,30/10/2022,0%,1900,1596,Email
+Joanne Rodriguez,29,female,Tamaulipas,Rubí,1900,01/12/2022,0%,1900,1596,Instagram Ads
+Isabella Brown,26,male,Guadalajara,Rubí,1900,4/7/2022,0%,1900,1596,Instagram
+Thomas Garcia,27,male,Monterrey,Diamante,2800,24/10/2022,0%,2800,2352,Email
+Noah Walsh,27,female,Guadalajara,Rubí,1900,19/12/2022,0%,1900,1596,Instagram Ads
+Joanne Wilson,30,female,Guadalajara,Diamante,2800,15/10/2022,0%,2800,2352,Instagram Ads
+Elizabeth Byrne,45,female,Monterrey,Rubí,1900,30/08/2022,0%,1900,1596,Instagram Ads
+Isabella Davis,34,female,Veracruz,Diamante,2800,25/11/2022,10%,2520,"2116,8",Website
+Ava Davis,32,female,Puebla,Diamante,2800,07/08/2022,10%,2520,"2116,8",Instagram
+Barbara Byrne,28,female,Monterrey,Rubí,1900,12/07/2022,0%,1900,1596,Google ads
+Mary Miller,27,female,Guadalajara,Rubí,1900,29/8/2022,0%,1900,1596,Whatsapp
+Poppy Roberts,44,male,Chiapas,Rubí,1900,14/11/2022,0%,1900,1596,Facebook Ads
+John Byrne,25,female,Zacatecas,Rubí,1900,15/09/2022,0%,1900,1596,Facebook Ads
+Barbara Davis,25,male,Veracruz,Rubí,1900,05/07/2022,0%,1900,1596,Whatsapp
+Joe O'Ryan,25,female,Guadalajara,Rubí,1900,8/10/2022,0%,1900,1596,Email
+Samantha O'Connor,38,female,Oaxaca,Rubí,1900,13/08/2022,0%,1900,1596,Website
+Sophia O'Sullivan,30,male,Aguascalientes,Rubí,1900,4/7/2022,0%,1900,1596,Email
+Charlie Smith,27,male,Yucatán,Rubí,1900,3/12/2022,0%,1900,1596,Instagram Ads
+Connor Murphy,27,female,Aguascalientes,Diamante,2800,09/10/2022,20%,2240,"1881,6",Facebook Ads
+Melia Garcia,26,male,Monterrey,Diamante,2800,24/11/2022,0%,2800,2352,Facebook Ads
+David O'Sullivan,28,male,Ciudad de México,Rubí,1900,4/8/2022,0%,1900,1596,Instagram
+Jake Jones,25,female,Aguascalientes,Diamante,2800,6/12/2022,10%,2520,"2116,8",Instagram Ads
+Emma Smith,29,male,Querétaro,Diamante,2800,1/12/2022,20%,2240,"1881,6",Instagram Ads
+Michael O'Kelly,28,female,Guadalajara,Diamante,2800,08/08/2022,10%,2520,"2116,8",Google ads
+Ava Thomas,25,female,Veracruz,Rubí,1900,21/12/2022,0%,1900,1596,Google ads
+Olivia Jones,29,female,Monterrey,Rubí,1900,21/7/2022,0%,1900,1596,Facebook Ads
+Sophia Murphy,26,female,Guadalajara,Diamante,2800,04/10/2022,30%,1960,"1646,4",Google ads
+Olivia Roberts,40,male,Monterrey,Rubí,1900,27/07/2022,0%,1900,1596,Facebook
+Jack Wilson,43,male,Guadalajara,Diamante,2800,14/7/2022,30%,1960,"1646,4",Instagram Ads
+Connor O'Neill,29,male,Guadalajara,Rubí,1900,25/8/2022,0%,1900,1596,Google ads
+#¡NÚM!,30,female,Sinaloa,Diamante,2800,29/08/2022,30%,1960,"1646,4",Website
+Poppy Wilson,26,female,Guadalajara,Diamante,2800,7/8/2022,0%,2800,2352,Email
+Ava O'Brien,26,male,San Luis Potosí,Rubí,1900,20/12/2022,0%,1900,1596,Google ads
+#¡NÚM!,27,female,Guadalajara,Rubí,1900,30/09/2022,0%,1900,1596,Facebook Ads
+Patricia Walsh,26,female,Monterrey,Rubí,1900,18/09/2022,0%,1900,1596,Facebook Ads
+Barbara O'Ryan,39,female,Monterrey,Diamante,2800,29/07/2022,0%,2800,2352,Instagram Ads
+Mary O'Kelly,30,male,Nayarit,Rubí,1900,8/7/2022,0%,1900,1596,Website
+Joe Wilson,34,female,Ciudad de México,Rubí,1900,26/11/2022,0%,1900,1596,Facebook Ads
+Megan O'Sullivan,26,female,Chiapas,Rubí,1900,24/11/2022,0%,1900,1596,Facebook Ads
+Megan Evans,28,male,Puebla,Diamante,2800,14/10/2022,10%,2520,"2116,8",Instagram Ads
+#¡NÚM!,25,female,Guadalajara,Diamante,2800,28/09/2022,20%,2240,"1881,6",Email
+Ava Thomas,28,female,Aguascalientes,Rubí,1900,06/08/2022,0%,1900,1596,Facebook Ads
+Poppy Walsh,30,male,Zacatecas,Diamante,2800,24/09/2022,30%,1960,"1646,4",Google ads
+#¡NÚM!,26,male,Guerrero,Diamante,2800,24/7/2022,20%,2240,"1881,6",Google ads
+Jacob Brown,31,female,Guerrero,Rubí,1900,04/11/2022,0%,1900,1596,Facebook
+Joanne Smith,30,female,Monterrey,Rubí,1900,25/11/2022,0%,1900,1596,Google ads
+Elizabeth Davis,28,female,Monterrey,Rubí,1900,18/12/2022,0%,1900,1596,Facebook Ads
+Jennifer Jones,43,male,Monterrey,Rubí,1900,21/09/2022,0%,1900,1596,Instagram Ads
+David O'Connor,34,male,Coahuila,Rubí,1900,27/8/2022,0%,1900,1596,Google ads
+Reece Smith,27,male,Guadalajara,Rubí,1900,28/12/2022,0%,1900,1596,Instagram Ads
+Connor O'Connor,26,female,Guadalajara,Rubí,1900,5/8/2022,0%,1900,1596,Email
+Linda O'Neill,37,female,San Luis Potosí,Rubí,1900,26/07/2022,0%,1900,1596,Website
+Sophia O'Kelly,34,female,Aguascalientes,Rubí,1900,19/7/2022,0%,1900,1596,Email
+Ava Jones,29,female,Sinaloa,Diamante,2800,27/7/2022,0%,2800,2352,Facebook Ads
+Elizabeth Rodriguez,30,male,Guadalajara,Rubí,1900,26/11/2022,0%,1900,1596,Facebook Ads
+Callum O'Sullivan,30,female,Guadalajara,Rubí,1900,25/10/2022,0%,1900,1596,Instagram Ads
+Melia Miller,31,male,Zacatecas,Rubí,1900,1/7/2022,0%,1900,1596,Facebook Ads
+Oliver Davies,29,male,Monterrey,Rubí,1900,23/12/2022,0%,1900,1596,Instagram Ads
+Jacob Walsh,26,female,Guerrero,Rubí,1900,8/12/2022,0%,1900,1596,Google ads
+Melia Garcia,27,female,Guadalajara,Diamante,2800,10/7/2022,30%,1960,"1646,4",Instagram Ads
+Margaret O'Sullivan,29,male,Monterrey,Diamante,2800,9/8/2022,20%,2240,"1881,6",Facebook Ads
+Jacob Jones,28,male,Monterrey,Rubí,1900,06/07/2022,0%,1900,1596,Website
+John Murphy,27,female,Oaxaca,Rubí,1900,16/08/2022,0%,1900,1596,Facebook Ads
+Joanne Jones,30,female,Aguascalientes,Rubí,1900,05/12/2022,0%,1900,1596,Website
+Ava O'Ryan,31,female,Veracruz,Rubí,1900,21/7/2022,0%,1900,1596,Google ads
+Samantha Miller,26,female,Zacatecas,Rubí,1900,10/08/2022,0%,1900,1596,Facebook
+Ava Murphy,26,female,Monterrey,Rubí,1900,22/9/2022,0%,1900,1596,Instagram
+Elizabeth Davies,27,female,Aguascalientes,Rubí,1900,29/7/2022,0%,1900,1596,Facebook Ads
+Samantha Williams,26,female,Aguascalientes,Rubí,1900,23/08/2022,0%,1900,1596,Google ads
+Bethany Johnson,26,female,Querétaro,Diamante,2800,02/07/2022,20%,2240,"1881,6",Instagram Ads
+Isabella O'Sullivan,26,female,Monterrey,Rubí,1900,05/09/2022,0%,1900,1596,Whatsapp
+Elizabeth Evans,40,female,Monterrey,Diamante,2800,25/8/2022,10%,2520,"2116,8",Instagram Ads
+Linda Miller,30,female,Jalisco,Rubí,1900,04/12/2022,0%,1900,1596,Whatsapp
+Patricia Davis,37,female,Baja California Sur,Diamante,2800,28/08/2022,0%,2800,2352,Instagram Ads
+Linda Johnson,27,male,Campeche,Rubí,1900,5/11/2022,0%,1900,1596,Website
+Michael Roberts,25,female,Guadalajara,Rubí,1900,21/8/2022,0%,1900,1596,Facebook Ads
+Emma Rodriguez,29,female,Veracruz,Rubí,1900,21/7/2022,0%,1900,1596,Google ads
+Isabella Johnson,30,female,Monterrey,Diamante,2800,5/8/2022,0%,2800,2352,Website
+Ava Davis,28,female,Monterrey,Rubí,1900,30/09/2022,0%,1900,1596,Email
+Emily Taylor,26,female,Zacatecas,Rubí,1900,4/11/2022,0%,1900,1596,Google ads
+Ava O'Neill,28,male,Zacatecas,Rubí,1900,23/9/2022,0%,1900,1596,Facebook Ads
+Kyle O'Connor,35,male,Zacatecas,Diamante,2800,27/07/2022,20%,2240,"1881,6",Instagram Ads
+Richard Miller,31,female,Veracruz,Rubí,1900,8/8/2022,0%,1900,1596,Google ads
+Margaret Davis,25,male,Coahuila,Diamante,2800,05/12/2022,0%,2800,2352,Google ads
+David O'Kelly,30,female,Zacatecas,Rubí,1900,20/11/2022,0%,1900,1596,Facebook
+Joanne Brown,29,female,Monterrey,Diamante,2800,15/07/2022,30%,1960,"1646,4",Google ads
+Barbara Murphy,27,female,Baja California Sur,Rubí,1900,19/12/2022,0%,1900,1596,Email
+Jennifer Byrne,29,female,Guadalajara,Rubí,1900,05/08/2022,0%,1900,1596,Facebook Ads
+Olivia Davies,38,male,Chihuahua,Diamante,2800,15/07/2022,30%,1960,"1646,4",Google ads
+Robert Byrne,34,female,Veracruz,Rubí,1900,12/07/2022,0%,1900,1596,Google ads
+Emma Roberts,37,female,Sinaloa,Diamante,2800,5/12/2022,20%,2240,"1881,6",Instagram Ads
+Poppy O'Brien,27,female,Querétaro,Rubí,1900,09/09/2022,0%,1900,1596,Email
+Mia Evans,36,male,Veracruz,Diamante,2800,13/09/2022,0%,2800,2352,Instagram Ads
+Connor Davies,27,female,Veracruz,Rubí,1900,5/11/2022,0%,1900,1596,Website
+Melia Taylor,30,male,Jalisco,Diamante,2800,9/11/2022,20%,2240,"1881,6",Google ads
+Jack Evans,28,male,Durango,Rubí,1900,22/10/2022,0%,1900,1596,Google ads
+William Davies,25,male,Sinaloa,Diamante,2800,14/9/2022,0%,2800,2352,Facebook
+#¡NÚM!,29,female,Guadalajara,Rubí,1900,28/12/2022,0%,1900,1596,Website
+Olivia Miller,27,male,Guadalajara,Diamante,2800,26/10/2022,20%,2240,"1881,6",Website
+Jack Murphy,29,female,Guadalajara,Rubí,1900,30/12/2022,0%,1900,1596,Website
+Isla Taylor,25,male,Guadalajara,Diamante,2800,3/12/2022,20%,2240,"1881,6",Facebook Ads
+Charlie Davies,33,male,Baja California,Rubí,1900,23/11/2022,0%,1900,1596,Facebook Ads
+#¡NÚM!,25,male,Veracruz,Rubí,1900,20/11/2022,0%,1900,1596,Email
+Jacob Smith,29,female,Campeche,Diamante,2800,10/12/2022,30%,1960,"1646,4",Google ads
+Mia Thomas,26,male,Guadalajara,Diamante,2800,28/9/2022,0%,2800,2352,Facebook Ads
+Kyle Byrne,40,male,Guadalajara,Diamante,2800,06/07/2022,10%,2520,"2116,8",Instagram Ads
+Oliver Rodriguez,25,female,Sinaloa,Rubí,1900,7/11/2022,0%,1900,1596,Instagram Ads
+Megan Brown,45,female,Sinaloa,Rubí,1900,23/11/2022,0%,1900,1596,Whatsapp
+Isabella Smith,30,female,Veracruz,Rubí,1900,1/12/2022,0%,1900,1596,Instagram Ads
+Sophia Johnson,25,female,Zacatecas,Diamante,2800,13/10/2022,10%,2520,"2116,8",Instagram Ads
+Barbara O'Brien,30,female,Monterrey,Rubí,1900,15/10/2022,0%,1900,1596,Google ads

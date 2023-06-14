@@ -1,0 +1,1 @@
+CREATE DATABASE lia_gads;

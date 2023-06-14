@@ -20,6 +20,8 @@ You will be able to determine which marketing channel is most advantageous to th
 
 ## Plot visualization
 
+https://public.tableau.com/app/profile/andrea.luna5472/viz/DataViewforLIA-Project/Dashboard1?publish=yes
+
 ## Key learnings
 
 ## Contributes and support

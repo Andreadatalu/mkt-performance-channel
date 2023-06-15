@@ -9,8 +9,8 @@ The analysis will lead us through the nine provided databases. where we determin
 - Email, Google, Facebook, Instagram, and Whatsapp Business
 We must distinguish between paid channels and unpaid channels due to the performance differences between the channels when a budget is involved.
 
-The following channels are regarded as being unpaid: Facebook, Instagram, Google, Email, and Whatsapp Business.
-These are the sponsored channels: Instagram Ads, Facebook Ads, and Google Ads.
+- The following channels are regarded as being unpaid: Facebook, Instagram, Google, Email, and Whatsapp Business.
+- These are the sponsored channels: Instagram Ads, Facebook Ads, and Google Ads.
 
 You will be able to determine which marketing channel is most advantageous to the business at the conclusion of this analysis.
 

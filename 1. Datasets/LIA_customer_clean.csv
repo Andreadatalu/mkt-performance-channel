@@ -1,0 +1,997 @@
+age,gender,state,product,price,purchase_day,promotion,final_price,profit,sales_channel
+25,F,Monterrey,Rubí,1900,05/08/2022,0.0,1900,1596.0,Google ads
+26,F,Baja California,Rubí,1900,3/7/2022,0.0,1900,1596.0,Instagram
+43,F,Guadalajara,Rubí,1900,20/07/2022,0.0,1900,1596.0,Website
+29,F,Guadalajara,Diamante,2800,08/11/2022,0.1,2520,2116.8,Facebook Ads
+28,F,Quintana Roo,Diamante,2800,08/10/2022,0.3,1960,1646.4,Facebook Ads
+28,F,Nuevo León,Rubí,1900,08/10/2022,0.0,1900,1596.0,Website
+29,F,Veracruz,Diamante,2800,6/7/2022,0.1,2520,2116.8,Email
+26,M,Chihuahua,Rubí,1900,5/10/2022,0.0,1900,1596.0,Google ads
+30,F,Baja California,Diamante,2800,4/11/2022,0.0,2800,2352.0,Facebook Ads
+29,F,Monterrey,Diamante,2800,12/7/2022,0.0,2800,2352.0,Instagram
+29,F,Zacatecas,Diamante,2800,2/8/2022,0.3,1960,1646.4,Email
+26,M,Guadalajara,Rubí,1900,29/11/2022,0.0,1900,1596.0,Email
+31,F,Campeche,Rubí,1900,10/9/2022,0.0,1900,1596.0,Google ads
+27,M,Monterrey,Rubí,1900,28/8/2022,0.0,1900,1596.0,Facebook Ads
+30,M,Monterrey,Diamante,2800,14/10/2022,0.0,2800,2352.0,Website
+26,F,Ciudad de México,Rubí,1900,13/09/2022,0.0,1900,1596.0,Google ads
+45,F,Campeche,Rubí,1900,15/11/2022,0.0,1900,1596.0,Email
+27,F,Ciudad de México,Rubí,1900,27/7/2022,0.0,1900,1596.0,Facebook Ads
+39,F,Zacatecas,Diamante,2800,16/10/2022,0.2,2240,1881.6,Website
+27,F,Monterrey,Diamante,2800,14/10/2022,0.2,2240,1881.6,Instagram Ads
+25,M,Monterrey,Diamante,2800,16/11/2022,0.2,2240,1881.6,Instagram Ads
+26,F,Guadalajara,Rubí,1900,14/8/2022,0.0,1900,1596.0,Facebook Ads
+29,M,Monterrey,Diamante,2800,06/08/2022,0.2,2240,1881.6,Instagram Ads
+34,F,Zacatecas,Rubí,1900,25/08/2022,0.0,1900,1596.0,Facebook Ads
+29,M,Zacatecas,Diamante,2800,05/08/2022,0.2,2240,1881.6,Instagram Ads
+38,M,Zacatecas,Rubí,1900,21/12/2022,0.0,1900,1596.0,Website
+36,F,Coahuila,Rubí,1900,18/11/2022,0.0,1900,1596.0,Instagram Ads
+30,M,Oaxaca,Rubí,1900,30/10/2022,0.0,1900,1596.0,Website
+28,F,Monterrey,Rubí,1900,23/12/2022,0.0,1900,1596.0,Email
+29,M,Zacatecas,Diamante,2800,07/07/2022,0.0,2800,2352.0,Instagram Ads
+34,F,Querétaro,Rubí,1900,21/07/2022,0.0,1900,1596.0,Google ads
+25,F,Sinaloa,Rubí,1900,10/10/2022,0.0,1900,1596.0,Email
+26,F,Zacatecas,Diamante,2800,14/10/2022,0.1,2520,2116.8,Google ads
+25,M,Monterrey,Rubí,1900,28/08/2022,0.0,1900,1596.0,Google ads
+35,F,Quintana Roo,Diamante,2800,29/11/2022,0.3,1960,1646.4,Facebook Ads
+27,F,Guadalajara,Rubí,1900,27/08/2022,0.0,1900,1596.0,Google ads
+28,M,Guadalajara,Rubí,1900,10/8/2022,0.0,1900,1596.0,Facebook Ads
+26,M,Oaxaca,Rubí,1900,14/11/2022,0.0,1900,1596.0,Email
+26,F,Monterrey,Rubí,1900,23/12/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Aguascalientes,Rubí,1900,10/8/2022,0.0,1900,1596.0,Facebook Ads
+40,F,Puebla,Rubí,1900,07/10/2022,0.0,1900,1596.0,Whatsapp
+29,M,Guadalajara,Rubí,1900,12/08/2022,0.0,1900,1596.0,Website
+45,F,Aguascalientes,Rubí,1900,11/09/2022,0.0,1900,1596.0,Instagram Ads
+45,M,Veracruz,Rubí,1900,9/7/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Diamante,2800,2/12/2022,0.1,2520,2116.8,Email
+27,M,Monterrey,Rubí,1900,12/12/2022,0.0,1900,1596.0,Google ads
+29,M,Puebla,Diamante,2800,10/08/2022,0.1,2520,2116.8,Google ads
+29,F,Guadalajara,Rubí,1900,23/7/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Monterrey,Rubí,1900,17/08/2022,0.0,1900,1596.0,Google ads
+26,F,Chiapas,Rubí,1900,3/8/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Rubí,1900,26/7/2022,0.0,1900,1596.0,Instagram
+27,F,Sinaloa,Rubí,1900,15/12/2022,0.0,1900,1596.0,Google ads
+43,F,Jalisco,Rubí,1900,24/12/2022,0.0,1900,1596.0,Website
+37,M,Zacatecas,Diamante,2800,13/07/2022,0.0,2800,2352.0,Instagram Ads
+43,F,Monterrey,Diamante,2800,03/07/2022,0.2,2240,1881.6,Google ads
+31,F,Aguascalientes,Diamante,2800,16/10/2022,0.3,1960,1646.4,Instagram
+27,F,Veracruz,Rubí,1900,24/07/2022,0.0,1900,1596.0,Website
+29,F,Monterrey,Rubí,1900,8/10/2022,0.0,1900,1596.0,Google ads
+25,F,Monterrey,Rubí,1900,17/9/2022,0.0,1900,1596.0,Google ads
+31,F,Monterrey,Rubí,1900,10/08/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Ciudad de México,Rubí,1900,26/10/2022,0.0,1900,1596.0,Facebook
+30,F,Monterrey,Rubí,1900,14/8/2022,0.0,1900,1596.0,Facebook
+29,F,Zacatecas,Diamante,2800,19/09/2022,0.2,2240,1881.6,Facebook Ads
+30,F,Zacatecas,Diamante,2800,24/7/2022,0.3,1960,1646.4,Instagram
+29,F,Monterrey,Rubí,1900,22/11/2022,0.0,1900,1596.0,Facebook Ads
+42,F,Monterrey,Rubí,1900,11/11/2022,0.0,1900,1596.0,Email
+28,F,Ciudad de México,Diamante,2800,10/8/2022,0.0,2800,2352.0,Instagram Ads
+36,F,Monterrey,Rubí,1900,24/10/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Guadalajara,Rubí,1900,15/12/2022,0.0,1900,1596.0,Google ads
+26,F,Ciudad de México,Rubí,1900,15/9/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Diamante,2800,23/12/2022,0.0,2800,2352.0,Email
+27,F,Querétaro,Diamante,2800,08/10/2022,0.1,2520,2116.8,Instagram Ads
+25,F,Monterrey,Diamante,2800,08/09/2022,0.3,1960,1646.4,Instagram
+30,M,Monterrey,Rubí,1900,20/12/2022,0.0,1900,1596.0,Website
+25,M,Sinaloa,Rubí,1900,21/07/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Guadalajara,Rubí,1900,01/08/2022,0.0,1900,1596.0,Google ads
+29,M,Guadalajara,Diamante,2800,6/7/2022,0.0,2800,2352.0,Facebook Ads
+30,M,Campeche,Rubí,1900,18/09/2022,0.0,1900,1596.0,Website
+29,M,Jalisco,Rubí,1900,1/12/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Guadalajara,Rubí,1900,09/09/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Zacatecas,Rubí,1900,16/11/2022,0.0,1900,1596.0,Instagram Ads
+26,M,Guadalajara,Rubí,1900,10/8/2022,0.0,1900,1596.0,Google ads
+27,M,Nayarit,Rubí,1900,18/9/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Oaxaca,Diamante,2800,1/9/2022,0.1,2520,2116.8,Email
+29,F,Aguascalientes,Diamante,2800,10/12/2022,0.1,2520,2116.8,Whatsapp
+25,F,Baja California,Rubí,1900,19/07/2022,0.0,1900,1596.0,Instagram
+28,M,Ciudad de México,Rubí,1900,17/07/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Zacatecas,Rubí,1900,03/09/2022,0.0,1900,1596.0,Facebook
+26,M,Monterrey,Rubí,1900,29/7/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Quintana Roo,Rubí,1900,26/10/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Chiapas,Rubí,1900,17/11/2022,0.0,1900,1596.0,Website
+30,M,Aguascalientes,Rubí,1900,18/11/2022,0.0,1900,1596.0,Google ads
+28,M,Zacatecas,Diamante,2800,13/07/2022,0.1,2520,2116.8,Email
+28,F,Aguascalientes,Rubí,1900,24/09/2022,0.0,1900,1596.0,Google ads
+28,F,Aguascalientes,Diamante,2800,07/09/2022,0.0,2800,2352.0,Facebook Ads
+29,M,Zacatecas,Rubí,1900,28/11/2022,0.0,1900,1596.0,Facebook Ads
+27,M,Ciudad de México,Diamante,2800,4/9/2022,0.3,1960,1646.4,Facebook Ads
+27,F,Zacatecas,Rubí,1900,6/11/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Veracruz,Rubí,1900,18/10/2022,0.0,1900,1596.0,Facebook
+28,M,Monterrey,Rubí,1900,26/07/2022,0.0,1900,1596.0,Google ads
+35,F,Guadalajara,Diamante,2800,14/12/2022,0.0,2800,2352.0,Email
+29,F,Monterrey,Rubí,1900,28/08/2022,0.0,1900,1596.0,Google ads
+27,M,Guadalajara,Rubí,1900,28/07/2022,0.0,1900,1596.0,Facebook Ads
+45,F,Tamaulipas,Rubí,1900,5/7/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Zacatecas,Rubí,1900,22/10/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Guadalajara,Rubí,1900,23/9/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Guadalajara,Rubí,1900,15/07/2022,0.0,1900,1596.0,Facebook Ads
+39,F,Guadalajara,Rubí,1900,4/12/2022,0.0,1900,1596.0,Website
+28,M,Guadalajara,Diamante,2800,25/09/2022,0.2,2240,1881.6,Google ads
+27,M,San Luis Potosí,Rubí,1900,2/11/2022,0.0,1900,1596.0,Email
+30,F,Monterrey,Rubí,1900,26/08/2022,0.0,1900,1596.0,Facebook Ads
+31,F,Guadalajara,Diamante,2800,6/8/2022,0.2,2240,1881.6,Whatsapp
+37,M,Veracruz,Diamante,2800,22/10/2022,0.3,1960,1646.4,Instagram
+43,M,Zacatecas,Rubí,1900,02/08/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Guadalajara,Rubí,1900,30/7/2022,0.0,1900,1596.0,Facebook Ads
+29,M,Guadalajara,Rubí,1900,12/09/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Rubí,1900,07/11/2022,0.0,1900,1596.0,Website
+27,F,Monterrey,Diamante,2800,13/10/2022,0.0,2800,2352.0,Website
+29,F,Veracruz,Rubí,1900,01/08/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Guadalajara,Diamante,2800,22/12/2022,0.0,2800,2352.0,Facebook Ads
+29,F,Guadalajara,Rubí,1900,05/09/2022,0.0,1900,1596.0,Facebook Ads
+42,F,Guadalajara,Diamante,2800,30/11/2022,0.1,2520,2116.8,Website
+40,F,San Luis Potosí,Rubí,1900,04/08/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Guadalajara,Diamante,2800,6/12/2022,0.1,2520,2116.8,Facebook Ads
+44,F,Zacatecas,Diamante,2800,10/7/2022,0.3,1960,1646.4,Instagram Ads
+28,F,Monterrey,Rubí,1900,20/10/2022,0.0,1900,1596.0,Facebook
+25,F,Baja California Sur,Rubí,1900,21/7/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Sinaloa,Diamante,2800,14/11/2022,0.3,1960,1646.4,Website
+30,F,Guadalajara,Diamante,2800,05/10/2022,0.3,1960,1646.4,Whatsapp
+29,F,Monterrey,Diamante,2800,1/11/2022,0.0,2800,2352.0,Instagram Ads
+33,M,Guadalajara,Rubí,1900,21/12/2022,0.0,1900,1596.0,Website
+33,F,Monterrey,Rubí,1900,26/07/2022,0.0,1900,1596.0,Facebook
+40,M,Zacatecas,Rubí,1900,10/7/2022,0.0,1900,1596.0,Instagram
+29,M,Zacatecas,Diamante,2800,18/11/2022,0.2,2240,1881.6,Instagram
+26,M,Guerrero,Diamante,2800,27/9/2022,0.0,2800,2352.0,Email
+25,M,Sinaloa,Rubí,1900,7/10/2022,0.0,1900,1596.0,Email
+25,F,Monterrey,Rubí,1900,04/09/2022,0.0,1900,1596.0,Email
+39,M,Querétaro,Rubí,1900,22/10/2022,0.0,1900,1596.0,Facebook Ads
+37,F,Zacatecas,Rubí,1900,22/12/2022,0.0,1900,1596.0,Facebook Ads
+33,F,Monterrey,Rubí,1900,15/7/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Rubí,1900,08/07/2022,0.0,1900,1596.0,Google ads
+29,M,Aguascalientes,Rubí,1900,13/12/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Guadalajara,Rubí,1900,08/11/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Ciudad de México,Rubí,1900,24/12/2022,0.0,1900,1596.0,Email
+30,F,Nayarit,Rubí,1900,13/10/2022,0.0,1900,1596.0,Google ads
+29,F,Puebla,Diamante,2800,15/11/2022,0.3,1960,1646.4,Facebook Ads
+29,M,Monterrey,Diamante,2800,1/7/2022,0.1,2520,2116.8,Website
+26,F,Guadalajara,Diamante,2800,25/12/2022,0.0,2800,2352.0,Instagram Ads
+26,F,San Luis Potosí,Rubí,1900,13/10/2022,0.0,1900,1596.0,Google ads
+28,F,Guadalajara,Rubí,1900,25/9/2022,0.0,1900,1596.0,Google ads
+45,F,Veracruz,Diamante,2800,21/8/2022,0.2,2240,1881.6,Email
+30,F,Monterrey,Rubí,1900,24/10/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Monterrey,Rubí,1900,21/12/2022,0.0,1900,1596.0,Google ads
+42,F,Puebla,Diamante,2800,20/07/2022,0.1,2520,2116.8,Website
+26,F,Baja California,Rubí,1900,28/10/2022,0.0,1900,1596.0,Facebook Ads
+39,F,Monterrey,Diamante,2800,15/9/2022,0.2,2240,1881.6,Email
+28,F,Veracruz,Rubí,1900,03/11/2022,0.0,1900,1596.0,Facebook Ads
+36,F,Guadalajara,Rubí,1900,8/7/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Puebla,Rubí,1900,4/11/2022,0.0,1900,1596.0,Google ads
+25,F,Zacatecas,Rubí,1900,11/12/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Puebla,Rubí,1900,20/08/2022,0.0,1900,1596.0,Instagram Ads
+40,F,Baja California Sur,Rubí,1900,11/07/2022,0.0,1900,1596.0,Google ads
+38,F,Monterrey,Rubí,1900,01/12/2022,0.0,1900,1596.0,Website
+39,M,Zacatecas,Rubí,1900,21/8/2022,0.0,1900,1596.0,Email
+45,F,Coahuila,Diamante,2800,21/8/2022,0.3,1960,1646.4,Whatsapp
+30,F,Ciudad de México,Diamante,2800,29/11/2022,0.2,2240,1881.6,Instagram
+38,F,Chihuahua,Diamante,2800,19/11/2022,0.1,2520,2116.8,Instagram Ads
+25,F,Monterrey,Rubí,1900,4/9/2022,0.0,1900,1596.0,Whatsapp
+44,F,Ciudad de México,Rubí,1900,04/09/2022,0.0,1900,1596.0,Email
+25,F,Zacatecas,Diamante,2800,01/12/2022,0.2,2240,1881.6,Facebook Ads
+33,M,Guanajuato,Rubí,1900,01/07/2022,0.0,1900,1596.0,Google ads
+28,F,Coahuila,Diamante,2800,02/07/2022,0.1,2520,2116.8,Whatsapp
+26,F,Guadalajara,Diamante,2800,07/09/2022,0.1,2520,2116.8,Facebook
+27,F,Ciudad de México,Rubí,1900,9/8/2022,0.0,1900,1596.0,Whatsapp
+41,F,Monterrey,Diamante,2800,11/09/2022,0.1,2520,2116.8,Instagram Ads
+35,F,Zacatecas,Rubí,1900,26/8/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Guadalajara,Rubí,1900,1/9/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Zacatecas,Diamante,2800,2/7/2022,0.3,1960,1646.4,Facebook Ads
+30,F,Monterrey,Diamante,2800,21/10/2022,0.0,2800,2352.0,Instagram Ads
+40,M,Guanajuato,Diamante,2800,25/12/2022,0.1,2520,2116.8,Instagram Ads
+29,M,Guadalajara,Rubí,1900,4/7/2022,0.0,1900,1596.0,Email
+27,F,Veracruz,Rubí,1900,05/09/2022,0.0,1900,1596.0,Website
+31,F,Guadalajara,Diamante,2800,15/11/2022,0.3,1960,1646.4,Google ads
+30,F,Aguascalientes,Rubí,1900,05/12/2022,0.0,1900,1596.0,Website
+27,M,Guadalajara,Rubí,1900,18/10/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Guadalajara,Rubí,1900,15/9/2022,0.0,1900,1596.0,Instagram Ads
+27,M,Guadalajara,Diamante,2800,25/09/2022,0.1,2520,2116.8,Facebook Ads
+27,F,Zacatecas,Rubí,1900,05/10/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Zacatecas,Rubí,1900,13/09/2022,0.0,1900,1596.0,Instagram Ads
+36,F,Monterrey,Rubí,1900,5/7/2022,0.0,1900,1596.0,Email
+27,F,Oaxaca,Diamante,2800,25/8/2022,0.0,2800,2352.0,Instagram Ads
+28,F,Zacatecas,Rubí,1900,2/7/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Guadalajara,Rubí,1900,03/07/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Guadalajara,Rubí,1900,29/10/2022,0.0,1900,1596.0,Facebook Ads
+42,F,Guadalajara,Rubí,1900,13/11/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Monterrey,Rubí,1900,10/12/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Monterrey,Diamante,2800,4/7/2022,0.1,2520,2116.8,Facebook Ads
+25,F,Ciudad de México,Diamante,2800,02/10/2022,0.0,2800,2352.0,Instagram Ads
+27,M,Monterrey,Rubí,1900,15/08/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Aguascalientes,Rubí,1900,28/09/2022,0.0,1900,1596.0,Google ads
+30,F,Sinaloa,Rubí,1900,30/11/2022,0.0,1900,1596.0,Instagram Ads
+44,M,Guadalajara,Rubí,1900,30/11/2022,0.0,1900,1596.0,Google ads
+45,M,Monterrey,Diamante,2800,25/10/2022,0.0,2800,2352.0,Whatsapp
+25,F,Ciudad de México,Rubí,1900,6/8/2022,0.0,1900,1596.0,Google ads
+26,F,Guadalajara,Diamante,2800,1/10/2022,0.0,2800,2352.0,Google ads
+30,F,Monterrey,Diamante,2800,14/11/2022,0.0,2800,2352.0,Google ads
+27,F,Aguascalientes,Rubí,1900,25/10/2022,0.0,1900,1596.0,Instagram
+26,F,Ciudad de México,Rubí,1900,16/10/2022,0.0,1900,1596.0,Facebook
+41,M,Zacatecas,Rubí,1900,29/8/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Ciudad de México,Rubí,1900,11/8/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Monterrey,Diamante,2800,1/12/2022,0.3,1960,1646.4,Google ads
+25,M,Aguascalientes,Rubí,1900,2/7/2022,0.0,1900,1596.0,Instagram Ads
+27,M,Guanajuato,Rubí,1900,28/12/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Puebla,Rubí,1900,23/09/2022,0.0,1900,1596.0,Facebook Ads
+30,M,Monterrey,Rubí,1900,17/07/2022,0.0,1900,1596.0,Facebook
+29,F,Guadalajara,Diamante,2800,6/7/2022,0.1,2520,2116.8,Facebook Ads
+29,F,Coahuila,Diamante,2800,29/08/2022,0.2,2240,1881.6,Instagram
+26,F,Monterrey,Rubí,1900,26/12/2022,0.0,1900,1596.0,Email
+27,F,Guadalajara,Rubí,1900,3/9/2022,0.0,1900,1596.0,Instagram
+27,F,Sinaloa,Diamante,2800,04/08/2022,0.1,2520,2116.8,Whatsapp
+27,F,Guadalajara,Diamante,2800,04/07/2022,0.2,2240,1881.6,Google ads
+27,M,Monterrey,Rubí,1900,2/9/2022,0.0,1900,1596.0,Google ads
+32,M,Aguascalientes,Diamante,2800,09/08/2022,0.2,2240,1881.6,Google ads
+28,M,Ciudad de México,Diamante,2800,23/11/2022,0.3,1960,1646.4,Facebook Ads
+44,M,Guadalajara,Diamante,2800,29/07/2022,0.0,2800,2352.0,Facebook Ads
+30,F,Guadalajara,Rubí,1900,26/09/2022,0.0,1900,1596.0,Instagram Ads
+30,M,Campeche,Rubí,1900,14/11/2022,0.0,1900,1596.0,Google ads
+25,F,Sinaloa,Diamante,2800,10/10/2022,0.3,1960,1646.4,Website
+29,F,Guadalajara,Diamante,2800,03/12/2022,0.0,2800,2352.0,Facebook Ads
+27,F,Coahuila,Diamante,2800,28/8/2022,0.0,2800,2352.0,Instagram Ads
+29,M,Monterrey,Rubí,1900,13/7/2022,0.0,1900,1596.0,Instagram
+25,F,Aguascalientes,Rubí,1900,13/07/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Aguascalientes,Diamante,2800,15/10/2022,0.1,2520,2116.8,Facebook Ads
+27,F,Coahuila,Rubí,1900,19/11/2022,0.0,1900,1596.0,Google ads
+29,F,Zacatecas,Diamante,2800,17/07/2022,0.1,2520,2116.8,Google ads
+25,M,Monterrey,Diamante,2800,19/07/2022,0.3,1960,1646.4,Website
+26,M,Guadalajara,Rubí,1900,24/09/2022,0.0,1900,1596.0,Email
+25,F,Aguascalientes,Rubí,1900,09/09/2022,0.0,1900,1596.0,Instagram Ads
+28,M,Guadalajara,Rubí,1900,13/7/2022,0.0,1900,1596.0,Website
+27,F,Sinaloa,Diamante,2800,29/10/2022,0.1,2520,2116.8,Google ads
+27,M,Ciudad de México,Diamante,2800,06/10/2022,0.2,2240,1881.6,Facebook Ads
+27,F,Ciudad de México,Rubí,1900,14/8/2022,0.0,1900,1596.0,Google ads
+30,M,Monterrey,Rubí,1900,15/11/2022,0.0,1900,1596.0,Google ads
+35,M,Yucatán,Diamante,2800,27/9/2022,0.3,1960,1646.4,Website
+36,M,Ciudad de México,Rubí,1900,30/10/2022,0.0,1900,1596.0,Website
+27,M,Baja California Sur,Rubí,1900,25/12/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Veracruz,Rubí,1900,30/9/2022,0.0,1900,1596.0,Google ads
+25,F,Guadalajara,Rubí,1900,7/9/2022,0.0,1900,1596.0,Email
+29,F,Nuevo León,Rubí,1900,03/07/2022,0.0,1900,1596.0,Website
+27,F,Guadalajara,Rubí,1900,05/10/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Monterrey,Rubí,1900,21/11/2022,0.0,1900,1596.0,Google ads
+44,M,Ciudad de México,Rubí,1900,01/07/2022,0.0,1900,1596.0,Instagram Ads
+44,F,Monterrey,Rubí,1900,9/7/2022,0.0,1900,1596.0,Website
+28,M,Sinaloa,Rubí,1900,10/8/2022,0.0,1900,1596.0,Google ads
+40,F,Zacatecas,Diamante,2800,23/09/2022,0.1,2520,2116.8,Facebook
+25,F,Aguascalientes,Rubí,1900,12/12/2022,0.0,1900,1596.0,Instagram Ads
+40,F,Monterrey,Rubí,1900,15/12/2022,0.0,1900,1596.0,Google ads
+26,M,Veracruz,Rubí,1900,23/8/2022,0.0,1900,1596.0,Facebook Ads
+38,F,Guadalajara,Rubí,1900,19/9/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Monterrey,Diamante,2800,24/10/2022,0.1,2520,2116.8,Instagram Ads
+29,F,Monterrey,Diamante,2800,06/09/2022,0.1,2520,2116.8,Facebook Ads
+25,F,Monterrey,Rubí,1900,15/8/2022,0.0,1900,1596.0,Website
+30,F,Guadalajara,Rubí,1900,06/08/2022,0.0,1900,1596.0,Instagram Ads
+42,F,Zacatecas,Rubí,1900,12/11/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Monterrey,Rubí,1900,09/12/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Monterrey,Rubí,1900,09/12/2022,0.0,1900,1596.0,Website
+26,M,Guadalajara,Diamante,2800,28/12/2022,0.1,2520,2116.8,Whatsapp
+30,M,Ciudad de México,Diamante,2800,24/8/2022,0.0,2800,2352.0,Google ads
+39,F,Zacatecas,Rubí,1900,15/12/2022,0.0,1900,1596.0,Instagram Ads
+35,F,Monterrey,Rubí,1900,18/11/2022,0.0,1900,1596.0,Whatsapp
+25,M,Monterrey,Rubí,1900,29/12/2022,0.0,1900,1596.0,Website
+34,M,Veracruz,Rubí,1900,01/07/2022,0.0,1900,1596.0,Website
+26,F,Chihuahua,Rubí,1900,13/09/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Zacatecas,Rubí,1900,03/12/2022,0.0,1900,1596.0,Email
+28,F,Guadalajara,Rubí,1900,29/11/2022,0.0,1900,1596.0,Email
+30,M,Zacatecas,Rubí,1900,9/11/2022,0.0,1900,1596.0,Facebook Ads
+27,M,Monterrey,Rubí,1900,6/7/2022,0.0,1900,1596.0,Google ads
+30,M,Monterrey,Diamante,2800,22/07/2022,0.1,2520,2116.8,Google ads
+32,F,Monterrey,Rubí,1900,16/8/2022,0.0,1900,1596.0,Facebook Ads
+45,F,Veracruz,Diamante,2800,13/12/2022,0.1,2520,2116.8,Facebook Ads
+30,F,Coahuila,Diamante,2800,23/10/2022,0.3,1960,1646.4,Email
+38,F,Veracruz,Rubí,1900,1/10/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Guadalajara,Rubí,1900,9/12/2022,0.0,1900,1596.0,Email
+30,F,Aguascalientes,Rubí,1900,06/08/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Zacatecas,Diamante,2800,24/07/2022,0.2,2240,1881.6,Google ads
+26,M,Guadalajara,Diamante,2800,31/08/2022,0.3,1960,1646.4,Instagram Ads
+28,F,Guadalajara,Diamante,2800,28/12/2022,0.0,2800,2352.0,Google ads
+29,M,Zacatecas,Rubí,1900,29/11/2022,0.0,1900,1596.0,Instagram Ads
+32,F,Guadalajara,Diamante,2800,12/8/2022,0.1,2520,2116.8,Facebook Ads
+29,M,Guadalajara,Diamante,2800,28/8/2022,0.3,1960,1646.4,Email
+28,F,Puebla,Diamante,2800,17/12/2022,0.2,2240,1881.6,Facebook Ads
+25,F,Veracruz,Diamante,2800,19/8/2022,0.3,1960,1646.4,Website
+28,F,Zacatecas,Rubí,1900,15/8/2022,0.0,1900,1596.0,Instagram Ads
+32,F,Puebla,Rubí,1900,04/12/2022,0.0,1900,1596.0,Email
+28,M,Veracruz,Rubí,1900,21/10/2022,0.0,1900,1596.0,Google ads
+26,F,Veracruz,Diamante,2800,17/10/2022,0.1,2520,2116.8,Facebook Ads
+27,F,Monterrey,Diamante,2800,01/10/2022,0.1,2520,2116.8,Google ads
+26,F,Puebla,Diamante,2800,12/7/2022,0.0,2800,2352.0,Instagram Ads
+26,F,Ciudad de México,Diamante,2800,28/11/2022,0.1,2520,2116.8,Instagram Ads
+29,M,Monterrey,Diamante,2800,29/7/2022,0.3,1960,1646.4,Instagram Ads
+29,F,Guadalajara,Diamante,2800,12/07/2022,0.2,2240,1881.6,Facebook
+26,M,Zacatecas,Diamante,2800,05/11/2022,0.1,2520,2116.8,Google ads
+29,F,Zacatecas,Rubí,1900,14/7/2022,0.0,1900,1596.0,Facebook Ads
+36,M,Monterrey,Diamante,2800,27/10/2022,0.2,2240,1881.6,Instagram Ads
+25,M,Guadalajara,Rubí,1900,01/10/2022,0.0,1900,1596.0,Instagram Ads
+30,M,Baja California Sur,Rubí,1900,25/10/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Monterrey,Diamante,2800,29/11/2022,0.0,2800,2352.0,Instagram Ads
+32,F,Veracruz,Rubí,1900,4/7/2022,0.0,1900,1596.0,Google ads
+28,F,Guadalajara,Rubí,1900,13/7/2022,0.0,1900,1596.0,Google ads
+25,F,Veracruz,Rubí,1900,6/12/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Puebla,Rubí,1900,10/10/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Guadalajara,Rubí,1900,6/8/2022,0.0,1900,1596.0,Instagram
+43,F,Monterrey,Diamante,2800,11/11/2022,0.1,2520,2116.8,Instagram Ads
+30,F,Monterrey,Diamante,2800,12/12/2022,0.1,2520,2116.8,Facebook
+29,F,Guerrero,Rubí,1900,18/07/2022,0.0,1900,1596.0,Email
+30,F,Zacatecas,Rubí,1900,26/12/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Diamante,2800,29/12/2022,0.0,2800,2352.0,Instagram Ads
+41,F,Zacatecas,Diamante,2800,29/10/2022,0.3,1960,1646.4,Website
+28,F,Guadalajara,Rubí,1900,15/10/2022,0.0,1900,1596.0,Google ads
+43,F,Zacatecas,Rubí,1900,20/09/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Ciudad de México,Diamante,2800,20/7/2022,0.3,1960,1646.4,Google ads
+28,M,Veracruz,Diamante,2800,21/11/2022,0.1,2520,2116.8,Instagram Ads
+27,F,Veracruz,Diamante,2800,5/12/2022,0.1,2520,2116.8,Email
+32,F,Sinaloa,Diamante,2800,23/08/2022,0.0,2800,2352.0,Google ads
+33,F,Oaxaca,Diamante,2800,15/9/2022,0.0,2800,2352.0,Website
+25,F,Guadalajara,Diamante,2800,16/12/2022,0.0,2800,2352.0,Facebook Ads
+35,F,Veracruz,Rubí,1900,25/9/2022,0.0,1900,1596.0,Facebook Ads
+28,M,Tamaulipas,Diamante,2800,1/10/2022,0.2,2240,1881.6,Google ads
+26,F,Veracruz,Diamante,2800,17/8/2022,0.1,2520,2116.8,Facebook
+40,F,Zacatecas,Diamante,2800,29/09/2022,0.3,1960,1646.4,Website
+29,F,Guadalajara,Rubí,1900,6/8/2022,0.0,1900,1596.0,Website
+38,F,Zacatecas,Rubí,1900,12/9/2022,0.0,1900,1596.0,Instagram Ads
+38,F,Baja California,Rubí,1900,3/8/2022,0.0,1900,1596.0,Instagram Ads
+40,M,Zacatecas,Rubí,1900,18/7/2022,0.0,1900,1596.0,Email
+25,F,Aguascalientes,Diamante,2800,18/11/2022,0.3,1960,1646.4,Facebook Ads
+43,F,Guadalajara,Rubí,1900,26/11/2022,0.0,1900,1596.0,Email
+45,F,Monterrey,Rubí,1900,8/7/2022,0.0,1900,1596.0,Website
+36,F,Guadalajara,Diamante,2800,5/12/2022,0.0,2800,2352.0,Instagram Ads
+30,F,Guerrero,Diamante,2800,1/9/2022,0.0,2800,2352.0,Instagram Ads
+30,M,Monterrey,Rubí,1900,13/08/2022,0.0,1900,1596.0,Google ads
+25,F,Monterrey,Diamante,2800,23/10/2022,0.3,1960,1646.4,Facebook Ads
+26,F,Monterrey,Rubí,1900,18/07/2022,0.0,1900,1596.0,Whatsapp
+28,M,Sinaloa,Rubí,1900,14/7/2022,0.0,1900,1596.0,Instagram Ads
+28,M,Zacatecas,Diamante,2800,10/12/2022,0.3,1960,1646.4,Facebook Ads
+28,F,Puebla,Diamante,2800,29/11/2022,0.3,1960,1646.4,Instagram Ads
+30,F,Veracruz,Diamante,2800,25/9/2022,0.2,2240,1881.6,Facebook Ads
+25,F,Aguascalientes,Diamante,2800,14/11/2022,0.3,1960,1646.4,Google ads
+30,M,Guadalajara,Rubí,1900,15/9/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Sinaloa,Rubí,1900,9/12/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Guadalajara,Rubí,1900,06/10/2022,0.0,1900,1596.0,Google ads
+40,M,Monterrey,Rubí,1900,08/12/2022,0.0,1900,1596.0,Email
+30,F,Durango,Rubí,1900,03/10/2022,0.0,1900,1596.0,Instagram Ads
+42,M,Guadalajara,Diamante,2800,25/07/2022,0.3,1960,1646.4,Google ads
+30,F,Guadalajara,Rubí,1900,14/10/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Chihuahua,Diamante,2800,22/7/2022,0.0,2800,2352.0,Google ads
+26,F,Zacatecas,Rubí,1900,11/10/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Guadalajara,Diamante,2800,15/10/2022,0.1,2520,2116.8,Email
+26,F,Baja California Sur,Rubí,1900,3/12/2022,0.0,1900,1596.0,Facebook
+25,M,Quintana Roo,Rubí,1900,26/12/2022,0.0,1900,1596.0,Facebook
+28,F,Aguascalientes,Rubí,1900,7/7/2022,0.0,1900,1596.0,Google ads
+35,F,Sinaloa,Diamante,2800,2/7/2022,0.1,2520,2116.8,Facebook Ads
+26,F,Sinaloa,Diamante,2800,18/8/2022,0.3,1960,1646.4,Instagram Ads
+29,F,Jalisco,Rubí,1900,07/12/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Guadalajara,Diamante,2800,23/7/2022,0.1,2520,2116.8,Instagram Ads
+32,M,Aguascalientes,Diamante,2800,21/08/2022,0.1,2520,2116.8,Whatsapp
+28,F,Zacatecas,Rubí,1900,23/9/2022,0.0,1900,1596.0,Google ads
+42,F,Sinaloa,Rubí,1900,16/9/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Zacatecas,Rubí,1900,27/11/2022,0.0,1900,1596.0,Instagram Ads
+26,M,San Luis Potosí,Rubí,1900,26/9/2022,0.0,1900,1596.0,Instagram Ads
+31,M,Monterrey,Rubí,1900,26/12/2022,0.0,1900,1596.0,Facebook Ads
+27,M,Guadalajara,Diamante,2800,20/12/2022,0.2,2240,1881.6,Facebook Ads
+30,F,Monterrey,Rubí,1900,13/12/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Veracruz,Rubí,1900,16/11/2022,0.0,1900,1596.0,Facebook
+26,F,Nuevo León,Diamante,2800,26/09/2022,0.2,2240,1881.6,Email
+25,F,Zacatecas,Diamante,2800,27/8/2022,0.1,2520,2116.8,Facebook Ads
+39,M,Sinaloa,Rubí,1900,3/8/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Monterrey,Rubí,1900,21/11/2022,0.0,1900,1596.0,Website
+29,M,Guadalajara,Diamante,2800,17/12/2022,0.2,2240,1881.6,Instagram Ads
+27,F,Chihuahua,Rubí,1900,05/09/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Monterrey,Rubí,1900,22/12/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Ciudad de México,Diamante,2800,12/08/2022,0.3,1960,1646.4,Instagram Ads
+26,M,Zacatecas,Diamante,2800,30/8/2022,0.3,1960,1646.4,Instagram Ads
+44,F,Ciudad de México,Diamante,2800,06/07/2022,0.2,2240,1881.6,Instagram Ads
+25,M,Chiapas,Diamante,2800,18/8/2022,0.0,2800,2352.0,Facebook Ads
+42,F,Oaxaca,Diamante,2800,08/08/2022,0.3,1960,1646.4,Facebook Ads
+30,M,Zacatecas,Diamante,2800,26/8/2022,0.1,2520,2116.8,Facebook Ads
+30,M,Monterrey,Diamante,2800,07/08/2022,0.0,2800,2352.0,Facebook Ads
+26,F,Guadalajara,Rubí,1900,24/8/2022,0.0,1900,1596.0,Google ads
+28,F,Monterrey,Rubí,1900,21/11/2022,0.0,1900,1596.0,Instagram
+33,M,Coahuila,Diamante,2800,29/10/2022,0.3,1960,1646.4,Instagram Ads
+28,F,Guadalajara,Rubí,1900,25/10/2022,0.0,1900,1596.0,Website
+25,F,Monterrey,Rubí,1900,13/9/2022,0.0,1900,1596.0,Google ads
+25,F,Monterrey,Rubí,1900,14/10/2022,0.0,1900,1596.0,Facebook
+29,M,Aguascalientes,Diamante,2800,23/8/2022,0.1,2520,2116.8,Facebook Ads
+28,M,Guadalajara,Diamante,2800,09/07/2022,0.1,2520,2116.8,Website
+32,F,Monterrey,Diamante,2800,29/12/2022,0.1,2520,2116.8,Google ads
+26,F,Guadalajara,Rubí,1900,26/07/2022,0.0,1900,1596.0,Google ads
+28,M,Yucatán,Rubí,1900,29/11/2022,0.0,1900,1596.0,Google ads
+26,M,Aguascalientes,Rubí,1900,12/10/2022,0.0,1900,1596.0,Google ads
+26,F,Aguascalientes,Rubí,1900,18/12/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Zacatecas,Rubí,1900,21/08/2022,0.0,1900,1596.0,Instagram Ads
+38,F,Sinaloa,Diamante,2800,04/10/2022,0.2,2240,1881.6,Google ads
+28,F,Zacatecas,Diamante,2800,21/11/2022,0.2,2240,1881.6,Google ads
+31,M,Monterrey,Rubí,1900,26/10/2022,0.0,1900,1596.0,Instagram
+28,F,Zacatecas,Diamante,2800,16/08/2022,0.3,1960,1646.4,Website
+29,F,Sinaloa,Diamante,2800,26/11/2022,0.3,1960,1646.4,Facebook Ads
+38,F,Ciudad de México,Diamante,2800,20/09/2022,0.1,2520,2116.8,Email
+26,F,Veracruz,Rubí,1900,18/12/2022,0.0,1900,1596.0,Instagram Ads
+27,M,Veracruz,Diamante,2800,27/11/2022,0.3,1960,1646.4,Instagram Ads
+28,M,Chihuahua,Rubí,1900,26/09/2022,0.0,1900,1596.0,Email
+25,M,Veracruz,Diamante,2800,14/08/2022,0.0,2800,2352.0,Instagram Ads
+30,F,Monterrey,Rubí,1900,27/12/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Monterrey,Rubí,1900,01/07/2022,0.0,1900,1596.0,Google ads
+25,F,Monterrey,Diamante,2800,2/11/2022,0.1,2520,2116.8,Email
+30,F,Zacatecas,Rubí,1900,25/09/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Monterrey,Rubí,1900,03/07/2022,0.0,1900,1596.0,Facebook Ads
+35,F,Guadalajara,Diamante,2800,09/12/2022,0.3,1960,1646.4,Facebook Ads
+30,F,Guadalajara,Diamante,2800,1/10/2022,0.0,2800,2352.0,Website
+30,F,Guadalajara,Diamante,2800,19/11/2022,0.3,1960,1646.4,Instagram
+28,F,Monterrey,Diamante,2800,03/11/2022,0.1,2520,2116.8,Facebook Ads
+39,M,Nuevo León,Rubí,1900,13/08/2022,0.0,1900,1596.0,Website
+26,F,Aguascalientes,Rubí,1900,10/12/2022,0.0,1900,1596.0,Instagram Ads
+37,F,Zacatecas,Diamante,2800,08/12/2022,0.3,1960,1646.4,Whatsapp
+28,F,Jalisco,Rubí,1900,16/11/2022,0.0,1900,1596.0,Website
+28,F,Guadalajara,Diamante,2800,4/11/2022,0.3,1960,1646.4,Facebook Ads
+29,F,Aguascalientes,Diamante,2800,30/09/2022,0.2,2240,1881.6,Facebook Ads
+28,F,Nayarit,Rubí,1900,28/9/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Monterrey,Diamante,2800,16/9/2022,0.1,2520,2116.8,Google ads
+44,F,Baja California,Rubí,1900,15/09/2022,0.0,1900,1596.0,Email
+26,M,Monterrey,Diamante,2800,27/08/2022,0.1,2520,2116.8,Instagram Ads
+30,F,Monterrey,Rubí,1900,10/10/2022,0.0,1900,1596.0,Instagram Ads
+37,F,Yucatán,Diamante,2800,11/11/2022,0.0,2800,2352.0,Google ads
+27,F,Zacatecas,Rubí,1900,06/09/2022,0.0,1900,1596.0,Whatsapp
+29,F,Sinaloa,Rubí,1900,19/9/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Baja California Sur,Rubí,1900,8/9/2022,0.0,1900,1596.0,Facebook
+29,M,San Luis Potosí,Rubí,1900,03/10/2022,0.0,1900,1596.0,Email
+28,F,Monterrey,Diamante,2800,12/09/2022,0.1,2520,2116.8,Website
+28,F,Monterrey,Diamante,2800,20/09/2022,0.1,2520,2116.8,Instagram Ads
+25,F,Monterrey,Rubí,1900,9/12/2022,0.0,1900,1596.0,Instagram Ads
+39,F,Nayarit,Rubí,1900,22/08/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Monterrey,Rubí,1900,2/9/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Guadalajara,Rubí,1900,29/11/2022,0.0,1900,1596.0,Website
+31,F,Monterrey,Rubí,1900,27/11/2022,0.0,1900,1596.0,Instagram Ads
+27,M,Zacatecas,Rubí,1900,28/10/2022,0.0,1900,1596.0,Facebook
+25,F,Veracruz,Diamante,2800,20/08/2022,0.1,2520,2116.8,Facebook Ads
+28,F,Monterrey,Rubí,1900,25/12/2022,0.0,1900,1596.0,Whatsapp
+30,F,Monterrey,Rubí,1900,06/08/2022,0.0,1900,1596.0,Google ads
+28,M,Guadalajara,Diamante,2800,18/07/2022,0.0,2800,2352.0,Instagram Ads
+29,M,Zacatecas,Diamante,2800,10/07/2022,0.2,2240,1881.6,Website
+29,F,Monterrey,Diamante,2800,26/10/2022,0.1,2520,2116.8,Instagram Ads
+25,M,Monterrey,Rubí,1900,23/11/2022,0.0,1900,1596.0,Facebook Ads
+25,M,Veracruz,Rubí,1900,2/9/2022,0.0,1900,1596.0,Google ads
+28,F,Monterrey,Rubí,1900,9/11/2022,0.0,1900,1596.0,Google ads
+26,F,Guadalajara,Rubí,1900,18/09/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Guadalajara,Diamante,2800,23/8/2022,0.1,2520,2116.8,Whatsapp
+26,F,San Luis Potosí,Rubí,1900,17/7/2022,0.0,1900,1596.0,Google ads
+27,M,Zacatecas,Rubí,1900,21/12/2022,0.0,1900,1596.0,Instagram Ads
+28,M,Monterrey,Diamante,2800,28/11/2022,0.3,1960,1646.4,Instagram Ads
+28,M,Guadalajara,Rubí,1900,29/10/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Guadalajara,Rubí,1900,27/11/2022,0.0,1900,1596.0,Google ads
+27,F,Monterrey,Rubí,1900,08/12/2022,0.0,1900,1596.0,Instagram Ads
+27,M,Zacatecas,Rubí,1900,4/12/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Guadalajara,Diamante,2800,21/8/2022,0.1,2520,2116.8,Instagram Ads
+29,M,Guadalajara,Rubí,1900,24/10/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Veracruz,Rubí,1900,21/7/2022,0.0,1900,1596.0,Google ads
+29,M,Coahuila,Rubí,1900,27/10/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Ciudad de México,Rubí,1900,10/9/2022,0.0,1900,1596.0,Facebook
+26,M,Monterrey,Rubí,1900,09/08/2022,0.0,1900,1596.0,Email
+30,M,Monterrey,Rubí,1900,17/07/2022,0.0,1900,1596.0,Instagram Ads
+43,F,Monterrey,Rubí,1900,16/09/2022,0.0,1900,1596.0,Instagram Ads
+34,F,Monterrey,Rubí,1900,25/08/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Veracruz,Rubí,1900,16/08/2022,0.0,1900,1596.0,Google ads
+28,F,Aguascalientes,Diamante,2800,14/8/2022,0.3,1960,1646.4,Facebook Ads
+27,M,Guadalajara,Diamante,2800,17/08/2022,0.1,2520,2116.8,Instagram Ads
+27,F,Monterrey,Rubí,1900,26/8/2022,0.0,1900,1596.0,Email
+30,F,Guadalajara,Diamante,2800,19/12/2022,0.2,2240,1881.6,Facebook Ads
+28,F,Veracruz,Rubí,1900,9/7/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Ciudad de México,Rubí,1900,14/10/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Veracruz,Rubí,1900,08/07/2022,0.0,1900,1596.0,Website
+30,F,Monterrey,Rubí,1900,6/8/2022,0.0,1900,1596.0,Google ads
+28,F,Aguascalientes,Diamante,2800,07/12/2022,0.2,2240,1881.6,Facebook Ads
+25,F,Guadalajara,Rubí,1900,1/12/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Guadalajara,Rubí,1900,23/08/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Baja California,Rubí,1900,13/10/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Puebla,Diamante,2800,12/10/2022,0.0,2800,2352.0,Instagram
+27,F,Guadalajara,Rubí,1900,16/07/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Aguascalientes,Rubí,1900,02/12/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Monterrey,Rubí,1900,22/8/2022,0.0,1900,1596.0,Google ads
+26,F,Zacatecas,Diamante,2800,23/12/2022,0.0,2800,2352.0,Google ads
+26,M,Guadalajara,Rubí,1900,23/11/2022,0.0,1900,1596.0,Website
+25,F,Monterrey,Diamante,2800,23/10/2022,0.2,2240,1881.6,Whatsapp
+41,F,Monterrey,Rubí,1900,10/7/2022,0.0,1900,1596.0,Instagram
+27,F,Monterrey,Diamante,2800,10/12/2022,0.3,1960,1646.4,Instagram Ads
+27,F,Monterrey,Diamante,2800,02/10/2022,0.0,2800,2352.0,Email
+29,F,Zacatecas,Rubí,1900,09/08/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Zacatecas,Diamante,2800,21/12/2022,0.3,1960,1646.4,Instagram Ads
+29,F,Guadalajara,Rubí,1900,09/11/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Rubí,1900,08/08/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Diamante,2800,15/7/2022,0.2,2240,1881.6,Google ads
+30,M,Zacatecas,Rubí,1900,24/7/2022,0.0,1900,1596.0,Instagram
+32,M,Monterrey,Diamante,2800,16/12/2022,0.0,2800,2352.0,Facebook Ads
+40,F,Veracruz,Rubí,1900,07/08/2022,0.0,1900,1596.0,Instagram Ads
+37,F,Aguascalientes,Diamante,2800,25/8/2022,0.3,1960,1646.4,Instagram Ads
+43,F,Guadalajara,Rubí,1900,15/8/2022,0.0,1900,1596.0,Facebook
+30,F,Zacatecas,Rubí,1900,29/9/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Monterrey,Diamante,2800,25/10/2022,0.1,2520,2116.8,Email
+26,F,Monterrey,Diamante,2800,31/7/2022,0.1,2520,2116.8,Facebook
+26,F,Zacatecas,Diamante,2800,26/12/2022,0.3,1960,1646.4,Google ads
+27,M,Zacatecas,Rubí,1900,25/12/2022,0.0,1900,1596.0,Website
+29,F,Monterrey,Rubí,1900,06/07/2022,0.0,1900,1596.0,Google ads
+27,F,Ciudad de México,Rubí,1900,30/7/2022,0.0,1900,1596.0,Website
+28,F,Sinaloa,Rubí,1900,12/08/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Ciudad de México,Rubí,1900,09/07/2022,0.0,1900,1596.0,Google ads
+39,F,Monterrey,Diamante,2800,06/10/2022,0.3,1960,1646.4,Website
+28,F,Sinaloa,Diamante,2800,4/11/2022,0.1,2520,2116.8,Facebook Ads
+26,F,Quintana Roo,Diamante,2800,30/10/2022,0.3,1960,1646.4,Google ads
+25,M,Puebla,Diamante,2800,14/11/2022,0.2,2240,1881.6,Facebook
+29,F,Monterrey,Diamante,2800,12/11/2022,0.1,2520,2116.8,Facebook
+36,F,Aguascalientes,Diamante,2800,04/08/2022,0.2,2240,1881.6,Website
+30,F,Coahuila,Diamante,2800,18/11/2022,0.2,2240,1881.6,Facebook Ads
+37,F,Monterrey,Rubí,1900,6/8/2022,0.0,1900,1596.0,Email
+26,M,Guerrero,Rubí,1900,05/11/2022,0.0,1900,1596.0,Email
+25,F,Veracruz,Diamante,2800,12/12/2022,0.0,2800,2352.0,Facebook Ads
+34,F,Aguascalientes,Rubí,1900,10/11/2022,0.0,1900,1596.0,Instagram
+29,F,Monterrey,Rubí,1900,7/8/2022,0.0,1900,1596.0,Website
+27,F,Guadalajara,Diamante,2800,9/11/2022,0.3,1960,1646.4,Facebook Ads
+42,F,Monterrey,Rubí,1900,14/11/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Guadalajara,Diamante,2800,6/7/2022,0.0,2800,2352.0,Email
+27,F,Guadalajara,Rubí,1900,08/07/2022,0.0,1900,1596.0,Google ads
+30,F,Zacatecas,Rubí,1900,12/9/2022,0.0,1900,1596.0,Facebook
+35,M,Aguascalientes,Diamante,2800,14/12/2022,0.2,2240,1881.6,Website
+30,M,Zacatecas,Rubí,1900,29/09/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Diamante,2800,4/8/2022,0.0,2800,2352.0,Instagram
+32,M,Guanajuato,Rubí,1900,08/12/2022,0.0,1900,1596.0,Instagram Ads
+43,F,Zacatecas,Rubí,1900,30/11/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Zacatecas,Rubí,1900,13/10/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Jalisco,Rubí,1900,10/10/2022,0.0,1900,1596.0,Website
+30,F,Durango,Rubí,1900,16/11/2022,0.0,1900,1596.0,Instagram Ads
+38,F,Monterrey,Rubí,1900,03/09/2022,0.0,1900,1596.0,Google ads
+43,F,Zacatecas,Rubí,1900,25/9/2022,0.0,1900,1596.0,Instagram Ads
+40,M,Monterrey,Rubí,1900,9/9/2022,0.0,1900,1596.0,Google ads
+26,F,Monterrey,Rubí,1900,15/07/2022,0.0,1900,1596.0,Website
+30,F,Chiapas,Diamante,2800,15/12/2022,0.3,1960,1646.4,Google ads
+30,F,Monterrey,Rubí,1900,6/12/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Diamante,2800,17/7/2022,0.3,1960,1646.4,Instagram Ads
+27,F,Zacatecas,Rubí,1900,12/09/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Monterrey,Diamante,2800,30/08/2022,0.1,2520,2116.8,Google ads
+30,F,Monterrey,Rubí,1900,24/12/2022,0.0,1900,1596.0,Google ads
+26,F,Sinaloa,Rubí,1900,04/11/2022,0.0,1900,1596.0,Instagram Ads
+28,F,San Luis Potosí,Diamante,2800,09/08/2022,0.2,2240,1881.6,Instagram Ads
+26,F,Zacatecas,Rubí,1900,15/7/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Zacatecas,Diamante,2800,10/7/2022,0.3,1960,1646.4,Whatsapp
+29,M,Puebla,Rubí,1900,16/9/2022,0.0,1900,1596.0,Website
+25,F,Monterrey,Rubí,1900,19/12/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Guerrero,Rubí,1900,24/10/2022,0.0,1900,1596.0,Facebook Ads
+28,M,Veracruz,Rubí,1900,25/07/2022,0.0,1900,1596.0,Google ads
+29,M,Zacatecas,Diamante,2800,5/9/2022,0.3,1960,1646.4,Instagram Ads
+26,F,Guadalajara,Rubí,1900,21/09/2022,0.0,1900,1596.0,Google ads
+28,F,Guadalajara,Diamante,2800,13/12/2022,0.0,2800,2352.0,Website
+28,F,Zacatecas,Rubí,1900,7/7/2022,0.0,1900,1596.0,Facebook Ads
+26,M,Baja California Sur,Rubí,1900,07/11/2022,0.0,1900,1596.0,Facebook Ads
+33,F,Veracruz,Rubí,1900,6/12/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Aguascalientes,Diamante,2800,2/7/2022,0.0,2800,2352.0,Google ads
+44,F,Veracruz,Diamante,2800,20/09/2022,0.0,2800,2352.0,Instagram Ads
+28,M,Zacatecas,Diamante,2800,18/10/2022,0.3,1960,1646.4,Website
+29,F,Puebla,Rubí,1900,25/11/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Monterrey,Rubí,1900,30/10/2022,0.0,1900,1596.0,Facebook Ads
+27,M,Monterrey,Rubí,1900,26/12/2022,0.0,1900,1596.0,Instagram Ads
+42,F,Guadalajara,Rubí,1900,15/10/2022,0.0,1900,1596.0,Google ads
+30,F,Guadalajara,Rubí,1900,12/08/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Zacatecas,Rubí,1900,17/10/2022,0.0,1900,1596.0,Google ads
+26,M,Ciudad de México,Diamante,2800,3/9/2022,0.1,2520,2116.8,Google ads
+27,F,Zacatecas,Rubí,1900,26/10/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Puebla,Diamante,2800,04/07/2022,0.2,2240,1881.6,Google ads
+40,F,Aguascalientes,Diamante,2800,9/11/2022,0.2,2240,1881.6,Google ads
+25,F,Durango,Rubí,1900,10/12/2022,0.0,1900,1596.0,Website
+26,M,Aguascalientes,Rubí,1900,28/09/2022,0.0,1900,1596.0,Google ads
+29,F,Zacatecas,Rubí,1900,1/12/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Nuevo León,Diamante,2800,8/11/2022,0.2,2240,1881.6,Google ads
+43,F,Aguascalientes,Rubí,1900,17/11/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Monterrey,Rubí,1900,4/8/2022,0.0,1900,1596.0,Instagram Ads
+29,F,San Luis Potosí,Rubí,1900,09/09/2022,0.0,1900,1596.0,Email
+30,F,Guadalajara,Diamante,2800,09/10/2022,0.0,2800,2352.0,Facebook Ads
+29,F,Zacatecas,Rubí,1900,29/08/2022,0.0,1900,1596.0,Google ads
+26,F,San Luis Potosí,Rubí,1900,28/10/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Guadalajara,Diamante,2800,19/12/2022,0.0,2800,2352.0,Instagram Ads
+27,F,Zacatecas,Diamante,2800,01/08/2022,0.0,2800,2352.0,Email
+30,M,Aguascalientes,Rubí,1900,4/11/2022,0.0,1900,1596.0,Website
+27,M,Monterrey,Diamante,2800,06/12/2022,0.3,1960,1646.4,Facebook Ads
+27,M,Zacatecas,Rubí,1900,17/11/2022,0.0,1900,1596.0,Facebook
+28,M,Aguascalientes,Rubí,1900,11/10/2022,0.0,1900,1596.0,Instagram Ads
+30,M,Sinaloa,Diamante,2800,13/7/2022,0.3,1960,1646.4,Google ads
+29,M,Guadalajara,Rubí,1900,7/11/2022,0.0,1900,1596.0,Instagram
+29,F,Aguascalientes,Rubí,1900,31/12/2022,0.0,1900,1596.0,Instagram Ads
+37,F,Baja California,Rubí,1900,18/7/2022,0.0,1900,1596.0,Website
+28,F,Monterrey,Diamante,2800,11/8/2022,0.3,1960,1646.4,Instagram
+39,F,Monterrey,Rubí,1900,25/11/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Zacatecas,Rubí,1900,08/11/2022,0.0,1900,1596.0,Instagram Ads
+35,F,Guadalajara,Rubí,1900,24/10/2022,0.0,1900,1596.0,Instagram Ads
+29,M,San Luis Potosí,Rubí,1900,06/08/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Monterrey,Rubí,1900,20/12/2022,0.0,1900,1596.0,Google ads
+40,F,Monterrey,Diamante,2800,4/7/2022,0.1,2520,2116.8,Instagram Ads
+26,M,Puebla,Diamante,2800,11/08/2022,0.1,2520,2116.8,Google ads
+27,M,Veracruz,Rubí,1900,28/10/2022,0.0,1900,1596.0,Google ads
+33,F,San Luis Potosí,Rubí,1900,08/08/2022,0.0,1900,1596.0,Instagram Ads
+41,F,Ciudad de México,Diamante,2800,18/11/2022,0.3,1960,1646.4,Google ads
+30,M,Guadalajara,Rubí,1900,15/12/2022,0.0,1900,1596.0,Website
+25,F,Monterrey,Rubí,1900,15/09/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Zacatecas,Diamante,2800,13/10/2022,0.2,2240,1881.6,Email
+37,F,Durango,Rubí,1900,01/10/2022,0.0,1900,1596.0,Facebook Ads
+43,M,Chiapas,Rubí,1900,26/9/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Aguascalientes,Diamante,2800,15/11/2022,0.0,2800,2352.0,Facebook Ads
+44,F,San Luis Potosí,Rubí,1900,9/12/2022,0.0,1900,1596.0,Facebook Ads
+28,M,Veracruz,Rubí,1900,16/10/2022,0.0,1900,1596.0,Google ads
+26,M,Monterrey,Rubí,1900,18/7/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Monterrey,Rubí,1900,07/10/2022,0.0,1900,1596.0,Google ads
+26,F,Monterrey,Rubí,1900,11/11/2022,0.0,1900,1596.0,Website
+25,F,Veracruz,Rubí,1900,21/12/2022,0.0,1900,1596.0,Facebook Ads
+30,M,Monterrey,Diamante,2800,12/10/2022,0.3,1960,1646.4,Facebook Ads
+27,F,Guadalajara,Rubí,1900,12/12/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Veracruz,Rubí,1900,13/08/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Guadalajara,Diamante,2800,30/08/2022,0.2,2240,1881.6,Google ads
+45,M,Aguascalientes,Rubí,1900,17/11/2022,0.0,1900,1596.0,Google ads
+44,F,Monterrey,Diamante,2800,13/11/2022,0.1,2520,2116.8,Instagram
+27,M,Zacatecas,Diamante,2800,30/08/2022,0.0,2800,2352.0,Facebook Ads
+28,F,Zacatecas,Diamante,2800,30/11/2022,0.3,1960,1646.4,Facebook Ads
+25,F,Zacatecas,Rubí,1900,24/07/2022,0.0,1900,1596.0,Facebook Ads
+29,M,Aguascalientes,Diamante,2800,06/11/2022,0.2,2240,1881.6,Google ads
+25,F,Guadalajara,Diamante,2800,16/10/2022,0.0,2800,2352.0,Email
+30,F,Monterrey,Rubí,1900,3/10/2022,0.0,1900,1596.0,Facebook Ads
+43,F,Yucatán,Rubí,1900,25/12/2022,0.0,1900,1596.0,Google ads
+26,F,Zacatecas,Rubí,1900,27/08/2022,0.0,1900,1596.0,Email
+34,F,Guanajuato,Rubí,1900,16/8/2022,0.0,1900,1596.0,Facebook Ads
+26,M,Zacatecas,Diamante,2800,25/09/2022,0.1,2520,2116.8,Website
+26,F,Monterrey,Diamante,2800,13/8/2022,0.2,2240,1881.6,Website
+27,M,Sinaloa,Rubí,1900,11/09/2022,0.0,1900,1596.0,Instagram Ads
+26,M,Monterrey,Diamante,2800,23/09/2022,0.1,2520,2116.8,Facebook Ads
+27,M,Guadalajara,Rubí,1900,1/9/2022,0.0,1900,1596.0,Facebook Ads
+45,F,Zacatecas,Rubí,1900,28/08/2022,0.0,1900,1596.0,Email
+40,M,Jalisco,Rubí,1900,10/7/2022,0.0,1900,1596.0,Instagram
+26,M,Ciudad de México,Rubí,1900,10/10/2022,0.0,1900,1596.0,Website
+25,F,Monterrey,Rubí,1900,5/12/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Aguascalientes,Diamante,2800,23/11/2022,0.0,2800,2352.0,Instagram Ads
+36,F,Veracruz,Rubí,1900,26/7/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Aguascalientes,Rubí,1900,30/09/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Monterrey,Diamante,2800,14/09/2022,0.2,2240,1881.6,Website
+26,F,Guerrero,Rubí,1900,16/12/2022,0.0,1900,1596.0,Email
+29,F,Monterrey,Rubí,1900,10/10/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Monterrey,Diamante,2800,1/12/2022,0.3,1960,1646.4,Instagram Ads
+30,M,Ciudad de México,Diamante,2800,26/12/2022,0.2,2240,1881.6,Whatsapp
+28,F,Zacatecas,Rubí,1900,19/11/2022,0.0,1900,1596.0,Google ads
+43,F,Monterrey,Rubí,1900,21/12/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Monterrey,Diamante,2800,4/9/2022,0.3,1960,1646.4,Google ads
+27,F,Aguascalientes,Diamante,2800,25/9/2022,0.0,2800,2352.0,Facebook Ads
+30,M,Ciudad de México,Rubí,1900,22/09/2022,0.0,1900,1596.0,Instagram Ads
+45,F,Monterrey,Rubí,1900,4/10/2022,0.0,1900,1596.0,Email
+32,F,Monterrey,Diamante,2800,05/11/2022,0.2,2240,1881.6,Instagram
+26,M,Monterrey,Rubí,1900,4/8/2022,0.0,1900,1596.0,Google ads
+38,M,Guadalajara,Rubí,1900,10/8/2022,0.0,1900,1596.0,Google ads
+26,F,Aguascalientes,Rubí,1900,13/11/2022,0.0,1900,1596.0,Google ads
+30,F,Guadalajara,Rubí,1900,13/11/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Monterrey,Rubí,1900,09/08/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Sinaloa,Rubí,1900,05/07/2022,0.0,1900,1596.0,Website
+29,M,Guadalajara,Diamante,2800,18/12/2022,0.2,2240,1881.6,Website
+30,F,Baja California Sur,Diamante,2800,11/9/2022,0.3,1960,1646.4,Email
+35,M,Monterrey,Rubí,1900,26/9/2022,0.0,1900,1596.0,Facebook
+25,F,Guadalajara,Diamante,2800,20/12/2022,0.1,2520,2116.8,Email
+28,F,Sinaloa,Diamante,2800,14/07/2022,0.0,2800,2352.0,Website
+27,M,Baja California,Diamante,2800,15/10/2022,0.2,2240,1881.6,Website
+27,M,Monterrey,Rubí,1900,18/09/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Monterrey,Diamante,2800,13/11/2022,0.0,2800,2352.0,Website
+26,M,Guadalajara,Rubí,1900,28/7/2022,0.0,1900,1596.0,Instagram Ads
+40,M,Monterrey,Diamante,2800,13/07/2022,0.3,1960,1646.4,Facebook Ads
+29,F,Zacatecas,Diamante,2800,7/8/2022,0.0,2800,2352.0,Instagram Ads
+29,F,Ciudad de México,Rubí,1900,10/07/2022,0.0,1900,1596.0,Whatsapp
+29,M,Aguascalientes,Diamante,2800,24/08/2022,0.0,2800,2352.0,Instagram
+27,F,Aguascalientes,Rubí,1900,03/09/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Zacatecas,Rubí,1900,1/11/2022,0.0,1900,1596.0,Instagram
+27,F,Zacatecas,Rubí,1900,13/12/2022,0.0,1900,1596.0,Instagram Ads
+28,M,Monterrey,Diamante,2800,15/11/2022,0.0,2800,2352.0,Google ads
+29,F,Guadalajara,Diamante,2800,4/11/2022,0.0,2800,2352.0,Facebook Ads
+25,M,Guadalajara,Rubí,1900,16/8/2022,0.0,1900,1596.0,Instagram Ads
+26,M,Veracruz,Rubí,1900,5/8/2022,0.0,1900,1596.0,Instagram
+27,F,Baja California Sur,Rubí,1900,3/8/2022,0.0,1900,1596.0,Instagram Ads
+26,M,Zacatecas,Rubí,1900,1/8/2022,0.0,1900,1596.0,Facebook Ads
+30,M,Guadalajara,Diamante,2800,31/8/2022,0.3,1960,1646.4,Instagram Ads
+26,M,Sinaloa,Diamante,2800,04/12/2022,0.3,1960,1646.4,Instagram Ads
+35,M,Aguascalientes,Rubí,1900,22/12/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Zacatecas,Rubí,1900,13/9/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Diamante,2800,16/10/2022,0.0,2800,2352.0,Google ads
+27,F,Zacatecas,Rubí,1900,18/07/2022,0.0,1900,1596.0,Facebook Ads
+27,F,Campeche,Diamante,2800,8/9/2022,0.1,2520,2116.8,Website
+25,F,Ciudad de México,Rubí,1900,14/10/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Campeche,Diamante,2800,14/11/2022,0.3,1960,1646.4,Website
+30,M,Guadalajara,Diamante,2800,23/9/2022,0.0,2800,2352.0,Email
+29,F,Guadalajara,Diamante,2800,12/7/2022,0.3,1960,1646.4,Email
+27,F,Aguascalientes,Rubí,1900,10/11/2022,0.0,1900,1596.0,Facebook Ads
+26,M,Guadalajara,Rubí,1900,9/10/2022,0.0,1900,1596.0,Instagram Ads
+36,M,Guerrero,Diamante,2800,9/8/2022,0.0,2800,2352.0,Facebook Ads
+27,F,Monterrey,Rubí,1900,16/10/2022,0.0,1900,1596.0,Instagram Ads
+39,F,Monterrey,Rubí,1900,16/10/2022,0.0,1900,1596.0,Email
+28,M,Sinaloa,Diamante,2800,18/10/2022,0.1,2520,2116.8,Facebook Ads
+29,F,Sinaloa,Diamante,2800,29/10/2022,0.2,2240,1881.6,Instagram Ads
+45,M,Zacatecas,Diamante,2800,23/7/2022,0.3,1960,1646.4,Google ads
+28,F,Chiapas,Diamante,2800,1/11/2022,0.1,2520,2116.8,Website
+33,F,Querétaro,Rubí,1900,04/09/2022,0.0,1900,1596.0,Instagram
+30,F,Durango,Rubí,1900,17/10/2022,0.0,1900,1596.0,Google ads
+44,F,Guadalajara,Diamante,2800,25/07/2022,0.1,2520,2116.8,Instagram Ads
+29,M,Sinaloa,Rubí,1900,12/10/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Guadalajara,Diamante,2800,1/12/2022,0.1,2520,2116.8,Instagram Ads
+26,F,Guadalajara,Rubí,1900,3/10/2022,0.0,1900,1596.0,Website
+33,F,Aguascalientes,Rubí,1900,23/7/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Guadalajara,Rubí,1900,19/7/2022,0.0,1900,1596.0,Instagram Ads
+40,F,Monterrey,Diamante,2800,30/10/2022,0.0,2800,2352.0,Instagram Ads
+30,F,Sinaloa,Diamante,2800,7/9/2022,0.0,2800,2352.0,Facebook Ads
+35,M,Ciudad de México,Diamante,2800,03/11/2022,0.3,1960,1646.4,Google ads
+30,F,Monterrey,Rubí,1900,14/11/2022,0.0,1900,1596.0,Website
+29,F,Guadalajara,Rubí,1900,23/08/2022,0.0,1900,1596.0,Facebook Ads
+37,M,Zacatecas,Rubí,1900,19/11/2022,0.0,1900,1596.0,Website
+29,F,Guadalajara,Diamante,2800,01/07/2022,0.3,1960,1646.4,Email
+41,F,Baja California Sur,Rubí,1900,21/12/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Monterrey,Rubí,1900,14/09/2022,0.0,1900,1596.0,Website
+27,F,Guadalajara,Rubí,1900,09/11/2022,0.0,1900,1596.0,Google ads
+44,F,Monterrey,Rubí,1900,13/11/2022,0.0,1900,1596.0,Whatsapp
+27,F,Monterrey,Rubí,1900,30/10/2022,0.0,1900,1596.0,Instagram
+30,M,Guadalajara,Rubí,1900,25/9/2022,0.0,1900,1596.0,Google ads
+29,F,Guadalajara,Diamante,2800,16/11/2022,0.0,2800,2352.0,Facebook Ads
+29,F,Guadalajara,Rubí,1900,1/11/2022,0.0,1900,1596.0,Google ads
+29,F,Aguascalientes,Rubí,1900,23/9/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Guadalajara,Rubí,1900,01/10/2022,0.0,1900,1596.0,Email
+39,F,Veracruz,Rubí,1900,27/11/2022,0.0,1900,1596.0,Facebook Ads
+30,M,Guadalajara,Rubí,1900,3/7/2022,0.0,1900,1596.0,Website
+25,M,Guadalajara,Diamante,2800,6/8/2022,0.2,2240,1881.6,Facebook Ads
+38,M,Chihuahua,Diamante,2800,18/7/2022,0.3,1960,1646.4,Instagram
+25,F,Monterrey,Rubí,1900,22/12/2022,0.0,1900,1596.0,Instagram Ads
+43,F,Monterrey,Rubí,1900,27/8/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Guadalajara,Rubí,1900,14/10/2022,0.0,1900,1596.0,Facebook Ads
+38,M,Guadalajara,Rubí,1900,06/09/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Zacatecas,Rubí,1900,02/12/2022,0.0,1900,1596.0,Website
+34,M,Aguascalientes,Rubí,1900,23/12/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Chihuahua,Rubí,1900,19/08/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Sinaloa,Rubí,1900,26/11/2022,0.0,1900,1596.0,Instagram
+29,M,Guadalajara,Rubí,1900,29/10/2022,0.0,1900,1596.0,Instagram Ads
+25,M,Querétaro,Rubí,1900,17/8/2022,0.0,1900,1596.0,Website
+30,F,Zacatecas,Diamante,2800,27/12/2022,0.2,2240,1881.6,Google ads
+30,M,Aguascalientes,Rubí,1900,07/07/2022,0.0,1900,1596.0,Email
+27,F,Ciudad de México,Rubí,1900,03/09/2022,0.0,1900,1596.0,Website
+26,M,Monterrey,Rubí,1900,18/08/2022,0.0,1900,1596.0,Instagram Ads
+45,M,Nuevo León,Rubí,1900,13/12/2022,0.0,1900,1596.0,Google ads
+30,M,Baja California Sur,Rubí,1900,21/12/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Veracruz,Diamante,2800,05/09/2022,0.3,1960,1646.4,Facebook
+25,F,Monterrey,Rubí,1900,17/11/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Guadalajara,Diamante,2800,09/10/2022,0.1,2520,2116.8,Email
+27,M,Guadalajara,Rubí,1900,23/09/2022,0.0,1900,1596.0,Facebook Ads
+28,M,Veracruz,Diamante,2800,10/12/2022,0.0,2800,2352.0,Google ads
+36,F,Monterrey,Rubí,1900,04/09/2022,0.0,1900,1596.0,Instagram Ads
+28,F,Guadalajara,Rubí,1900,26/12/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Monterrey,Diamante,2800,23/11/2022,0.0,2800,2352.0,Instagram Ads
+29,F,Guadalajara,Rubí,1900,20/12/2022,0.0,1900,1596.0,Instagram Ads
+45,F,Aguascalientes,Rubí,1900,01/08/2022,0.0,1900,1596.0,Facebook
+27,F,Guadalajara,Rubí,1900,30/11/2022,0.0,1900,1596.0,Email
+29,M,Aguascalientes,Rubí,1900,28/11/2022,0.0,1900,1596.0,Email
+32,F,Aguascalientes,Diamante,2800,19/07/2022,0.3,1960,1646.4,Instagram Ads
+25,M,Guadalajara,Diamante,2800,16/7/2022,0.2,2240,1881.6,Google ads
+25,F,Monterrey,Diamante,2800,5/12/2022,0.1,2520,2116.8,Instagram Ads
+27,M,Sinaloa,Rubí,1900,24/8/2022,0.0,1900,1596.0,Facebook Ads
+35,F,Guadalajara,Rubí,1900,17/10/2022,0.0,1900,1596.0,Website
+29,M,Zacatecas,Diamante,2800,13/8/2022,0.3,1960,1646.4,Website
+38,F,Zacatecas,Diamante,2800,28/12/2022,0.3,1960,1646.4,Whatsapp
+27,M,Guadalajara,Rubí,1900,08/11/2022,0.0,1900,1596.0,Website
+27,M,Guadalajara,Rubí,1900,11/9/2022,0.0,1900,1596.0,Instagram
+26,M,Zacatecas,Diamante,2800,7/10/2022,0.1,2520,2116.8,Instagram Ads
+28,F,Monterrey,Rubí,1900,18/11/2022,0.0,1900,1596.0,Email
+28,F,Zacatecas,Diamante,2800,07/11/2022,0.0,2800,2352.0,Google ads
+26,F,Veracruz,Rubí,1900,06/10/2022,0.0,1900,1596.0,Whatsapp
+27,M,Veracruz,Rubí,1900,15/7/2022,0.0,1900,1596.0,Facebook Ads
+32,F,Monterrey,Rubí,1900,5/9/2022,0.0,1900,1596.0,Facebook Ads
+34,F,Monterrey,Rubí,1900,15/10/2022,0.0,1900,1596.0,Instagram Ads
+29,F,Guadalajara,Rubí,1900,6/11/2022,0.0,1900,1596.0,Website
+26,F,Guadalajara,Diamante,2800,04/08/2022,0.3,1960,1646.4,Facebook
+44,M,Veracruz,Diamante,2800,1/10/2022,0.2,2240,1881.6,Facebook Ads
+25,F,Guadalajara,Rubí,1900,30/12/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Sinaloa,Diamante,2800,22/12/2022,0.1,2520,2116.8,Google ads
+26,M,Monterrey,Diamante,2800,25/9/2022,0.1,2520,2116.8,Instagram Ads
+35,F,Monterrey,Diamante,2800,5/7/2022,0.3,1960,1646.4,Facebook Ads
+29,F,Monterrey,Rubí,1900,26/11/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Yucatán,Diamante,2800,6/12/2022,0.0,2800,2352.0,Website
+25,F,Tamaulipas,Rubí,1900,07/09/2022,0.0,1900,1596.0,Facebook Ads
+28,F,Baja California,Diamante,2800,23/08/2022,0.3,1960,1646.4,Facebook Ads
+29,M,Monterrey,Rubí,1900,23/12/2022,0.0,1900,1596.0,Facebook
+29,F,Aguascalientes,Diamante,2800,22/11/2022,0.0,2800,2352.0,Website
+33,M,Monterrey,Rubí,1900,27/10/2022,0.0,1900,1596.0,Instagram Ads
+30,M,Oaxaca,Rubí,1900,29/10/2022,0.0,1900,1596.0,Email
+27,F,Guadalajara,Diamante,2800,30/10/2022,0.3,1960,1646.4,Website
+26,F,Guadalajara,Diamante,2800,17/8/2022,0.2,2240,1881.6,Facebook Ads
+31,M,Monterrey,Rubí,1900,21/12/2022,0.0,1900,1596.0,Facebook Ads
+39,F,Veracruz,Diamante,2800,19/12/2022,0.0,2800,2352.0,Instagram Ads
+29,F,Monterrey,Rubí,1900,2/7/2022,0.0,1900,1596.0,Email
+29,F,Monterrey,Rubí,1900,28/11/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Veracruz,Rubí,1900,10/10/2022,0.0,1900,1596.0,Whatsapp
+31,M,Aguascalientes,Rubí,1900,27/08/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Zacatecas,Rubí,1900,26/11/2022,0.0,1900,1596.0,Instagram Ads
+28,M,Veracruz,Diamante,2800,4/11/2022,0.0,2800,2352.0,Facebook Ads
+42,F,Guadalajara,Rubí,1900,14/07/2022,0.0,1900,1596.0,Email
+28,F,Campeche,Diamante,2800,17/8/2022,0.0,2800,2352.0,Google ads
+29,F,Zacatecas,Rubí,1900,31/8/2022,0.0,1900,1596.0,Instagram Ads
+26,M,Veracruz,Diamante,2800,01/10/2022,0.2,2240,1881.6,Whatsapp
+25,F,Monterrey,Rubí,1900,2/11/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Guadalajara,Diamante,2800,22/7/2022,0.0,2800,2352.0,Website
+30,M,Ciudad de México,Rubí,1900,8/9/2022,0.0,1900,1596.0,Website
+25,M,Guadalajara,Diamante,2800,14/08/2022,0.2,2240,1881.6,Instagram Ads
+33,F,Chiapas,Rubí,1900,4/7/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Guadalajara,Diamante,2800,15/9/2022,0.2,2240,1881.6,Google ads
+26,F,Oaxaca,Diamante,2800,22/07/2022,0.0,2800,2352.0,Email
+28,F,Veracruz,Diamante,2800,16/7/2022,0.1,2520,2116.8,Google ads
+27,F,Monterrey,Rubí,1900,13/10/2022,0.0,1900,1596.0,Website
+30,F,Guadalajara,Rubí,1900,04/10/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Diamante,2800,30/11/2022,0.2,2240,1881.6,Whatsapp
+29,F,Baja California Sur,Diamante,2800,30/12/2022,0.1,2520,2116.8,Facebook Ads
+26,M,Veracruz,Rubí,1900,16/10/2022,0.0,1900,1596.0,Google ads
+25,F,Monterrey,Rubí,1900,9/7/2022,0.0,1900,1596.0,Facebook
+28,M,Monterrey,Rubí,1900,18/11/2022,0.0,1900,1596.0,Google ads
+27,F,Sinaloa,Rubí,1900,26/12/2022,0.0,1900,1596.0,Instagram
+26,M,Aguascalientes,Rubí,1900,7/10/2022,0.0,1900,1596.0,Email
+33,F,Ciudad de México,Diamante,2800,01/08/2022,0.3,1960,1646.4,Facebook Ads
+25,F,Sinaloa,Rubí,1900,20/12/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Monterrey,Diamante,2800,20/11/2022,0.2,2240,1881.6,Facebook
+25,M,Veracruz,Diamante,2800,18/12/2022,0.0,2800,2352.0,Email
+26,F,Baja California,Diamante,2800,19/07/2022,0.3,1960,1646.4,Facebook Ads
+45,F,Guadalajara,Rubí,1900,4/9/2022,0.0,1900,1596.0,Google ads
+27,F,Veracruz,Rubí,1900,5/8/2022,0.0,1900,1596.0,Instagram
+26,F,Guadalajara,Diamante,2800,26/08/2022,0.1,2520,2116.8,Instagram Ads
+30,F,Sinaloa,Diamante,2800,05/12/2022,0.3,1960,1646.4,Instagram Ads
+30,F,Guadalajara,Diamante,2800,15/09/2022,0.1,2520,2116.8,Email
+26,M,Monterrey,Diamante,2800,10/9/2022,0.2,2240,1881.6,Google ads
+35,F,Guadalajara,Rubí,1900,25/7/2022,0.0,1900,1596.0,Facebook Ads
+42,M,Zacatecas,Rubí,1900,12/9/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Querétaro,Rubí,1900,14/11/2022,0.0,1900,1596.0,Whatsapp
+30,F,Zacatecas,Rubí,1900,25/12/2022,0.0,1900,1596.0,Facebook Ads
+36,F,San Luis Potosí,Rubí,1900,3/10/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Monterrey,Diamante,2800,01/12/2022,0.0,2800,2352.0,Facebook Ads
+40,F,Zacatecas,Rubí,1900,13/12/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Guadalajara,Rubí,1900,7/7/2022,0.0,1900,1596.0,Instagram Ads
+44,M,Veracruz,Diamante,2800,02/09/2022,0.1,2520,2116.8,Website
+29,F,Tamaulipas,Rubí,1900,11/7/2022,0.0,1900,1596.0,Facebook Ads
+27,M,Oaxaca,Rubí,1900,28/08/2022,0.0,1900,1596.0,Google ads
+45,M,Chihuahua,Rubí,1900,12/7/2022,0.0,1900,1596.0,Google ads
+29,F,Sinaloa,Rubí,1900,08/11/2022,0.0,1900,1596.0,Instagram Ads
+40,F,Guanajuato,Rubí,1900,27/9/2022,0.0,1900,1596.0,Website
+26,F,Campeche,Rubí,1900,13/11/2022,0.0,1900,1596.0,Website
+29,M,Guadalajara,Rubí,1900,24/7/2022,0.0,1900,1596.0,Email
+27,F,Monterrey,Rubí,1900,27/11/2022,0.0,1900,1596.0,Google ads
+44,F,Zacatecas,Rubí,1900,7/7/2022,0.0,1900,1596.0,Instagram
+29,M,Monterrey,Rubí,1900,20/09/2022,0.0,1900,1596.0,Website
+30,M,Guadalajara,Diamante,2800,30/7/2022,0.3,1960,1646.4,Whatsapp
+38,F,Coahuila,Diamante,2800,3/10/2022,0.2,2240,1881.6,Instagram
+27,F,Zacatecas,Rubí,1900,17/7/2022,0.0,1900,1596.0,Google ads
+29,F,Nuevo León,Rubí,1900,29/10/2022,0.0,1900,1596.0,Email
+29,M,Campeche,Rubí,1900,4/11/2022,0.0,1900,1596.0,Website
+27,F,Monterrey,Rubí,1900,06/08/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Monterrey,Rubí,1900,31/08/2022,0.0,1900,1596.0,Google ads
+29,F,Monterrey,Diamante,2800,24/10/2022,0.0,2800,2352.0,Google ads
+26,F,Zacatecas,Rubí,1900,23/07/2022,0.0,1900,1596.0,Website
+25,M,Monterrey,Diamante,2800,20/11/2022,0.0,2800,2352.0,Facebook Ads
+44,F,Monterrey,Rubí,1900,9/12/2022,0.0,1900,1596.0,Email
+28,F,Monterrey,Rubí,1900,22/8/2022,0.0,1900,1596.0,Whatsapp
+37,F,Guadalajara,Rubí,1900,10/11/2022,0.0,1900,1596.0,Google ads
+32,M,Campeche,Rubí,1900,25/12/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Guadalajara,Rubí,1900,15/11/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Coahuila,Rubí,1900,18/08/2022,0.0,1900,1596.0,Instagram Ads
+41,F,Monterrey,Diamante,2800,13/12/2022,0.3,1960,1646.4,Facebook Ads
+39,M,Monterrey,Diamante,2800,26/09/2022,0.1,2520,2116.8,Facebook
+29,F,Guadalajara,Rubí,1900,29/12/2022,0.0,1900,1596.0,Email
+28,F,Sinaloa,Rubí,1900,18/7/2022,0.0,1900,1596.0,Instagram Ads
+29,M,Guadalajara,Rubí,1900,23/07/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Monterrey,Rubí,1900,21/10/2022,0.0,1900,1596.0,Google ads
+27,M,Monterrey,Rubí,1900,20/07/2022,0.0,1900,1596.0,Email
+25,F,Aguascalientes,Diamante,2800,21/8/2022,0.1,2520,2116.8,Facebook Ads
+42,M,Monterrey,Rubí,1900,21/11/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Zacatecas,Diamante,2800,24/07/2022,0.3,1960,1646.4,Facebook Ads
+43,M,Zacatecas,Rubí,1900,10/7/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Monterrey,Rubí,1900,19/9/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Ciudad de México,Rubí,1900,18/11/2022,0.0,1900,1596.0,Instagram Ads
+35,F,Guadalajara,Rubí,1900,15/8/2022,0.0,1900,1596.0,Google ads
+29,M,Guadalajara,Diamante,2800,21/12/2022,0.3,1960,1646.4,Facebook
+30,F,Zacatecas,Rubí,1900,30/10/2022,0.0,1900,1596.0,Email
+29,F,Tamaulipas,Rubí,1900,01/12/2022,0.0,1900,1596.0,Instagram Ads
+26,M,Guadalajara,Rubí,1900,4/7/2022,0.0,1900,1596.0,Instagram
+27,M,Monterrey,Diamante,2800,24/10/2022,0.0,2800,2352.0,Email
+27,F,Guadalajara,Rubí,1900,19/12/2022,0.0,1900,1596.0,Instagram Ads
+30,F,Guadalajara,Diamante,2800,15/10/2022,0.0,2800,2352.0,Instagram Ads
+45,F,Monterrey,Rubí,1900,30/08/2022,0.0,1900,1596.0,Instagram Ads
+34,F,Veracruz,Diamante,2800,25/11/2022,0.1,2520,2116.8,Website
+32,F,Puebla,Diamante,2800,07/08/2022,0.1,2520,2116.8,Instagram
+28,F,Monterrey,Rubí,1900,12/07/2022,0.0,1900,1596.0,Google ads
+27,F,Guadalajara,Rubí,1900,29/8/2022,0.0,1900,1596.0,Whatsapp
+44,M,Chiapas,Rubí,1900,14/11/2022,0.0,1900,1596.0,Facebook Ads
+25,F,Zacatecas,Rubí,1900,15/09/2022,0.0,1900,1596.0,Facebook Ads
+25,M,Veracruz,Rubí,1900,05/07/2022,0.0,1900,1596.0,Whatsapp
+25,F,Guadalajara,Rubí,1900,8/10/2022,0.0,1900,1596.0,Email
+38,F,Oaxaca,Rubí,1900,13/08/2022,0.0,1900,1596.0,Website
+30,M,Aguascalientes,Rubí,1900,4/7/2022,0.0,1900,1596.0,Email
+27,M,Yucatán,Rubí,1900,3/12/2022,0.0,1900,1596.0,Instagram Ads
+27,F,Aguascalientes,Diamante,2800,09/10/2022,0.2,2240,1881.6,Facebook Ads
+26,M,Monterrey,Diamante,2800,24/11/2022,0.0,2800,2352.0,Facebook Ads
+28,M,Ciudad de México,Rubí,1900,4/8/2022,0.0,1900,1596.0,Instagram
+25,F,Aguascalientes,Diamante,2800,6/12/2022,0.1,2520,2116.8,Instagram Ads
+29,M,Querétaro,Diamante,2800,1/12/2022,0.2,2240,1881.6,Instagram Ads
+28,F,Guadalajara,Diamante,2800,08/08/2022,0.1,2520,2116.8,Google ads
+25,F,Veracruz,Rubí,1900,21/12/2022,0.0,1900,1596.0,Google ads
+29,F,Monterrey,Rubí,1900,21/7/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Guadalajara,Diamante,2800,04/10/2022,0.3,1960,1646.4,Google ads
+40,M,Monterrey,Rubí,1900,27/07/2022,0.0,1900,1596.0,Facebook
+43,M,Guadalajara,Diamante,2800,14/7/2022,0.3,1960,1646.4,Instagram Ads
+29,M,Guadalajara,Rubí,1900,25/8/2022,0.0,1900,1596.0,Google ads
+30,F,Sinaloa,Diamante,2800,29/08/2022,0.3,1960,1646.4,Website
+26,F,Guadalajara,Diamante,2800,7/8/2022,0.0,2800,2352.0,Email
+26,M,San Luis Potosí,Rubí,1900,20/12/2022,0.0,1900,1596.0,Google ads
+27,F,Guadalajara,Rubí,1900,30/09/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Monterrey,Rubí,1900,18/09/2022,0.0,1900,1596.0,Facebook Ads
+39,F,Monterrey,Diamante,2800,29/07/2022,0.0,2800,2352.0,Instagram Ads
+30,M,Nayarit,Rubí,1900,8/7/2022,0.0,1900,1596.0,Website
+34,F,Ciudad de México,Rubí,1900,26/11/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Chiapas,Rubí,1900,24/11/2022,0.0,1900,1596.0,Facebook Ads
+28,M,Puebla,Diamante,2800,14/10/2022,0.1,2520,2116.8,Instagram Ads
+25,F,Guadalajara,Diamante,2800,28/09/2022,0.2,2240,1881.6,Email
+28,F,Aguascalientes,Rubí,1900,06/08/2022,0.0,1900,1596.0,Facebook Ads
+30,M,Zacatecas,Diamante,2800,24/09/2022,0.3,1960,1646.4,Google ads
+26,M,Guerrero,Diamante,2800,24/7/2022,0.2,2240,1881.6,Google ads
+31,F,Guerrero,Rubí,1900,04/11/2022,0.0,1900,1596.0,Facebook
+30,F,Monterrey,Rubí,1900,25/11/2022,0.0,1900,1596.0,Google ads
+28,F,Monterrey,Rubí,1900,18/12/2022,0.0,1900,1596.0,Facebook Ads
+43,M,Monterrey,Rubí,1900,21/09/2022,0.0,1900,1596.0,Instagram Ads
+34,M,Coahuila,Rubí,1900,27/8/2022,0.0,1900,1596.0,Google ads
+27,M,Guadalajara,Rubí,1900,28/12/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Guadalajara,Rubí,1900,5/8/2022,0.0,1900,1596.0,Email
+37,F,San Luis Potosí,Rubí,1900,26/07/2022,0.0,1900,1596.0,Website
+34,F,Aguascalientes,Rubí,1900,19/7/2022,0.0,1900,1596.0,Email
+29,F,Sinaloa,Diamante,2800,27/7/2022,0.0,2800,2352.0,Facebook Ads
+30,M,Guadalajara,Rubí,1900,26/11/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Guadalajara,Rubí,1900,25/10/2022,0.0,1900,1596.0,Instagram Ads
+31,M,Zacatecas,Rubí,1900,1/7/2022,0.0,1900,1596.0,Facebook Ads
+29,M,Monterrey,Rubí,1900,23/12/2022,0.0,1900,1596.0,Instagram Ads
+26,F,Guerrero,Rubí,1900,8/12/2022,0.0,1900,1596.0,Google ads
+27,F,Guadalajara,Diamante,2800,10/7/2022,0.3,1960,1646.4,Instagram Ads
+29,M,Monterrey,Diamante,2800,9/8/2022,0.2,2240,1881.6,Facebook Ads
+28,M,Monterrey,Rubí,1900,06/07/2022,0.0,1900,1596.0,Website
+27,F,Oaxaca,Rubí,1900,16/08/2022,0.0,1900,1596.0,Facebook Ads
+30,F,Aguascalientes,Rubí,1900,05/12/2022,0.0,1900,1596.0,Website
+31,F,Veracruz,Rubí,1900,21/7/2022,0.0,1900,1596.0,Google ads
+26,F,Zacatecas,Rubí,1900,10/08/2022,0.0,1900,1596.0,Facebook
+26,F,Monterrey,Rubí,1900,22/9/2022,0.0,1900,1596.0,Instagram
+27,F,Aguascalientes,Rubí,1900,29/7/2022,0.0,1900,1596.0,Facebook Ads
+26,F,Aguascalientes,Rubí,1900,23/08/2022,0.0,1900,1596.0,Google ads
+26,F,Querétaro,Diamante,2800,02/07/2022,0.2,2240,1881.6,Instagram Ads
+26,F,Monterrey,Rubí,1900,05/09/2022,0.0,1900,1596.0,Whatsapp
+40,F,Monterrey,Diamante,2800,25/8/2022,0.1,2520,2116.8,Instagram Ads
+30,F,Jalisco,Rubí,1900,04/12/2022,0.0,1900,1596.0,Whatsapp
+37,F,Baja California Sur,Diamante,2800,28/08/2022,0.0,2800,2352.0,Instagram Ads
+27,M,Campeche,Rubí,1900,5/11/2022,0.0,1900,1596.0,Website
+25,F,Guadalajara,Rubí,1900,21/8/2022,0.0,1900,1596.0,Facebook Ads
+29,F,Veracruz,Rubí,1900,21/7/2022,0.0,1900,1596.0,Google ads
+30,F,Monterrey,Diamante,2800,5/8/2022,0.0,2800,2352.0,Website
+28,F,Monterrey,Rubí,1900,30/09/2022,0.0,1900,1596.0,Email
+26,F,Zacatecas,Rubí,1900,4/11/2022,0.0,1900,1596.0,Google ads
+28,M,Zacatecas,Rubí,1900,23/9/2022,0.0,1900,1596.0,Facebook Ads
+35,M,Zacatecas,Diamante,2800,27/07/2022,0.2,2240,1881.6,Instagram Ads
+31,F,Veracruz,Rubí,1900,8/8/2022,0.0,1900,1596.0,Google ads
+25,M,Coahuila,Diamante,2800,05/12/2022,0.0,2800,2352.0,Google ads
+30,F,Zacatecas,Rubí,1900,20/11/2022,0.0,1900,1596.0,Facebook
+29,F,Monterrey,Diamante,2800,15/07/2022,0.3,1960,1646.4,Google ads
+27,F,Baja California Sur,Rubí,1900,19/12/2022,0.0,1900,1596.0,Email
+29,F,Guadalajara,Rubí,1900,05/08/2022,0.0,1900,1596.0,Facebook Ads
+38,M,Chihuahua,Diamante,2800,15/07/2022,0.3,1960,1646.4,Google ads
+34,F,Veracruz,Rubí,1900,12/07/2022,0.0,1900,1596.0,Google ads
+37,F,Sinaloa,Diamante,2800,5/12/2022,0.2,2240,1881.6,Instagram Ads
+27,F,Querétaro,Rubí,1900,09/09/2022,0.0,1900,1596.0,Email
+36,M,Veracruz,Diamante,2800,13/09/2022,0.0,2800,2352.0,Instagram Ads
+27,F,Veracruz,Rubí,1900,5/11/2022,0.0,1900,1596.0,Website
+30,M,Jalisco,Diamante,2800,9/11/2022,0.2,2240,1881.6,Google ads
+28,M,Durango,Rubí,1900,22/10/2022,0.0,1900,1596.0,Google ads
+25,M,Sinaloa,Diamante,2800,14/9/2022,0.0,2800,2352.0,Facebook
+29,F,Guadalajara,Rubí,1900,28/12/2022,0.0,1900,1596.0,Website
+27,M,Guadalajara,Diamante,2800,26/10/2022,0.2,2240,1881.6,Website
+29,F,Guadalajara,Rubí,1900,30/12/2022,0.0,1900,1596.0,Website
+25,M,Guadalajara,Diamante,2800,3/12/2022,0.2,2240,1881.6,Facebook Ads
+33,M,Baja California,Rubí,1900,23/11/2022,0.0,1900,1596.0,Facebook Ads
+25,M,Veracruz,Rubí,1900,20/11/2022,0.0,1900,1596.0,Email
+29,F,Campeche,Diamante,2800,10/12/2022,0.3,1960,1646.4,Google ads
+26,M,Guadalajara,Diamante,2800,28/9/2022,0.0,2800,2352.0,Facebook Ads
+40,M,Guadalajara,Diamante,2800,06/07/2022,0.1,2520,2116.8,Instagram Ads
+25,F,Sinaloa,Rubí,1900,7/11/2022,0.0,1900,1596.0,Instagram Ads
+45,F,Sinaloa,Rubí,1900,23/11/2022,0.0,1900,1596.0,Whatsapp
+30,F,Veracruz,Rubí,1900,1/12/2022,0.0,1900,1596.0,Instagram Ads
+25,F,Zacatecas,Diamante,2800,13/10/2022,0.1,2520,2116.8,Instagram Ads
+30,F,Monterrey,Rubí,1900,15/10/2022,0.0,1900,1596.0,Google ads

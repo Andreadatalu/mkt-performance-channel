@@ -1,3 +1,0 @@
-CREATE DATABASE fb_ads1;
-
-

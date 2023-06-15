@@ -208,22 +208,51 @@ The vocabulary for the terms used in the database is provided in the following t
 
 
 
+
 ## Project structure
 
 Four sections make up the project as a whole. In this order, the sections are divided:
-  - Datasets (Cleanning): The process to clean the datasets, create new cvs files and connect our MySQL database is carried out 
-  - Exploratory: 
-  - Hypothesis: 
-  - Decision making:
+  - **Datasets (Cleanning)**: The process to clean the datasets, create new cvs files and connect our MySQL database is carried out.
+    
+  - **Exploratory (EDA)**: I thoroughly examined all of the datasets and came up with some insightful findings. Among additional factors, I discovered purchasing trends. Plots are used in this investigation to identify patterns. Identifying the factors that will affect the selection of the best channel was critical at this time.
+    
+  - **Hypothesis**: The hypothesis of two crucial ones is set in motion to identify the target, the chosen product, and the day of closing the sale after discovering various insights that may be used to draw conclusions.
+    
+  - **Decision making**: I'm aware of the variables to take into account when doing the analysis to determine the conclusions.
+
+      * The following factors are taken into account for 'free' platforms: conversion rate to sales, overall message volume, and profit per sale.
+      * The payment platforms took into account the volume of clicks, the platform's return on investment (ROI), and the difference between the benefit obtained per action and the cost per action.
+ 
 
 
 ## Plot visualization
 
+You may see my tableau at the following link to view informative comparative plots of the profitability of various aspects as well as the major factors that will determine the channel's success.
+
 https://public.tableau.com/app/profile/andrea.luna5472/viz/DataViewforLIA-Project/Dashboard1?publish=yes
 
-## Key learnings
+## Key learnings (Results)
+  - Instagram is the payment method that performs the best, and as a result, it generates the biggest profit for us out of all the factors considered. LIA can boost the ROI and get the most prospect clicks by raising the investment on this platform.
+    
+  - The best free platform with the best performance is email. Email has a message delivery rate that is higher than whatsApp receives, but our conversion rate is higher, indicating that we can send the message to more people and get a conversion. WhatsApp is still a viable option, though, because of the platform's high sales conversion rate, which presents a significant opportunity to expand the strategy.
+    
+- The window opens to develop methods that increase sales on Tuesday after i determined that the most frequent sale on WhatsApp closes on that day.
+
+- It is impossible to say whether a customer's age affects how much they are willing to pay for a product.
+
+- I emphasize on both the most appropriate product for each market and the markets that have the most revenue impact. As you choose to develop a new strategy and expand into new areas, take into account emerging markets as well.
+
+- We have a significant influence on how communications are received in organic channels, and a lack of attention has wasted sales conversion. Possibility to develop a strategy concentrated on various channels boosts conversion rates, resulting in increased revenue.
+
+**To access the results presentation, click the following link:**
+https://bit.ly/andreadata-LIA-analysis
 
 ## Contributes and support
 
+I'm hoping that this analytic path will aid in your exploration of the marketing team's greatest return and result-producing channels.
+My name is Andrea Luna, and I appreciate you choosing to learn with me. Please get in touch with me if you have any queries, remarks, or ideas. You are also welcome to play around with the data to gain further insights. 
 
-## Helful links
+**Join my network on LinkedIn: andrea-luna/**
+https://www.linkedin.com/in/andrea-luna-/
+
+

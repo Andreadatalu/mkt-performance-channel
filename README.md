@@ -210,6 +210,13 @@ The vocabulary for the terms used in the database is provided in the following t
 
 ## Project structure
 
+Four sections make up the project as a whole. In this order, the sections are divided:
+  - Datasets (Cleanning): The process to clean the datasets, create new cvs files and connect our MySQL database is carried out 
+  - Exploratory: 
+  - Hypothesis: 
+  - Decision making:
+
+
 ## Plot visualization
 
 https://public.tableau.com/app/profile/andrea.luna5472/viz/DataViewforLIA-Project/Dashboard1?publish=yes

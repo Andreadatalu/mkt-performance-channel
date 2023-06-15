@@ -176,6 +176,35 @@ The vocabulary for the terms used in the database is provided in the following t
 | Investment           | Total investment per campaign                             |
 | Ending               | Ending day of the campaign                                |
 
+**Performance organic channel**
+
+| Column           | Description                                     |
+| ---------------- | ----------------------------------------------- |
+| Platform         | Type of channel                                 |
+| Total_dm         | Total messages received                         |
+| Total_sales      | Total sales per channel                         |
+| Conversion_rate  | Sales conversion rate                           |
+| Profit           | Profit per channel                              |
+| Total_profit     | Total profit across all organic channels        |
+| Porc_Profit      | Percentage of profit provided by the channel    |
+| Profit_per_sale  | Profit received for each sale in the channel    |
+
+**Performance paid channel**
+
+| Column              | Description                                      |
+| ------------------- | ------------------------------------------------ |
+| Cost_impression     | Cost to pay per impression                       |
+| Profit_impression   | Profit to get per impression                     |
+| Value_impression    | Positive or negative profit obtained after subtracting the cost from the profit of the action |
+| Cost_clicks         | Cost to pay per click                            |
+| Profit_clicks       | Profit to get per click                          |
+| Value_clicks        | Positive or negative profit obtained after subtracting the cost from the profit of the action |
+| Cost_interactions   | Cost to pay per interaction                      |
+| Profit_interactions | Profit to get per interaction                    |
+| Value_interactions  | Positive or negative profit obtained after subtracting the cost from the profit of the action |
+| total_investment    | Total investment in the channel                  |
+| ROI                 | Return on Investment                             |
+
 
 
 ## Project structure

@@ -71,7 +71,7 @@ From **Decision_making**:
   - Decision_making_organic_platforms.ipynb
   - Decision_making_paid_platforms.ipynb
 
-
+The vocabulary for the terms used in the database is provided in the following tables.
 
 **Customers**
 

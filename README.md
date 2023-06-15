@@ -43,7 +43,7 @@ From **Datasets**:
 Additionally, you may find and saved the MySQL versions.
 
 From **Exploratory**:
-9 jupyter notebook with the data exploration(.ipynb):
+9 Jupyter notebook with the data exploration (.ipynb):
   - LIA_Email_MKT_exp
   - LIA_Google_Ads_exp
   - LIA_Instagram Ads_exp
@@ -70,6 +70,112 @@ From **Decision_making**:
   - performance_paid_channel.csv
   - Decision_making_organic_platforms.ipynb
   - Decision_making_paid_platforms.ipynb
+
+
+
+**Customers**
+
+| Column              | Description                                      |
+| ------------------- | ------------------------------------------------ |
+| Name                | Name of the client                               |
+| Age                 | Age of the client                                |
+| Gender              | Gender of the client                             |
+| State               | State where the client lives                      |
+| Product             | Type of product                                  |
+| Price               | Price of the product                             |
+| Promotion           | If the client received a promotion (10%, 20%, 30%)|
+| Final price         | Final price after the promotion                   |
+| Profit              | Final benefit after business taxes                |
+| Sales_channel       | Channel through which the sale was completed      |
+
+**Email**
+
+| Column                        | Description                                                    |
+| ----------------------------- | -------------------------------------------------------------- |
+| Email_ID                      | ID given to recognize the email address                         |
+| Email_Type                    | Type of client list                                            |
+| Subject_Hotness_Score         | Score indicating the popularity of the matter                   |
+| Email_Source_Type             | Label indicating the source from which the email was generated   |
+| Customer_Location             | State where the client is located                               |
+| Total_Past_Communications     | Total number of previous emails sent                            |
+| Time_Email_sent_Category      | Months since the last email was sent                            |
+| Total_Links                   | Number of links accessed by the client in our website           |
+| Total_Images                  | Number of images seen by the client in our website              |
+
+**Website**
+
+| Column           | Description                                             |
+| ---------------- | ------------------------------------------------------- |
+| website_visits   | Number of users that visited the website on a given day  |
+| total_visits     | Cumulative sum of visits to the website until a given day |
+| Avg_time         | Average time spent on the website per user               |
+| Num_page         | Average number of pages seen per user on the website     |
+| rebot_rate       | Website bounce rate                                     |
+| medium_source    | Channel that directed the user to the website            |
+| recurring visits | Users who visit the website for the second or more times |
+| users            | Gender of the user (if specified)                        |
+
+**WhatsApp**
+
+| Column         | Description                                         |
+| -------------- | --------------------------------------------------- |
+| chat_started   | Date the user started the chat                       |
+| chat_ended     | Date the last message was sent                       |
+| Active_day     | Active days in the chat                             |
+| Sell_complete  | Indicates whether the sale was accomplished         |
+| Chat_time      | Time spent chatting with the prospect                |
+| Share_image    | Indicates whether an image was sent to the user      |
+| Share_PDF      | Indicates whether a PDF file was sent to the user    |
+| Share_link     | Indicates whether a website link was sent to the user|
+| Voice_message  | Indicates whether a voice message was sent to the user|
+| Product        | Product that was bought (if any)                     |
+
+**Instagram & Facebook**
+
+| Column               | Description                                               |
+| -------------------- | --------------------------------------------------------- |
+| Daily_followers      | Number of followers gained per day                         |
+| Total_followers      | Cumulative sum of followers                               |
+| Posts_reach          | Reach of the daily posts                                   |
+| Share                | Total content shared per day                               |
+| Impressions          | Total impressions of the content per day                   |
+| Clicks               | Total clicks on the content per day                        |
+| Reactions            | Type of reactions received                                 |
+| Direct Messages      | Total number of received messages per day                  |
+| Positive Comments    | Cumulative sum of positive comments received per day       |
+| Negative Comment     | Cumulative sum of negative comments received per day
+| Stories_reach        | Total reach of the daily stories                           |
+
+**Google Ads**
+
+| Column               | Description                                               |
+| -------------------- | --------------------------------------------------------- |
+| lia_campaign_id      | Ad group ID                                               |
+| google_campaign_id   | Ad ID within Ad group campaign                            |
+| age                  | Age range of the campaign target                          |
+| gender               | Gender of the ad target                                   |
+| Impressions          | Total impressions by ad                                   |
+| Engagement           | Total engagement by ad                                    |
+| Interactions         | Total interactions by ad                                  |
+| CTR                  | Click-through rate                                        |
+| Cost_Conversion      | Cost per conversion                                       |
+| Spent                | Total investment by ad                                    |
+
+**Instagram & Facebook Ads**
+
+| Column               | Description                                               |
+| -------------------- | --------------------------------------------------------- |
+| Budget               | Budget available for the campaign                          |
+| Type budget          | How the budget will be spent                              |
+| Results              | Total results per campaign                                |
+| Results description  | Type of result                                            |
+| Reach                | Total reach by campaign                                   |
+| Impressions          | Total impressions by campaign                             |
+| Clicks               | Total clicks by campaign                                  |
+| Cost per results     | Amount paid per each result                               |
+| Investment           | Total investment per campaign                             |
+| Ending               | Ending day of the campaign                                |
+
 
 
 ## Project structure

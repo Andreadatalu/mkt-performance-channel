@@ -6,7 +6,8 @@ The business is called Lia, and they specialize in selling digital wedding invit
 The analysis will lead us through the nine provided databases. where we determine which marketing channel performs the best.
 
 ### What marketing platforms are employed? 
-- Email, Google, Facebook, Instagram, and Whatsapp Business
+- Email, Google, Facebook, Instagram, and Whatsapp Business.
+
 We must distinguish between paid channels and unpaid channels due to the performance differences between the channels when a budget is involved.
 
 - The following channels are regarded as being unpaid: Facebook, Instagram, Google, Email, and Whatsapp Business.

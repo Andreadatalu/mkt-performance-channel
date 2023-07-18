@@ -214,7 +214,7 @@ The vocabulary for the terms used in the database is provided in the following t
 
 Four sections make up the project as a whole. In this order, the sections are divided:
 
-  - **Datasets (Cleanning)**: The process to clean the datasets, create new cvs files and connect our MySQL database is carried out.
+  - **Datasets (Cleaning)**: The process to clean the datasets, create new cvs files and connect our MySQL database is carried out.
     
   - **Exploratory (EDA)**: I thoroughly examined all of the datasets and came up with some insightful findings. Among additional factors, I discovered purchasing trends. Plots are used in this investigation to identify patterns. Identifying the factors that will affect the selection of the best channel was critical at this time.
     
